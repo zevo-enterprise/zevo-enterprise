@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 
 ## The Zevo Team Global Collaboration™
 
----
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/aa53be63-f31b-420f-bad0-2f4bb13ceab1" />
 
 ---
