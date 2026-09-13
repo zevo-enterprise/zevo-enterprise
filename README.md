@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## The Zevo Team Global Collaboration
+## The Zevo Team Global Collaboration™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1cbcd36a-76a6-4b97-ad36-6897cb1cfe05" />
