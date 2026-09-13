@@ -6,6 +6,8 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6b4b4ee3-662a-404d-9342-edede3a83fd0" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb2705c4-9bd5-49e4-8e58-55e7bd819436" />
+
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
