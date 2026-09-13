@@ -8,6 +8,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb2705c4-9bd5-49e4-8e58-55e7bd819436" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/931e2e37-507c-4ba4-9a9e-77809d95e9df" />
+
+---
+
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## The Zevo Team Global Collaboration
