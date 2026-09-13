@@ -52,3 +52,9 @@ Here are some ideas to get you started:
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6a372ca2-ab12-42f1-9766-fbe1581fac13" />
 
 ---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4fd02634-ecba-4a91-8adf-995d2d3d55b4" />
+
+---
+
+## The Zevo Team Projects Global Chapter™
