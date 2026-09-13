@@ -1,3 +1,7 @@
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a7342550-8e4a-47ef-b434-59b21a79603d" />
+
+---
+
 ## The Zevo Technologies Enterprise Company™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5de79ff3-c2bb-4522-beb2-b8b45458f879" />
