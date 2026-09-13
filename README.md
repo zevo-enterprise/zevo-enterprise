@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5de79ff3-c2bb-4522-beb2-b8b45458f879" />
+
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
