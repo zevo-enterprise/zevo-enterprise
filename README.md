@@ -58,3 +58,9 @@ Here are some ideas to get you started:
 ---
 
 ## The Zevo Team Projects Global Chapter™
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/55fca72e-3b6b-4944-9650-5c67eeb6eb6f" />
+
+---
