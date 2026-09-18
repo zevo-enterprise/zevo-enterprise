@@ -1,6 +1,6 @@
 ## Zevo™ AI-Driven Smart Home Server Station ⚡
 
-<h3>Advanced hardware telemetry displayed on Front-Panel</h3>
+<h3>Advanced hardware telemetry displayed on Front-Panel 💬</h3>
 
 ---
 
