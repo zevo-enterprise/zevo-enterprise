@@ -1,3 +1,8 @@
+## Zevo Smart Device Foldable ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3663c635-998d-412e-961d-b4e01d272d9a" />
+
+
 ## Zevo Autonomous Coder Application ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dffa791d-7941-402d-97d3-b69333022fcc" />
