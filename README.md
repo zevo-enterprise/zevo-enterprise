@@ -2,7 +2,7 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9f6636de-b3fd-41b8-9f60-04e4d864d0b6" />
 
-## Zevo Smart Device Foldable and Non-Foldable ⚡
+## Zevo Smart Foldable and Non-Foldable Devices ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3663c635-998d-412e-961d-b4e01d272d9a" />
 
