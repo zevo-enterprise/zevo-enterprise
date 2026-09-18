@@ -1,4 +1,8 @@
-## Hi there 👋
+## Zevo Autonomous Coder Application ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dffa791d-7941-402d-97d3-b69333022fcc" />
+
+---
 
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
