@@ -1,6 +1,6 @@
 ## Zevo Smart Kitchen Devices ⚡
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9f6636de-b3fd-41b8-9f60-04e4d864d0b6" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/42be6564-83e9-4f68-a360-7bd512537be3" />
 
 ## Zevo Smart Foldable and Non-Foldable Devices ⚡
 
