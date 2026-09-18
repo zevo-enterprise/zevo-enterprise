@@ -1,4 +1,4 @@
-## Zevo AI-Driven Smart Server Home Station ⚡
+## Zevo™ AI-Driven Smart Server Home Station ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/576760f5-2e7e-40e1-b429-707aed20553d" />
 
