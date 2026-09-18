@@ -2,6 +2,8 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/576760f5-2e7e-40e1-b429-707aed20553d" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a958b329-7afd-47fd-8066-910c61e0a97f" />
+
 
 ## Zevo Smart Kitchen Devices ⚡
 
