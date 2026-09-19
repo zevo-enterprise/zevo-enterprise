@@ -14,6 +14,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ec595732-bad1-46a8-a211-ad1e9793f6a7" />
 
+## Zevo AI-Driven Medical Mascot™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/acfa56eb-a9a8-43b3-86eb-7923b1249053" />
+
 ## Zevo AI-Driven Cloud Mascot™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/102d437c-2ea0-4537-93a4-eafaa7cde7e1" />
