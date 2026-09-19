@@ -1,6 +1,10 @@
-## Zevo AI-Driven Mascot™
+## Zevo AI-Driven Root Mascot™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3b250ee7-ed6d-4843-a251-c2b6b55f2999" />
+
+## Zevo AI-Driven Watchdog Mascot™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/aa962499-d49b-4c7a-a111-8dc137e198b7" />
 
 
 <!--
