@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67888cba-bb82-46d8-93d4-8329d4fc0bb4" />
 
-## Zevo Chat AI Friendly™ - Talk Between Friends and AI Friendly ⚡
+## Zevo AI-Driven Taxi Friendly™ - Custom Dashboard ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6cf7086f-f74e-4682-bc89-f753735967d3" />
+
+## Zevo AI-Driven Chat Friendly™ - Talk Between Friends and AI Friendly ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7006c28b-7a1b-4860-a295-c38106e677eb" />
 
-## Zevo Autonomous Coder Application™ ⚡
+## Zevo AI-Driven Coder Application™ ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dffa791d-7941-402d-97d3-b69333022fcc" />
 
@@ -35,7 +39,7 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/506b3c35-d44b-4b59-b20c-48c57ba734b9" />
 
-## Zevo™ AI-Driven Smart Cloud Custer Super Servers ⚡
+## Zevo AI-Driven Smart Cloud Custer Super Servers™ ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/858864f5-6c45-49b9-8fb4-f65296e98eb2" />
 
