@@ -14,6 +14,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ec595732-bad1-46a8-a211-ad1e9793f6a7" />
 
+## Zevo AI-Driven Cloud Mascot™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/102d437c-2ea0-4537-93a4-eafaa7cde7e1" />
+
 ## Zevo AI-Driven Miner Mascot™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c15e4673-63dc-490b-8aa1-eb00064887c5" />
@@ -22,9 +26,9 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8299a720-5b2d-4c52-844f-d46b3e241ab7" />
 
-## Zevo AI-Driven Cloud Mascot™
+## Zevo AI-Driven Music Mascot™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/102d437c-2ea0-4537-93a4-eafaa7cde7e1" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ee871d7b-46f1-4856-86b6-545c57e3a06f" />
 
 ---
 
