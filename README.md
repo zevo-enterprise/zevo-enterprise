@@ -30,6 +30,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ee871d7b-46f1-4856-86b6-545c57e3a06f" />
 
+## Zevo AI-Driven VLE Mascot™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/937e5c2f-951e-4355-8c31-46ee6220cdd0" />
+
 ---
 
 <!--
