@@ -2,6 +2,8 @@
 
 <h3>Advanced hardware telemetry displayed on Front-Panel</h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7a12a7ae-8a64-4454-aa3a-8e8d47c268fc" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/506b3c35-d44b-4b59-b20c-48c57ba734b9" />
 
 ## Zevo™ AI-Driven Smart Cloud Custer Super Servers ⚡
