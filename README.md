@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## Zevo AI-Driven Global Franchise Network - Custom Dashboard™ ⚡
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a553d10-520b-4e73-b618-ee3d206a5621" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ebec691-fa76-40bd-9605-5205c7ce25cf" />
 
 ## Zevo AI-Driven Mounted Plan System™ ⚡
