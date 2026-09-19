@@ -1,3 +1,7 @@
+## Zevo™ AI-Driven Cloud Services Dashboard ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/64dbb46a-6c49-413a-a2cd-273d3b1b7920" />
+
 ## Zevo™ AI-Driven Smart Super Servers New Generation Cluster ⚡
 
 <h3>Advanced hardware telemetry displayed on Front-Panel</h3>
