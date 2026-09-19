@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/900430b1-61de-4526-9f82-6202c9c0ed99" />
 
+## Zevo Global Franchise Network Dashboard™ ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ebec691-fa76-40bd-9605-5205c7ce25cf" />
+
 ## Zevo AI-Driven Taxi Driver Friendly™ ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88885a13-d691-45aa-baea-a2ecb14ff101" />
