@@ -10,6 +10,9 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/aa962499-d49b-4c7a-a111-8dc137e198b7" />
 
+## Zevo AI-Driven Users Mascot™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ec595732-bad1-46a8-a211-ad1e9793f6a7" />
 
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
