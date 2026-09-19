@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67888cba-bb82-46d8-93d4-8329d4fc0bb4" />
 
+## Zevo AI-Driven Mounted Plan System™ ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/900430b1-61de-4526-9f82-6202c9c0ed99" />
+
 ## Zevo AI-Driven Taxi Driver Friendly™ ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88885a13-d691-45aa-baea-a2ecb14ff101" />
