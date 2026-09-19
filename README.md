@@ -13,19 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Zevo™ AI-Driven Cloud Services - Custom Dashboard ⚡
+## Zevo AI-Driven Cloud Services™ - Custom Dashboard ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67888cba-bb82-46d8-93d4-8329d4fc0bb4" />
 
-## Zevo Chat AI Application - Talk Between AI and Friends ⚡
+## Zevo Chat AI Application™ - Talk Between AI and Friends ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7006c28b-7a1b-4860-a295-c38106e677eb" />
 
-## Zevo Autonomous Coder Application ⚡
+## Zevo Autonomous Coder Application™ ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dffa791d-7941-402d-97d3-b69333022fcc" />
 
-## Zevo™ AI-Driven Smart Super Servers New Generation Cluster ⚡
+## Zevo AI-Driven Smart Super Servers New Generation Cluster™ ⚡
 
 <h3>Advanced hardware telemetry displayed on Front-Panel</h3>
 
