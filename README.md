@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67888cba-bb82-46d8-93d4-8329d4fc0bb4" />
 
+---
+
 ## Zevo AI-Driven Taxi Driven Friendly™ ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea2ec041-6b48-4f12-a5be-ce8e756debdb" />
 
 ## Zevo AI-Driven Taxi Carplay Friendly™ - Custom Dashboard ⚡
-
----
 
 <h3> Native Taxi Carplay Device within Store Apps, 5G, Satellite, WI-FI, Bluetooth and GPS </h3>
 
