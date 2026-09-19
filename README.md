@@ -1,3 +1,7 @@
+## Zevo™ AI-Driven Smart Home Server Workstation Dual Power ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4cd7ec77-2109-416b-8351-ea27a002e70e" />
+
 ## Zevo™ AI-Driven Smart Home Server Workstation ⚡
 
 <h3>Advanced hardware telemetry displayed on Front-Panel 💬</h3>
