@@ -1,4 +1,4 @@
-## Zevo AI-Driven Virtual Agent Avatar™ - Custom Avatar Dashboard ⚡
+## Zevo AI Virtual Agent Animated™ - Custom Avatar Dashboard ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7e405f2d-3b5c-41a9-9d75-a66b26db054d" />
 
