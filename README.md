@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67888cba-bb82-46d8-93d4-8329d4fc0bb4" />
 
-## Zevo Friendly Chat AI™ - Talk Between AI and Friends ⚡
+## Zevo Chat AI Friendly™ - Talk Between Friends and AI Friendly ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7006c28b-7a1b-4860-a295-c38106e677eb" />
 
