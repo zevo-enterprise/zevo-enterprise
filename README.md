@@ -1,8 +1,10 @@
-## Zevo™ AI-Driven Smart Home Server Station ⚡
+## Zevo™ AI-Driven Smart Home Server Workstation ⚡
 
 <h3>Advanced hardware telemetry displayed on Front-Panel 💬</h3>
 
 ---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5c967bea-38d2-4d94-8a4c-9b6d1e4c5003" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d434068f-6b3f-43cc-b4e2-31dcdad94065" />
 
