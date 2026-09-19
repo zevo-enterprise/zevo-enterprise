@@ -1,3 +1,8 @@
+## Zevo Mascot™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3b250ee7-ed6d-4843-a251-c2b6b55f2999" />
+
+
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
