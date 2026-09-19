@@ -1,3 +1,7 @@
+## Zevo AI-Driven Virtual Agent™ - Custom Avatar Dashboard ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7e405f2d-3b5c-41a9-9d75-a66b26db054d" />
+
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
