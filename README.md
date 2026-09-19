@@ -1,5 +1,9 @@
 ## Zevo™ AI-Driven Smart Cloud Custer Super Servers ⚡
 
+<h3>Advanced hardware telemetry displayed on Front-Panel</h3>
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/75d00bc3-54d9-4b9d-958e-c7623ed763a0" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4be5ee0d-5616-4dcf-8091-0e27d2a67aa6" />
@@ -21,10 +25,6 @@
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4cd7ec77-2109-416b-8351-ea27a002e70e" />
 
 ## Zevo™ AI-Driven Smart Home Server Workstation ⚡
-
-<h3>Advanced hardware telemetry displayed on Front-Panel</h3>
-
----
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2c2a44d9-9aee-42f1-8d88-259a37af4ceb" />
 
