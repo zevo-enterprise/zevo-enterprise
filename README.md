@@ -1,8 +1,10 @@
-## Zevo™ AI-Driven Smart Cloud Custer Super Servers ⚡
+## Zevo™ AI-Driven Smart Super Servers New Generation Cluster ⚡
 
 <h3>Advanced hardware telemetry displayed on Front-Panel</h3>
 
----
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/506b3c35-d44b-4b59-b20c-48c57ba734b9" />
+
+## Zevo™ AI-Driven Smart Cloud Custer Super Servers ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/858864f5-6c45-49b9-8fb4-f65296e98eb2" />
 
