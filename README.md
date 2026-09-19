@@ -1,3 +1,7 @@
+## Zevo™ AI-Driven Smart Cloud Server ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7171b4f4-3f6f-496f-8986-cc212e6d316b" />
+
 ## Zevo™ AI-Driven Smart Home Server Workstation Dual Power ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4cd7ec77-2109-416b-8351-ea27a002e70e" />
