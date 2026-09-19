@@ -1,4 +1,4 @@
-## Zevo™ AI-Driven Cloud Services Dashboard ⚡
+## Zevo™ AI-Driven Cloud Services - Custom Dashboard ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67888cba-bb82-46d8-93d4-8329d4fc0bb4" />
 
