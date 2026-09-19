@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## Zevo AI-Driven Taxi Friendly™ - Custom Dashboard ⚡
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f57bcfbb-7643-4965-8e4b-a6a27056d2a1" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6cf7086f-f74e-4682-bc89-f753735967d3" />
 
 ## Zevo AI-Driven Chat Friendly™ - Talk Between Friends and AI Friendly ⚡
