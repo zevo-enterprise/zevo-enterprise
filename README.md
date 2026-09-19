@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Native Taxi Carplay Device within Store Apps, 5G, Satellite, WI-FI, And Bluetooth </h3>
+<h3> Native Taxi Carplay Device within Store Apps, 5G, Satellite, WI-FI, Bluetooth and GPS </h3>
 
 ---
 
