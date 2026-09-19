@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67888cba-bb82-46d8-93d4-8329d4fc0bb4" />
 
+## Zevo AI-Driven Global Franchise Network - Custom Dashboard™ ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ebec691-fa76-40bd-9605-5205c7ce25cf" />
+
 ## Zevo AI-Driven Mounted Plan System™ ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/900430b1-61de-4526-9f82-6202c9c0ed99" />
