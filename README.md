@@ -1,5 +1,7 @@
 ## Zevo™ AI-Driven Smart Cloud Custer Super Servers ⚡
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1b1479c1-0236-42fb-af28-7c12ffee3de6" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/453e4501-a7e6-47dd-b12e-3502a0994b97" />
 
 ## Zevo™ AI-Driven Smart Cloud Server ⚡
