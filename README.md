@@ -1,4 +1,4 @@
-## Zevo Mascot™
+## Zevo AI-Driven Mascot™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3b250ee7-ed6d-4843-a251-c2b6b55f2999" />
 
