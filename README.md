@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 ## Zevo AI-Driven Taxi Carplay Friendly™ - Custom Dashboard ⚡
 
+---
+
 <h3> Native Taxi Carplay Device within Store Apps, 5G, Satellite, WI-FI, And Bluetooth </h3>
+
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7cb3d4af-6bdd-4fd6-a9ca-4bd1f0faadcf" />
 
