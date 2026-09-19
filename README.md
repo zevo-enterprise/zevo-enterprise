@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Zevo AI-Driven Taxi Driven Friendly™ ⚡
+## Zevo AI-Driven Taxi Driver Friendly™ ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea2ec041-6b48-4f12-a5be-ce8e756debdb" />
 
