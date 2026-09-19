@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67888cba-bb82-46d8-93d4-8329d4fc0bb4" />
 
+## Zevo AI-Driven Taxi Carplay Friendly™ - Custom Dashboard ⚡
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d45ac85c-aa04-44ff-b889-c68737341274" />
+
 ## Zevo AI-Driven Taxi Friendly™ - Custom Dashboard ⚡
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f57bcfbb-7643-4965-8e4b-a6a27056d2a1" />
