@@ -1,5 +1,7 @@
 ## Zevo™ AI-Driven Smart Cloud Server ⚡
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/745b5686-3fab-4250-b10e-90f4e6bc0a33" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f7c2e8a7-f482-4ffd-97b7-3f5395179c5a" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7171b4f4-3f6f-496f-8986-cc212e6d316b" />
