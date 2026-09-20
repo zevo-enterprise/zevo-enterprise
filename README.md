@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ## Zevo AI-Driven Plugin Team Collaboration™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56c6b32-a48e-41e6-a27c-e3358c4dea93" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a0d99262-360f-483a-b0cc-9a4831ce4ac0" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c8ec06de-a652-4a7d-9d4a-25c766074254" />
