@@ -1,3 +1,7 @@
+## The strength sides of the universe
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9ddfaff-a2d6-4127-b6e0-cb23526af095" />
+
 ## Davada Family - Zevo Technologies Enterprise™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
