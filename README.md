@@ -1,12 +1,8 @@
-## The strength sides of the universe
+## The strength sides of the universe power
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9ddfaff-a2d6-4127-b6e0-cb23526af095" />
 
-## Davada Family - Zevo Technologies Enterprise™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
+<h3>NOTE: ADONAI, THE RIGHT GREEN SIDE OF THE FORCE OF THE UNIVERSE, HAS NO CONNECTION WITH PEOPLE WHO ARE OPPOSITORS TO ITS CONSTITUTION OF THE TORAH, THAT IS, THERE ARE NO REPRESENTATIVES OF ADONAI IN GLOBAL POLITICS, ALL OF THEM ARE FAVORED BY THE LEFT SIDES OF THE FORCE, THE RA-MAN, BY DAVADA BENI ELOHIM</h3>
 
 ---
 
@@ -24,6 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Davada Family - Zevo Technologies Enterprise™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
 
 ## Zevo Technologies Enterprise Company™
 
