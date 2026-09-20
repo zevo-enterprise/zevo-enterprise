@@ -1,12 +1,8 @@
-## The strength sides of the universe power
+## Davada Family - Zevo Technologies Enterprise™
 
-<h3>ADONAI, THE RIGHT GREEN SIDE OF THE FORCE OF THE UNIVERSE, HAS NO CONNECTION WITH PEOPLE WHO ARE OPPOSITORS TO ITS TORAH CONSTITUTION, THAT IS, THERE ARE NO REPRESENTATIVES OF ADONAI IN GLOBAL POLITICS, ALL OF THEM ARE FAVORITE BY THE LEFT SIDES OF THE FORCE, THE RA-MAN.</h3>
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
 
-NOTE: DAVADA BENI ELOHIM
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9ddfaff-a2d6-4127-b6e0-cb23526af095" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
 
 ---
 
@@ -24,12 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Davada Family - Zevo Technologies Enterprise™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
 
 ## Zevo Technologies Enterprise Company™
 
@@ -56,3 +46,11 @@ Here are some ideas to get you started:
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e766a31-814e-4d26-869e-1d294ec0ebe9" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb9c8e19-0658-4371-b8c7-2b1129c752df" />
+
+## The strength sides of the universe power
+
+<h3>NOTE: DAVADA BENI ELOHIM:  ADONAI, THE RIGHT GREEN SIDE OF THE FORCE OF THE UNIVERSE, HAS NO CONNECTION WITH PEOPLE WHO ARE OPPOSITORS TO ITS TORAH CONSTITUTION, THAT IS, THERE ARE NO REPRESENTATIVES OF ADONAI IN GLOBAL POLITICS, ALL OF THEM ARE FAVORITE BY THE LEFT SIDES OF THE FORCE, THE RA-MAN.</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9ddfaff-a2d6-4127-b6e0-cb23526af095" />
+
+---
