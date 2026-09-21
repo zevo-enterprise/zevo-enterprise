@@ -1,3 +1,7 @@
+## Davada Singer - River Play Eurasia™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c08943e1-1eab-4305-8551-216e31eee27c" />
+
 ## Davada Family - Zevo Technologies Enterprise™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
