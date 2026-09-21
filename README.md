@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ## Zevo Coin - Cryptographic Reference Plastic™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5aab9174-1524-4f38-9d77-5e9888b700a8" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/adc2c303-3b1b-41af-8fa4-c0c229db98e3" />
 
 ## Zevo Pitstop Ecosystem Platform™
