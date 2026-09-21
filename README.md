@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
 
-## Zevo AI-Drive Heart Team™
+## Zevo AI-Drive CPU Heart Team™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88445c7a-dc5d-4f64-ba60-bb4ba5c0af32" />
 
