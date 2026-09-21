@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3>The broom is the Nathanael Banach Elohim, the China Blue, if you have any doubts, talk to him about the dimension of the issue.</h3>
+<h3>The broom is the Nathanael Banach Elohim, the China Blue, if you have any doubts, talk to him about the Question Dimension.</h3>
 
 ---
 
