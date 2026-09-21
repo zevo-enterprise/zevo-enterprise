@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ---
 ---
 
-## The strength sides of the universe power (NOTE - DAVADA BENI ELOHIM)
+## The strength sides of the universe power 
 
 <h3>ADONAI, THE RIGHT GREEN SIDE OF THE FORCE OF THE UNIVERSE, HAS NO CONNECTION WITH PEOPLE WHO ARE OPPOSITORS TO ITS TORAH CONSTITUTION, THAT IS, THERE ARE NO REPRESENTATIVES OF ADONAI IN GLOBAL POLITICS, ALL OF THEM ARE FAVORITE BY THE LEFT SIDES OF THE FORCE, THE RA-MAN.</h3>
 
@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 
 ---
 
-<h3>The broom is the Natanael Banach Elohim, the China Blue, if you have any doubts, talk to him about the dimension of the issue.</h3>
+<h3>The broom is the Nathanael Banach Elohim, the China Blue, if you have any doubts, talk to him about the dimension of the issue.</h3>
 
 ---
+
+<h3>(NOTE - DAVADA BENI ELOHIM) </h3>
