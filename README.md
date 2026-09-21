@@ -58,3 +58,7 @@ Here are some ideas to get you started:
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9ddfaff-a2d6-4127-b6e0-cb23526af095" />
 
 ---
+
+<h3>The broom is the Natanael Banach Elohim, the China Blue, if you have any doubts, talk to him about the dimension of the issue.</h3>
+
+---
