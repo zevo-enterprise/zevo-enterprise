@@ -6,6 +6,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
 
+## Daua Security Forces - Military Physical Training™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/da661a3c-80c8-4aac-bd5a-d64c5bff84ee" />
+
 ## Daua Security Forces - Authorized Weapons, Community Defense™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/64e253ed-419e-4d1a-8f0d-9028cfd14852" />
