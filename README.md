@@ -1,11 +1,3 @@
-## Davada Family - Zevo Technologies Enterprise™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5f3db9d5-a344-46ce-8e1d-4e22d6712d41" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e26b3eb2-b0c0-4438-8142-5ad92d7db7cf" />
-
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
