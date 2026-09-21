@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
 
-## Zevo Public School Team™
+## Zevo AI-Driven Mascot Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8d7eb6f9-2db0-4e17-b9c6-58dcc39f73a5" />
+
+## Zevo AI-Driven VoIP Cloud PBX Platform Team™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fdcc97f-4c7b-4bbd-a868-32c60e4e1fc1" />
 
