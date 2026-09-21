@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
 
+## Zevo Smart Miner™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c7a6f71-b1b8-4a6d-a40c-bc50163605d8" />
+
 ## Zevo Coin - Cryptographic Reference Plastic™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5aab9174-1524-4f38-9d77-5e9888b700a8" />
