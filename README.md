@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6201cf21-1aab-4774-aa90-cbebbfe7ffa9" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7a7a5fd7-f125-412d-9ee6-f85c71a8c128" />
+
 ## Zevo Technologies Enterprise Company™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/89b7201d-0eaa-47ed-a6ee-da33a78c9212" />
