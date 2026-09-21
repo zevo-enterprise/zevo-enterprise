@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
 
-## Zevo Security Force Team - Paintball Training™
+## Zevo Public School Team™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/965e770d-bc16-4fbd-884f-160af72a8969" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fdcc97f-4c7b-4bbd-a868-32c60e4e1fc1" />
 
 ## Zevo AI-Drive CPU Heart Team™
 
@@ -80,6 +80,10 @@ Here are some ideas to get you started:
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e766a31-814e-4d26-869e-1d294ec0ebe9" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb9c8e19-0658-4371-b8c7-2b1129c752df" />
+
+## Zevo Security Force Team - Paintball Training™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/965e770d-bc16-4fbd-884f-160af72a8969" />
 
 ---
 ---
