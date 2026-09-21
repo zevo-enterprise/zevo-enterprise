@@ -27,9 +27,13 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/65572d8a-0999-4281-bea5-25315f25270e" />
 
-## Zevo AI-Driven Meta Cloud Ecosystem Platform™
+## Zevo AI-Driven Meta Cloud Ecosystem Platform Team™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/116f719b-b1d0-49fd-a52f-d6c43605ed54" />
+
+## Zevo AI-Driven Messenger Chat Platform Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0c74bb0e-dd3b-4751-a2eb-3e0f15ba1c62" />
 
 ## Zevo AI-Driven CEO Management Platform Team™
 
