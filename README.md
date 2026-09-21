@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 ## Zevo AI-Driven Neural Smarting Application by Zevo Team™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1237e056-d045-4bc2-898e-457ee765aa9a" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/277a144a-4016-4e01-88fa-5e3a50391798" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ed268365-9940-47d3-9c18-2e1f1acf9477" />
