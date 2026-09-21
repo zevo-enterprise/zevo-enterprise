@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 ## Zevo AI-Driven Visual Studio DevSecOps Platform Team™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eb352886-a9d7-40a3-bb18-f09156452507" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e492964-14ae-46f8-aa9e-9bee6dd6dc22" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fce36da3-9f8f-4dd9-af14-195d29f960d9" />
