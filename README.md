@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0c74bb0e-dd3b-4751-a2eb-3e0f15ba1c62" />
 
-## Zevo AI-Driven Visual Studio Platform Team™
+## Zevo AI-Driven Visual Studio DevSecOps Platform Team™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5e20caf3-9796-403c-826e-e9ef55510790" />
 
