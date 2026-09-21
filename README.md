@@ -6,7 +6,7 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
 
-## Security Forces, Authorized Weapons, Community Defense™
+## Security Forces - Authorized Weapons, Community Defense™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9a5c1b7d-c37a-4f91-aa59-b30bf6d4977a" />
 
