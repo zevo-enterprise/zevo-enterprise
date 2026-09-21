@@ -31,9 +31,13 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/65572d8a-0999-4281-bea5-25315f25270e" />
 
-## Zevo AI-Driven Mascot Team™
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/965e770d-bc16-4fbd-884f-160af72a8969" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
+
+## Zevo Security Force Team - Paintball Training™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/965e770d-bc16-4fbd-884f-160af72a8969" />
 
 ## Zevo AI-Drive CPU Heart Team™
 
