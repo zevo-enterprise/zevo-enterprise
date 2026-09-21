@@ -39,17 +39,19 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8d7eb6f9-2db0-4e17-b9c6-58dcc39f73a5" />
 
-## Zevo Public School Team™
+## Zevo AI-Driven Plugin Team Collaboration™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fdcc97f-4c7b-4bbd-a868-32c60e4e1fc1" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56c6b32-a48e-41e6-a27c-e3358c4dea93" />
 
-## Zevo AI-Drive CPU Heart Team™
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a0d99262-360f-483a-b0cc-9a4831ce4ac0" />
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88445c7a-dc5d-4f64-ba60-bb4ba5c0af32" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c8ec06de-a652-4a7d-9d4a-25c766074254" />
 
-## Zevo Cyborg Protected Team™
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0720da74-fcce-454f-a0e3-4c3ba211aa88" />
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e766a31-814e-4d26-869e-1d294ec0ebe9" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb9c8e19-0658-4371-b8c7-2b1129c752df" />
 
 ## Zevo Coin Smart Miner™
 
@@ -67,19 +69,17 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/038c8f2e-4e15-4c34-89a4-b831a33ed8d2" />
 
-## Zevo AI-Driven Plugin Team Collaboration™
+## Zevo Public School Team™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56c6b32-a48e-41e6-a27c-e3358c4dea93" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fdcc97f-4c7b-4bbd-a868-32c60e4e1fc1" />
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a0d99262-360f-483a-b0cc-9a4831ce4ac0" />
+## Zevo AI-Drive CPU Heart Team™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c8ec06de-a652-4a7d-9d4a-25c766074254" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88445c7a-dc5d-4f64-ba60-bb4ba5c0af32" />
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0720da74-fcce-454f-a0e3-4c3ba211aa88" />
+## Zevo Cyborg Protected Team™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e766a31-814e-4d26-869e-1d294ec0ebe9" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb9c8e19-0658-4371-b8c7-2b1129c752df" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
 
 ---
 ---
