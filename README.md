@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71693838-d36b-4efa-b2b0-2dae008b8c33" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/038c8f2e-4e15-4c34-89a4-b831a33ed8d2" />
+
 ## Zevo AI-Driven Meta Cloud Ecosystem Platform™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/116f719b-b1d0-49fd-a52f-d6c43605ed54" />
