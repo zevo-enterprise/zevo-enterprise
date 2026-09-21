@@ -2,7 +2,9 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
 
-## Davada Elohim "Zaita" and Mariana Zaita - Self Defense Training™
+## Davada and Family - Self Defense Training™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c7f2f5d-73c7-470a-9cc2-8492d9e6fd98" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87bcc6d1-1b0a-49f2-b991-05d85bb982e7" />
 
