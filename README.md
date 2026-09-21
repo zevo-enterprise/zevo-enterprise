@@ -8,20 +8,6 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
 
-## Davada Family - Authorized Weapons, Self Defense™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
-
-## Daua Security Forces - Military Physical Training™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/da661a3c-80c8-4aac-bd5a-d64c5bff84ee" />
-
-## Daua Security Forces - Authorized Weapons, Community Defense™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/64e253ed-419e-4d1a-8f0d-9028cfd14852" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9a5c1b7d-c37a-4f91-aa59-b30bf6d4977a" />
-
 ---
 
 <!--
@@ -38,6 +24,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Davada Family - Authorized Weapons, Self Defense™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
+
+## Daua Security Forces - Military Physical Training™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/da661a3c-80c8-4aac-bd5a-d64c5bff84ee" />
+
+## Daua Security Forces - Authorized Weapons, Community Defense™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/64e253ed-419e-4d1a-8f0d-9028cfd14852" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9a5c1b7d-c37a-4f91-aa59-b30bf6d4977a" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6201cf21-1aab-4774-aa90-cbebbfe7ffa9" />
 
 ## Zevo Technologies Enterprise Company™
 
