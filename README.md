@@ -2,9 +2,11 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
 
-## Davada and Mariana - Self Defense Training™
+## Davada Elohim and Mariana Zaita - Self Defense Training™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87bcc6d1-1b0a-49f2-b991-05d85bb982e7" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2b409e3b-8f0a-4fc6-879d-cf1a9970d89a" />
 
 ## Davada Singer - River Play Eurasia™
 
