@@ -2,6 +2,12 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
 
+## Davada Family - Authorized Weapons, Self Defense™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bd62711f-c71d-445e-9d70-952de4d766db" />
+
 ## Davada Elohim "Zaita" and Mariana Zaita - Self Defense Training™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87bcc6d1-1b0a-49f2-b991-05d85bb982e7" />
@@ -30,10 +36,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Davada Family - Authorized Weapons, Self Defense™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71e4a961-b818-4cc8-b591-d91e01d221ee" />
 
 ## Daua Security Forces - Military Physical Training™
 
