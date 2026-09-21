@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Zevo AI-Driven Meta Cloud Ecosystem Platform Team™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/116f719b-b1d0-49fd-a52f-d6c43605ed54" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7ca44643-4f92-496e-a678-a2662ef03d20" />
 
 ## Zevo AI-Driven Messenger Chat Platform Team™
 
