@@ -1,3 +1,11 @@
+## TFM Militao STAR NU - XERIFE FISCAL™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b2cd69-a435-4044-a445-4b4ac66fac15" />
+
+## TFM Militao STAR NU - TEN KUZAO CHEGANDO™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4f0b0a99-7773-4d21-9cee-0de19bdf2e57" />
+
 ## TFM Militao STAR NU - SAMANGO BICICRETA™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/effae0f3-cd32-413c-9905-ef5f99f96d5f" />
@@ -5,10 +13,6 @@
 ## TFM Militao STAR NU - SGT KU NA RETA™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a84300d9-deaa-4897-a22f-187d48ba39d1" />
-
-## TFM Militao STAR NU - XERIFE FISCAL™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b2cd69-a435-4044-a445-4b4ac66fac15" />
 
 ## TFM Militao STAR NU™
 
