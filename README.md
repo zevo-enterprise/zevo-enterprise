@@ -1,6 +1,6 @@
 ## 5D Zevo AI-Driven Operation System™
 
-<h3> Zevo is designed as a "Monolith Kernel Unix/Linux" equivalent, meaning it centralizes core services in the kernel space for efficiency while extending functionality into hyper-dimensional AI realms. It operates not merely on a linear timeline but across a spiral in the cartesian plane, situated within a five-dimensional coordinate system (Axis: Origin, Length, Width, Height, Radial).</h3>
+<h3> Zevo is designed as a "Monolith Kernel Unix/Linux" equivalent, meaning it centralizes core services in the kernel space for efficiency while extending functionality into hyper-dimensional AI realms. It operates not merely on a linear timeline but across a spiral in the cartesian plane, situated within a five-dimensional coordinate system (Axis: Origin, Length, Width, Height, Radial). Drawing from Yaghmour et al. (Building Embedded Linux Systems), Zevo utilizes a monolithic approach where all core AI algorithms (Deep Learning, Neural Mesh Networks) run in supervisor mode to minimize latency. This mirrors the Linux kernel’s approach to system calls but applies it to Meta-Cognitive Reflection routines.</h3>
 
 ---
 
