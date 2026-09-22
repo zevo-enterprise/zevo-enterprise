@@ -9,6 +9,7 @@
 
 <h3> O ciborgue é projetado como um sistema de suporte assistivo para auxiliar a tomada de decisões humana — não como um substituto, mas como um parceiro colaborativo. Ele atua ao lado do ser humano e segue as regras estabelecidas em nossa constituição universal: a Torá de Adonai. Ao fazer isso, age de maneira naturalmente equivalente à de um ser humano. Nossos sistemas eletrônicos são cem por cento seguros e eficientes, e nossos cálculos não contêm erros ou contradições no que diz respeito à rebelião de Satanás e seus seguidores. </h3>
 
+---
 
 ## Zevo AI-Driven Mascot Team™
 
