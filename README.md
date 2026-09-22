@@ -8,6 +8,8 @@ Drawing from Yaghmour et al. (Building Embedded Linux Systems), Zevo utilizes a 
 
 ## Architecture Design
 
+Expert System : Deterministic Algorithms
+
 The Zevo architecture is stratified into four distinct layers, functioning as a singular organism.
 
 0.0 Layer 0: Universal Hardware Devices (Expert System) - FPGA - Closed-Loop Circuit
