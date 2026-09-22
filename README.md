@@ -1,3 +1,7 @@
+## Insurance Policy Card - Capitalization title
+
+<h3>An apólice (insurance policy) is the official contract issued by an insurance company that formalizes your insurance coverage. It acts as a "manual of protection," legally defining what is covered, what is excluded, and the financial duties of both you and the insurer. </h3>h3>
+
 ## Lucky scratch card - Capitalization title
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f68abc1-955c-41c1-8761-824d840d125d" />
