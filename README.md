@@ -8,7 +8,11 @@ Drawing from Yaghmour et al. (Building Embedded Linux Systems), Zevo utilizes a 
 
 ## Architecture Design
 
-Expert System : Deterministic Algorithms
+---
+
+OBS: Expert System: Deterministic Algorithms
+
+---
 
 The Zevo architecture is stratified into four distinct layers, functioning as a singular organism.
 
