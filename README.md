@@ -1,3 +1,13 @@
+## 40-hour workweek, businesses architectural open 24/7
+
+<h3> 40-hour workweek; companies operating 24 hours a day, 7 days a week, employ staff who work 8 hours a day and 40 hours a week. </h3>
+
+---
+
+<h3>I am a staunch advocate of equal rights—even for animals; in other words, everyone is equal before the law. That means a 40-hour workweek for every living creature, with fully recognized legal rights. </h3>
+
+---
+
 ## Responsible: Global Regulation Artificial Intelligence 
 
 <h3> AI server provider ("Data Center"), AI service provider ("Application"), and consumer AI ("User") </h3>
