@@ -1,6 +1,6 @@
 ## Responsible: National Central Bank
 
-<h3> What money do I owe myself? You Crazy. </h3>
+<h3> What money do I owe myself? You're crazy. </h3>
 
 ## Responsible: UN (United Nations) for Global International Law. 
 
