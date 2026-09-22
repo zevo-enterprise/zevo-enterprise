@@ -1,4 +1,4 @@
-## Zevo Cyborg Mascot Team - 28 Generation of Adonai Universal Light™
+## Zevo Cyborg Mascot Team - 28 Generation of the Universal Light Adonai™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/963eee7b-483c-475f-811b-be948c326cf0" />
 
