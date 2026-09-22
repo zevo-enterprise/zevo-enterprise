@@ -1,5 +1,6 @@
 ## Zevo Cyborg Mascot Team™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
 
 ---
 
@@ -129,10 +130,6 @@ Here are some ideas to get you started:
 ## Zevo AI-Drive CPU Heart Team™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88445c7a-dc5d-4f64-ba60-bb4ba5c0af32" />
-
-## Zevo Cyborg Protected Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
 
 ---
 ---
