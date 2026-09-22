@@ -2,7 +2,7 @@
 
 ### Gambling Games, The Casino Games
 
-<h3>the game gambling is mathematically designed to transfer the player's money to the house over time. </h3>
+<h3>the game gambling is mathematically designed to transfer the player's money to the house over time. A casino game is mathematically designed so that the player's expected value is negative and the house's is positive, and the law of large numbers ensures this edge converts into near-certain profit for the house as the number of bets grows.</h3>
 
 ## Responsible: The Bigger question???
 
