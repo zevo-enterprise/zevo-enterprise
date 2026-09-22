@@ -1,3 +1,110 @@
+## Mathematically logic investment - Using in games multiplayer on-line
+
+In mathematical logic and finance, the term **"investment"** can mean different things depending on whether you're analyzing it from the perspective of a **shareholder**, a **REIT investor**, or someone buying **stakes from existing investors**.
+
+Here's a clarification, broken down mathematically and logically:
+
+---
+
+## 1. Buying shares (equity investment)
+
+**Definition:** You purchase ownership units (shares) of a company.
+
+**Mathematical logic:**
+
+Let:
+- \( P_0 \) = purchase price per share
+- \( D_t \) = dividends per share at time \( t \)
+- \( P_T \) = selling price at time \( T \)
+
+Your total return \( R \) is:
+
+\[
+R = \frac{\sum_{t=1}^{T} D_t + (P_T - P_0)}{P_0}
+\]
+
+**Key logic:**
+- You are a **residual claimant** — you get paid after debt holders.
+- Your return depends on **company performance** and **market sentiment**.
+- Ownership = voting rights + claim on residual earnings.
+
+**Logical clarification:** Buying a share is not a loan. You don't get fixed payments. You get whatever is left after obligations.
+
+---
+
+## 2. Buying REITs (Real Estate Investment Trusts)
+
+**Definition:** You buy shares of a company that owns/operates income-producing real estate.
+
+**Mathematical logic:**
+
+REITs must distribute at least **90% of taxable income** as dividends.
+
+Let:
+- \( NOI \) = Net Operating Income
+- \( Cap Rate \) = \( NOI / Property Value \)
+- \( FFO \) = Funds From Operations = \( Net Income + Depreciation - Gains on Sales \)
+
+Your return:
+
+\[
+R_{REIT} = \frac{Dividends + (Price_T - Price_0)}{Price_0}
+\]
+
+**Key logic:**
+- REITs are **pass-through entities** — little to no corporate tax.
+- Dividends are **taxed as ordinary income** (not qualified dividends).
+- Value driven by **interest rates**, **occupancy**, **rents**, and **cap rates**.
+
+**Logical clarification:** Buying a REIT is buying a **liquid, securitized stake in real estate** — not direct property ownership. You don't control the buildings.
+
+---
+
+## 3. Buying stakes from investors (secondary market / private stakes)
+
+**Definition:** You buy an existing investor's ownership stake — not newly issued shares.
+
+**Mathematical logic:**
+
+This is a **secondary transaction**:
+
+\[
+\text{Cash flows from Buyer} \rightarrow \text{Existing Investor}
+\]
+\[
+\text{Ownership rights from Existing Investor} \rightarrow \text{Buyer}
+\]
+
+The company receives **no new capital**.
+
+**Key logic:**
+- Price is negotiated between buyer and seller, often at a **discount or premium** to fair value.
+- Liquidity may be low (especially private stakes).
+- You inherit the **same rights and restrictions** as the seller.
+
+**Logical clarification:** Buying a stake from an investor is **not primary investment** — it's a transfer of ownership. The company's balance sheet doesn't change.
+
+---
+
+## Summary Table
+
+| Action | Who gets money? | Company gets capital? | Return source | Risk profile |
+|---|---|---|---|---|
+| Buy shares (IPO/new issue) | Company | Yes | Dividends + capital gains | Equity risk |
+| Buy shares (secondary) | Selling shareholder | No | Dividends + capital gains | Equity risk |
+| Buy REITs | REIT (if new) or seller (if secondary) | Sometimes | Dividends + price change | Real estate + rate risk |
+| Buy stake from investor | Selling investor | No | Distributions + exit value | Illiquidity + concentration |
+
+---
+
+## Core Logical Distinction
+
+- **Primary investment:** Money goes **to the company** → funds growth.
+- **Secondary investment:** Money goes **to another investor** → ownership transfer only.
+- **REIT:** A special legal structure where **tax logic** and **distribution rules** change the math.
+
+---
+
 ## We do not support games that are not investments
 
 ### The Casino Games - Gambling Games
