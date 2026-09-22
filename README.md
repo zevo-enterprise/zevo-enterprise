@@ -1,3 +1,9 @@
+## Security Protective Equipment (Government Security Defense Force)
+
+<h3>EPI (Individual Protective Equipment) and EPC (Collective Protective Equipment) are two fundamental pillars of workplace occupational health and safety. The primary difference lies in the scope of protection. EPI protects a single worker, while EPC is installed to protect everyone in the area simultaneously. </h3>
+
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/128b3d6c-e691-46c0-8e4e-1a40efec0a15" />
+
 ## Insurance Policy Card - Capitalization title
 
 <h3>An apólice (insurance policy) is the official contract issued by an insurance company that formalizes your insurance coverage. It acts as a "manual of protection," legally defining what is covered, what is excluded, and the financial duties of both you and the insurer. </h3>
