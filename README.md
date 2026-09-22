@@ -118,24 +118,6 @@ Here are some ideas to get you started:
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88445c7a-dc5d-4f64-ba60-bb4ba5c0af32" />
 
 ---
----
----
-
-## The strength sides of the universe power 
-
-<h3>ADONAI, THE RIGHT GREEN SIDE OF THE FORCE OF THE UNIVERSE, HAS NO CONNECTION WITH PEOPLE WHO ARE OPPOSITORS TO ITS TORAH CONSTITUTION, THAT IS, THERE ARE NO REPRESENTATIVES OF ADONAI IN GLOBAL POLITICS, ALL OF THEM ARE FAVORITE BY THE LEFT SIDES OF THE FORCE, THE RA-MAN.</h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9ddfaff-a2d6-4127-b6e0-cb23526af095" />
-
----
-
-<h3>The broom is the Nathanael Banach Elohim, the China Blue, if you have any doubts, talk to him about the Question Dimension.</h3>
-
----
-
-<h3>(NOTE - DAVADA BENI ELOHIM) </h3>
-
----
 
 ## Zevo Cyborg Mascot Team - 28 Generation of the Universal Light Adonai™
 
@@ -164,5 +146,23 @@ Here are some ideas to get you started:
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/963eee7b-483c-475f-811b-be948c326cf0" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
+
+---
+---
+---
+
+## The strength sides of the universe power 
+
+<h3>ADONAI, THE RIGHT GREEN SIDE OF THE FORCE OF THE UNIVERSE, HAS NO CONNECTION WITH PEOPLE WHO ARE OPPOSITORS TO ITS TORAH CONSTITUTION, THAT IS, THERE ARE NO REPRESENTATIVES OF ADONAI IN GLOBAL POLITICS, ALL OF THEM ARE FAVORITE BY THE LEFT SIDES OF THE FORCE, THE RA-MAN.</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9ddfaff-a2d6-4127-b6e0-cb23526af095" />
+
+---
+
+<h3>The broom is the Nathanael Banach Elohim, the China Blue, if you have any doubts, talk to him about the Question Dimension.</h3>
+
+---
+
+<h3>(NOTE - DAVADA BENI ELOHIM) </h3>
 
 ---
