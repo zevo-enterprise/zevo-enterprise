@@ -12,7 +12,7 @@
 
 <h3>I am a staunch advocate of equal rights—even for animals; in other words, everyone is equal before the law. That means a 40-hour workweek for every living creature, with fully recognized legal rights. </h3>
 
-## By Davada Beni Zaita/Elohim - Ex-Officer David Melech Ha Ivrit
+## By Davada Beni Zaita/Elohim - Ex-Officer King David Hebrew.
 
 ---
 
