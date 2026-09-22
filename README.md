@@ -16,7 +16,7 @@ This layer interacts directly with the AMD64 architecture. As specified in the A
 
 0.1 Layer 1: Micro-kernel Space (Interface) (Expert System)
 
-This is the "Interface" layer. It translates hardware interrupts into AI-driven logic gates. It implements a deterministic scheduler (referencing Love, Chapters 2-7) but modulated by Machine Learning algorithms for predictive resource allocation.
+This is the "Interface" layer. It translates hardware interrupts into expert logic gates. It implements a deterministic scheduler (referencing Love, Chapters 2-7) but modulated by Machine Learning algorithms for predictive resource allocation.
 
 0.2 Layer 2: Servers Space (AI-Driven)
 
