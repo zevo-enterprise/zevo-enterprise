@@ -10,7 +10,7 @@ Drawing from Yaghmour et al. (Building Embedded Linux Systems), Zevo utilizes a 
 
 ---
 
-OBS: Expert System: Deterministic Algorithms (Eg: Fuzzy Neural Logic)
+OBS: Expert System: Deterministic Algorithms (Eg: Fuzzy Logic)
 
 ---
 
