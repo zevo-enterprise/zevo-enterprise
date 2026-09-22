@@ -8,19 +8,19 @@
 
 The Zevo architecture is stratified into four distinct layers, functioning as a singular organism.
 
-0.1 Layer 0: Universal Hardware Devices
+0.0 Layer 0: Universal Hardware Devices
 
 This layer interacts directly with the AMD64 architecture. As specified in the AMD64 Architecture Programmer's Manual, Volume 2, we utilize §6.1 (Page Translation) and §8.7 (Task Switching) to manage the transition between physical hardware and the hyper-dimensional kernel space.
 
-0.2 Layer 1: Micro-kernel Space (Interface)
+0.1 Layer 1: Micro-kernel Space (Interface)
 
 This is the "Interface" layer. It translates hardware interrupts into AI-driven logic gates. It implements a deterministic scheduler (referencing Love, Chapters 2-7) but modulated by Machine Learning algorithms for predictive resource allocation.
 
-0.3 Layer 2: Servers Space
+0.2 Layer 2: Servers Space
 
 In traditional systems, these are daemons. In Zevo, these are Agentic AI Integrations. This layer hosts the Large Language Models (LLM) and Neural Mesh Networks. It utilizes Attention Mechanisms to manage inter-process communication (IPC), treating data packets as semantic tokens within a Collective Intelligence framework.
 
-0.4 Layer 3: Services Space (User Applications)
+0.3 Layer 3: Services Space (User Applications)
 
 The user space is redefined as a Socio-Technical Integration environment. Applications are not static binaries but evolving entities capable of Self-Transcendence.
 
