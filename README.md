@@ -4,7 +4,7 @@
 
 ---
 
-<h3> I borrowed a kilo of mangoes from that fool in the neighborhood to make juice. Now I have to pay him back in mangoes—if I paid in oranges, I’d still be in debt. We had a friendly agreement to settle the mango loan: it started as one kilo, but now it’s two kilos to call it even. </h3>
+<h3> I borrowed a kilo of mangoes from that idiot next door to make juice. Now I have to pay in sleeves – if I paid in oranges, I would still be in debt. We had an amicable agreement to settle the mango loan: it started with one kilo, but now it's two kilos to equalize. </h3>
 
 ---
 
