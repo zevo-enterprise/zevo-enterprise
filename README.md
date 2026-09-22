@@ -1,5 +1,7 @@
 ## Zevo Cyborg Mascot Team™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/963eee7b-483c-475f-811b-be948c326cf0" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
 
 ---
