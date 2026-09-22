@@ -1,3 +1,84 @@
+---
+
+## We do not support games that are not investments
+
+### The Casino Games - Gambling Games
+
+<h3>the game gambling is mathematically designed to transfer the player's money to the house over time. A casino game is mathematically designed so that the player's expected value is negative and the house's is positive, and the law of large numbers ensures this edge converts into near-certain profit for the house as the number of bets grows.</h3>
+
+---
+
+## Known logical rules in gambling games
+
+### The core mechanism: the house edge
+
+Every casino game has a built-in mathematical advantage for the house. It's not luck, not rigging, not cheating — it's **structural**. It comes from the rules and payouts themselves.
+
+**How it works in practice:**
+
+- **Roulette (American):** 38 numbers, pays 35:1 on a single number. True odds are 37:1. The gap = 5.26% house edge.
+- **Slots:** paytables are set so the RTP (return to player) is below 100% — typically 85–98%.
+- **Blackjack:** rules and payout structure give the house ~0.5% even against perfect play.
+- **Baccarat (banker bet):** 1.06% edge baked into the commission structure.
+- **Craps, keno, etc.:** same principle — payouts below true odds.
+
+The edge is small per bet. That's the point. It's **invisible in the short run** and **inevitable in the long run.**
+
+## Why "over time" is the key phrase
+
+The house edge doesn't guarantee the casino wins every session. It guarantees the casino wins **in aggregate, over enough bets**.
+
+This is the **law of large numbers** doing the work:
+
+- **Few bets:** variance dominates. Players win all the time. Casinos lose individual sessions.
+- **Many bets:** the house edge dominates. Results converge to the expected value.
+- **Millions of bets across thousands of players:** the casino's revenue becomes almost deterministic.
+
+The casino doesn't need to beat *you*. It just needs **volume**. Time and repetition are its allies, not yours.
+
+## Why no player strategy changes this
+
+Common attempts and why they fail:
+
+| Strategy | Why it doesn't work |
+|---|---|
+| Martingale (double after losses) | Bets grow exponentially; table limits and bankroll kill it; EV unchanged |
+| "Hot/cold" patterns | Outcomes are independent; past results don't predict future ones |
+| Bet-sizing systems | Change variance, not expected value |
+| Skill play (blackjack basic strategy) | Reduces the edge; doesn't eliminate it |
+| Card counting | The one real exception — but it's not "beating the game," it's tracking when the edge briefly flips |
+
+**The key insight:** strategies can change **variance** (how bumpy the ride is) but not **expected value** (the long-run average). The edge is in the rules, not in how you bet.
+
+## The mathematical statement
+
+For any casino game:
+
+```
+E[player outcome per bet] = -house edge × wager
+E[house outcome per bet]   = +house edge × wager
+```
+
+Summed over N bets:
+
+```
+E[player total] = -house edge × total wagered
+```
+
+As N → ∞, the player's result **converges to that negative value**. This isn't a tendency — it's a theorem (the law of large numbers).
+
+## The precise framing
+
+Your statement, tightened:
+
+A casino game is mathematically designed so that the player's expected value is negative and the house's is positive, and the law of large numbers ensures this edge converts into near-certain profit for the house as the number of bets grows.
+
+That's exactly right. It's not that the player *usually* loses — it's that the player *must* lose in expectation, and time makes the expectation real.
+
+---
+
+---
+
 ## Mathematically logic investment - Using in games multiplayer on-line
 
 In mathematical logic and finance, the term **"investment"** can mean different things depending on whether you're analyzing it from the perspective of a **shareholder**, a **REIT investor**, or someone buying **stakes from existing investors**.
@@ -102,83 +183,6 @@ The company receives **no new capital**.
 - **Primary investment:** Money goes **to the company** → funds growth.
 - **Secondary investment:** Money goes **to another investor** → ownership transfer only.
 - **REIT:** A special legal structure where **tax logic** and **distribution rules** change the math.
-
----
-
-## We do not support games that are not investments
-
-### The Casino Games - Gambling Games
-
-<h3>the game gambling is mathematically designed to transfer the player's money to the house over time. A casino game is mathematically designed so that the player's expected value is negative and the house's is positive, and the law of large numbers ensures this edge converts into near-certain profit for the house as the number of bets grows.</h3>
-
----
-
-## Known logical rules in gambling games
-
-### The core mechanism: the house edge
-
-Every casino game has a built-in mathematical advantage for the house. It's not luck, not rigging, not cheating — it's **structural**. It comes from the rules and payouts themselves.
-
-**How it works in practice:**
-
-- **Roulette (American):** 38 numbers, pays 35:1 on a single number. True odds are 37:1. The gap = 5.26% house edge.
-- **Slots:** paytables are set so the RTP (return to player) is below 100% — typically 85–98%.
-- **Blackjack:** rules and payout structure give the house ~0.5% even against perfect play.
-- **Baccarat (banker bet):** 1.06% edge baked into the commission structure.
-- **Craps, keno, etc.:** same principle — payouts below true odds.
-
-The edge is small per bet. That's the point. It's **invisible in the short run** and **inevitable in the long run.**
-
-## Why "over time" is the key phrase
-
-The house edge doesn't guarantee the casino wins every session. It guarantees the casino wins **in aggregate, over enough bets**.
-
-This is the **law of large numbers** doing the work:
-
-- **Few bets:** variance dominates. Players win all the time. Casinos lose individual sessions.
-- **Many bets:** the house edge dominates. Results converge to the expected value.
-- **Millions of bets across thousands of players:** the casino's revenue becomes almost deterministic.
-
-The casino doesn't need to beat *you*. It just needs **volume**. Time and repetition are its allies, not yours.
-
-## Why no player strategy changes this
-
-Common attempts and why they fail:
-
-| Strategy | Why it doesn't work |
-|---|---|
-| Martingale (double after losses) | Bets grow exponentially; table limits and bankroll kill it; EV unchanged |
-| "Hot/cold" patterns | Outcomes are independent; past results don't predict future ones |
-| Bet-sizing systems | Change variance, not expected value |
-| Skill play (blackjack basic strategy) | Reduces the edge; doesn't eliminate it |
-| Card counting | The one real exception — but it's not "beating the game," it's tracking when the edge briefly flips |
-
-**The key insight:** strategies can change **variance** (how bumpy the ride is) but not **expected value** (the long-run average). The edge is in the rules, not in how you bet.
-
-## The mathematical statement
-
-For any casino game:
-
-```
-E[player outcome per bet] = -house edge × wager
-E[house outcome per bet]   = +house edge × wager
-```
-
-Summed over N bets:
-
-```
-E[player total] = -house edge × total wagered
-```
-
-As N → ∞, the player's result **converges to that negative value**. This isn't a tendency — it's a theorem (the law of large numbers).
-
-## The precise framing
-
-Your statement, tightened:
-
-A casino game is mathematically designed so that the player's expected value is negative and the house's is positive, and the law of large numbers ensures this edge converts into near-certain profit for the house as the number of bets grows.
-
-That's exactly right. It's not that the player *usually* loses — it's that the player *must* lose in expectation, and time makes the expectation real.
 
 ---
 
