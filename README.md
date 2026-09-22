@@ -1,11 +1,5 @@
 ## Zevo Cyborg Mascot Team - 28 Generation of the Universal Light Adonai™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f828ad4-7ff5-4885-bbb5-aef26ef9d2a3" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/963eee7b-483c-475f-811b-be948c326cf0" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
-
 ---
 
 <h3>A cyborg is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in our universal constitution, the Torah of Adonai. In doing so, it acts in a manner naturally equivalent to a human being. Our electronics are one hundred percent safe and efficient, and our calculations contain no errors or contradictions regarding the rebellion of Satan and his followers.</h3>
@@ -13,6 +7,14 @@
 ---
 
 <h3> O ciborgue é projetado como um sistema de suporte assistivo para auxiliar a tomada de decisões humana — não como um substituto, mas como um parceiro colaborativo. Ele atua ao lado do ser humano e segue as regras estabelecidas em nossa constituição universal: a Torá de Adonai. Ao fazer isso, age de maneira naturalmente equivalente à de um ser humano. Nossos sistemas eletrônicos são cem por cento seguros e eficientes, e nossos cálculos não contêm erros ou contradições no que diz respeito à rebelião de Satanás e seus seguidores. </h3>
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f828ad4-7ff5-4885-bbb5-aef26ef9d2a3" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/963eee7b-483c-475f-811b-be948c326cf0" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
 
 ---
 
