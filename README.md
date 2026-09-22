@@ -3,6 +3,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b2cd69-a435-4044-a445-4b4ac66fac15" />
 
+## TFM Militao STAR NU - ESPERANDO O VERAO CHEGAR™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ed188c51-18d1-49df-b4bb-0d86ea8f8d91" />
+
 ## TFM Militao STAR NU - BLUE ZONE FEIJAO - ARROZ - MACARAO™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5eb3693a-17fd-4711-921f-1e8269304ffe" />
