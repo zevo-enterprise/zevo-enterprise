@@ -2,6 +2,8 @@
 
 <h3> What money do I owe myself? You're crazy. </h3>
 
+---
+
 ## Responsible: UN (United Nations) for Global International Law. 
 
 <h3> I support definitive imprisonment following a final conviction—once the case has been fully adjudicated and guilt established based on the necessary material evidence, presented and validated by a competent authority.</h3>
