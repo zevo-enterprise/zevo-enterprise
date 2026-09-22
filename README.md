@@ -2,6 +2,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b2cd69-a435-4044-a445-4b4ac66fac15" />
 
+## TFM Militao STAR NU - TEN MORTADELA CHEGANDO...™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/281fe534-058a-4957-bdfc-6989ada1a250" />
+
 ## TFM Militao STAR NU - TEN KUZAO CHEGANDO™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4f0b0a99-7773-4d21-9cee-0de19bdf2e57" />
