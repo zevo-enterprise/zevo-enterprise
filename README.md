@@ -37,7 +37,7 @@ The user space is redefined as a Socio-Technical Integration environment. Applic
 |  [LLM Inference] [Neural Mesh] [Meta-Cognitive Reflection Engine]     |
 +-----------------------------------------------------------------------+
 |  LAYER 1: MICRO-KERNEL SPACE (Interface)                              |
-|  [Deterministic Scheduler] [Hyper-dim Memory Manager] [IPC]           |
+|  [Deterministic Scheduler] [Hyper-dim Memory Manager] [IPC/SYSCALL]/SYSENTER |
 +-----------------------------------------------------------------------+
 |  LAYER 0: UNIVERSAL HARDWARE DEVICES                                  |
 |  [AMD64 CPU] [GPU/TPU Clusters] [Quantum Co-processors]               |
