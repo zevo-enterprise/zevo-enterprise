@@ -18,7 +18,7 @@ This layer interacts directly with the AMD64 architecture. As specified in the A
 
 This is the "Interface" layer. It translates hardware interrupts into expert logic gates. It implements a deterministic scheduler (referencing Love, Chapters 2-7) but modulated by Machine Learning algorithms for predictive resource allocation.
 
-0.2 Layer 2: Servers Space (AI-Driven)
+0.2 Layer 2: Servers Space (Expert System/AI-Driven) - Hybrid (INITRD)
 
 In traditional systems, these are daemons. In Zevo, these are Agentic AI Integrations. This layer hosts the Large Language Models (LLM) and Neural Mesh Networks. It utilizes Attention Mechanisms to manage inter-process communication (IPC), treating data packets as semantic tokens within a Collective Intelligence framework.
 
