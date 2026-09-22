@@ -1,3 +1,8 @@
+## Lucky scratch card - Capitalization title
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f68abc1-955c-41c1-8761-824d840d125d" />
+
+
 ## 1001, 1002, 1003, 1004 - BOOM: IT'S ALWAYS BAPHOMET'S SCHEME THAT THEY TAKE UP THE ASS.
 
 ---
