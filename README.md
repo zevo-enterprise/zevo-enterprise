@@ -1,4 +1,6 @@
-## Gambling Games, The Casino Games
+## We do not support games that are not investments
+
+### Gambling Games, The Casino Games
 
 <h3>the game gambling is mathematically designed to transfer the player's money to the house over time. </h3>
 
