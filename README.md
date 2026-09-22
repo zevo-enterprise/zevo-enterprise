@@ -3,6 +3,7 @@
 
 <h3> Zevo is designed as a "Monolith Kernel Unix/Linux" equivalent, meaning it centralizes core services in the kernel space for efficiency while extending functionality into hyper-dimensional AI realms. It operates not merely on a linear timeline but across a spiral in the cartesian plane, situated within a five-dimensional coordinate system (Axis: Origin, Length, Width, Height, Radial).</h3>
 
+```text
 +-----------------------------------------------------------------------+
 |  LAYER 3: SERVICES SPACE (User Applications)                          |
 |  [AGI Agents] [Self-Transcendence Modules] [Ultimate Identity UI]     |
@@ -16,6 +17,8 @@
 |  LAYER 0: UNIVERSAL HARDWARE DEVICES                                  |
 |  [AMD64 CPU] [GPU/TPU Clusters] [Quantum Co-processors]               |
 +-----------------------------------------------------------------------+
+
+``` 
 
 ## Zevo AI-Driven Mascot Team™
 
