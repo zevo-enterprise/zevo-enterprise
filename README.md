@@ -2,7 +2,7 @@
 
 ---
 
-<h3> Pay Overtime for urgent and extremely urgent activities. Time bank for activities of a conclusive nature. Commute time "Dislocation", calculated as a time bank at a rate of one-third. "1/3 Bank Time, To reduce the delay – Dislocation" </h3>
+<h3> Pay Overtime for urgent and extremely urgent activities. Time bank for activities of a conclusive nature. Commute time "Dislocation", calculated as a time bank at a rate of one-third. "One-third of the time spent commuting is credited to a time bank to compensate for the time taken to travel to work." </h3>
 
 ---
 
