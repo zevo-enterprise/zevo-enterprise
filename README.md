@@ -1,3 +1,7 @@
+## Gambling Games, The Casino Games
+
+<h3>the game gambling is mathematically designed to transfer the player's money to the house over time. </h3>
+
 ## Responsible: The Bigger question???
 
 <h3>I planted sulky orange, and I owe myself sulky orange, am I crazy, retarded or devilish??? </h3>
