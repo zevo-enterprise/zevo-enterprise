@@ -6,6 +6,8 @@
 
 <h3> Defendo a prisão definitiva após uma condenação final — uma vez que o caso tenha sido plenamente julgado e a culpa estabelecida com base nas provas materiais necessárias, apresentadas e validadas por autoridade competente. </h3>
 
+---
+
 ## Global Working: 40-hour workweek, businesses architectural open 24/7
 
 ---
