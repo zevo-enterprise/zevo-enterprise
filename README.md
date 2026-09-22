@@ -1,5 +1,11 @@
 ## Global Working: 40-hour workweek, businesses architectural open 24/7
 
+---
+
+<h3> Overtime for urgent and extremely urgent activities. Time bank for activities of a conclusive nature. </h3>
+
+---
+
 <h3> A 40-hour workweek with 8-hour days; physical locations operate 24 hours a day, 7 days a week, using a staff rotation system where employees work 40 hours a week and 8 hours a day. </h3>
 
 ---
