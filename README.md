@@ -1,6 +1,6 @@
 ## 40-hour workweek, businesses architectural open 24/7
 
-<h3> 40-hour workweek; companies operating 24 hours a day, 7 days a week, employ staff who work 8 hours a day and 40 hours a week. </h3>
+<h3> 40-hour workweek; companies with an open architecture operating 24 hours a day, 7 days a week. </h3>
 
 ---
 
