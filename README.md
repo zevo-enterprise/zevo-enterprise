@@ -2,7 +2,9 @@
 
 <h3>I planted sulky orange, and I owe myself sulky orange, am I crazy, retarded or devilish??? </h3>
 
-<h3>Response: The boy arrived and contradicted that the land is his, took the bag and took it, the poor guy accepted and was left without the bag and his land, as he accepted the issue of breath, trying to be safe in his matter.</h3>
+<h3>Response: I am crazy, retarded or devilish - Comment: The boy arrived and contradicted that the land is his, took the bag and took it, the poor guy accepted and was left without the bag and his land, as he accepted the issue of breath, trying to be safe in his matter.
+
+</h3>
 
 ---
 
