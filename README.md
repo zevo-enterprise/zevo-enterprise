@@ -10,7 +10,7 @@ Drawing from Yaghmour et al. (Building Embedded Linux Systems), Zevo utilizes a 
 
 The Zevo architecture is stratified into four distinct layers, functioning as a singular organism.
 
-0.0 Layer 0: Universal Hardware Devices (Expert System)
+0.0 Layer 0: Universal Hardware Devices (Expert System) - FPGA CLOSE CIRCUIT
 
 This layer interacts directly with the AMD64 architecture. As specified in the AMD64 Architecture Programmer's Manual, Volume 2, we utilize §6.1 (Page Translation) and §8.7 (Task Switching) to manage the transition between physical hardware and the hyper-dimensional kernel space.
 
