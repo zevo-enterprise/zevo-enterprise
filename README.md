@@ -1,3 +1,5 @@
+## 1001, 1003, 1003, 1004 - BOOM - IT'S ALWAYS THE BAPHO-MET SCHEME THAT THEY TAKE IN THE ASS
+
 ---
 
 ## We do not support games that are not investments
