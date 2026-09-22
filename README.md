@@ -1,6 +1,6 @@
-## Global AI Regulation
+## Global Regulation Artificial Intelligence 
 
-<h3> Artificial Intelligence Server Provider "Data-center", Artificial Intelligence Service Provider "App", and Consumer Artificial Intelligence "User" </h3>
+<h3> AI server provider ("Data Center"), AI service provider ("Application"), and consumer AI ("User") </h3>
 
 ---
 
