@@ -1,4 +1,4 @@
-## Responsible: National Central Bank
+## Responsible: National Government Central Bank
 
 <h3> What money do I owe myself? You're crazy. </h3>
 
