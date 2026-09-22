@@ -1,3 +1,9 @@
+## AI Regulation Global 
+
+<h3> Artificial Intelligence Provider, Artificial Intelligence Service Provider, and Artificial Intelligence User </h3>
+
+---
+
 ## 5D Zevo Hybrid Operation System™
 
 <h3> Zevo is designed as a "Monolith Kernel Unix/Linux" equivalent, meaning it centralizes core services in the kernel space for efficiency while extending functionality into hyper-dimensional AI realms. It operates not merely on a linear timeline but across a spiral in the cartesian plane, situated within a five-dimensional coordinate system (Axis: Origin, Length, Width, Height, Radial).
