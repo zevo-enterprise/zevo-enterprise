@@ -1,4 +1,4 @@
-### Psychology and psychiatrist and medications
+### Hallucination - Psychology and psychiatrist and medications
 
 Psychology alone is not enough; to return to following norms of appropriate social conduct, you also need to consult a psychiatrist regarding prescription medications recommended for your body type.
 
