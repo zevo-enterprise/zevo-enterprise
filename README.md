@@ -45,6 +45,10 @@ Or go ahead and go crazy Contradiction the Baphomet.
 
 ### Attention: The True Mashiach Hebrew is Hebrew Davada Melech (King David). The Ieshua Netsarim ou Iesus Christus Filius Dei, is same person, the false messiah (mashiah sheker), predicted by the prophet Daniel.
 
+### The Big Question: The Solomon was a messianic king ???
+
+<h3>Response: King Solomon, the son of David, was his successor; even so, he was not a messianic king. </h3>
+
 ---
 
 <h3>Nathael Banach Elohim is not the Christ of Nazareth—the Door of Mercy of Adonai—for he broke away from the contradiction of *Raman*. However, it was he who was ultimately captured, crucified, and burned alongside his wife; he was betrayed by the Black man who was his companion. He argued to Raman that the sacrifice had been made for the sake of his own people, but Raman replied that the blood of a male and female pig was useless. This took place on the planet Daua, known as the Morning Star. The term "Ditache" is a corruption of the term *Tanakh* (NATO), brought to Earth by his people from the planet Daua. Yeshua the Nazarene was a wanted outlaw who was captured and crucified by Rome in the past, with the complicity of the Pharisees (known today as the Rabinnus Party).</h3>
