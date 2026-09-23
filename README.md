@@ -2,6 +2,18 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
 
+## Zevo Tips Mascot Team - Attack on the Sensitive Fixed Point™
+
+---
+
+#### Responsible: National Defense Security Forces 
+
+---
+
+<h3>How can a massive hacker attack by an adversary nation against a fixed target in another country be blocked?</h3>h
+
+
+
 ---
 
 ## How to collaborate: Find the best paid remote collaborative work opportunities online. Keep your social security contributions up to date as an entrepreneurial professional.
