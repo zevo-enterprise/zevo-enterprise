@@ -4,7 +4,7 @@
 
 ---
 
-## How to collaborate: Look for one of our associates online.
+## How to collaborate: Find the best paid remote collaboration opportunities online. 
 
 ---
 
