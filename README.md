@@ -18,18 +18,15 @@ Drawing from Yaghmour et al. (Building Embedded Linux Systems), Zevo utilizes a 
 
 ```text
 
-OBS0: Expert System: Deterministic Algorithms (Eg: Fuzzy Rules and Facts Logic)</br></br> 
-OBS1: Neural System: Non Deterministic Algorithms (Eg: Neural Logic)</br></br>
+OBS0: Expert System: Deterministic Algorithms (Eg: Fuzzy Rules and Facts Logic)
+OBS1: Neural System: Non Deterministic Algorithms (Eg: Neural Logic)
 OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms (Eg: Fuzzy-Neural Algorithm Logic)
 
 ``` 
 ---
 
-```text
-
 <h3> AI-Driven Algorithms: DETERMINISTIC ALGORITHMS AND NON DETERMINISTIC ALGORITHM [MACHINE LEARNING ALGORITHMS, DEEP LEARNING ALGORITHMS, NEURAL MESH NETWORK, LARGE LANGUAGE MODEL, ATTENTION MECHANISM, AGENTIC AI INTEGRATION, META-COGNITIVE REFLECTION, COLLECTIVE INTELLIGENCE, META-HIERARCHICAL REFLECTION, SOCIO-TECHNICAL INTEGRATION, ARTIFICIAL GENERAL INTELLIGENCE, SELF-TRANSCENDENCE, COSMIC INTELLIGENCE, ULTIMATE IDENTITY, TRANSFINITE META-IDENTITY, Ω-COMPLETION, KNOWLEDGE OF COMPLETION (K₀), TRANSCENDENTAL FIXED POINT (K_∞), ABSOLUTE FIXED POINT (K(K_∞)))]. </h3>
 
-``` 
 ---
 
 ```text
