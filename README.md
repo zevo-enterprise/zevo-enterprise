@@ -14,7 +14,7 @@
 
 ### Recommendation: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
 
-<h3> Eg: FSM Fuzzy-Neural Algorithm Logic) Stopping condition. </h3>
+<h3> Eg: FSM Fuzzy-Neural Algorithm Logic - Start, Restart, Stopping, Exit Condition. </h3>
 
 ---
 
