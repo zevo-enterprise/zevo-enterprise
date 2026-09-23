@@ -8,13 +8,61 @@
 
 #### Responsible: National Defense Security Forces
 
+<img width="900" height="648" alt="Image" src="https://github.com/user-attachments/assets/b2923b95-ed97-4c7b-90d2-84a3430aafbf" />
+
 ---
 
 <h3>How can a massive hacker attack by an adversary nation against a fixed target in another country be blocked?</h3>
 
 ---
 
-<img width="900" height="648" alt="Image" src="https://github.com/user-attachments/assets/b2923b95-ed97-4c7b-90d2-84a3430aafbf" />
+```text
+
+Defensive approaches organizations use against nation-state threats:
+
+Network & Perimeter Defense
+
+    Zero-trust architecture (never trust, always verify)
+
+    Microsegmentation to limit lateral movement
+
+    Egress filtering to detect unusual outbound traffic
+
+    DNS filtering and sinkholing of known C2 infrastructure
+
+    Next-gen firewalls with threat intelligence feeds
+
+Endpoint & Identity
+
+    EDR/XDR with behavioral detection (not just signatures)
+
+    Hardware security keys / FIDO2 to defeat credential phishing
+
+    Privileged access management and just-in-time admin rights
+
+    Patch management prioritized by exploited-in-the-wild vulnerabilities
+
+Detection & Response
+
+    24/7 SOC with threat hunting
+
+    Deception technology (honeypots, canary tokens)
+
+    Threat intelligence sharing (ISACs, CERTs, government advisories)
+
+    Incident response playbooks and tabletop exercises
+
+Resilience
+
+    Immutable, offline backups (3-2-1-1 rule)
+
+    Redundancy for critical systems
+
+    Supply chain risk management
+
+Why it's hard: Nation-state actors (APT groups) are well-resourced, patient, and use zero-days, living-off-the-land techniques, and supply-chain compromises. Perfect prevention isn't realistic — the goal is defense-in-depth, rapid detection, and containment.
+
+```
 
 ---
 
