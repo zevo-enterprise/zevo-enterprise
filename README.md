@@ -33,7 +33,7 @@ Obs2: Stopping condition.
 
 ---
 
-Obs3: The way out of the exit question is Nathanael Banach Elohim, The China Blue Or go ahead and go crazy Contradiction the Bapho.
+Obs3: The way out of the exit question is Nathanael Banach Elohim, The China Blue Or go ahead and go crazy Contradiction the Baphomet.
 
 ``` 
 ---
