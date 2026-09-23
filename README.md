@@ -16,8 +16,8 @@ Drawing from Yaghmour et al. (Building Embedded Linux Systems), Zevo utilizes a 
 
 ---
 
-OBS0: Expert System: Deterministic Algorithms (Eg: Fuzzy Rules and Facts Logic)
-OBS1: Neural System: Non Deterministic Algorithms (Eg: Neural Logic)
+OBS0: Expert System: Deterministic Algorithms (Eg: Fuzzy Rules and Facts Logic)</br></br> 
+OBS1: Neural System: Non Deterministic Algorithms (Eg: Neural Logic)</br></br>
 OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms (Eg: Fuzzy-Neural Logic Algorithm)
 
 ---
