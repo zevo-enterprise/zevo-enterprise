@@ -1,6 +1,6 @@
-### Hallucination - Psychology and psychiatrist and medications (Psychosocial Care Centers - CAPS)
+### Psychology and psychiatrist and medications (Psychosocial Care Centers - CAPS)
 
-Psychology alone is not enough; to return to following norms of appropriate social conduct, you also need to consult a psychiatrist regarding prescription medications recommended for your body type.
+Hallucination - Psychology alone is not enough; to return to following norms of appropriate social conduct, you also need to consult a psychiatrist regarding prescription medications recommended for your body type.
 
 ---
 
