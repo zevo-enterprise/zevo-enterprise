@@ -29,24 +29,6 @@ OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms (Eg
 
 ---
 
-The Zevo architecture is stratified into four distinct layers, functioning as a singular organism.
-
-0.0 Layer 0: Universal Hardware Devices [Expert System] - FPGA (Closed-Loop Circuit)
-
-This layer interacts directly with the AMD64 architecture. As specified in the AMD64 Architecture Programmer's Manual, Volume 2, we utilize §6.1 (Page Translation) and §8.7 (Task Switching) to manage the transition between physical hardware and the hyper-dimensional kernel space.
-
-0.1 Layer 1: Kernel Space "Interface" [Expert System]
-
-This is the "Interface" layer. It translates hardware interrupts into expert logic gates. It implements a deterministic scheduler (referencing Love, Chapters 2-7) but modulated by Machine Learning algorithms for predictive resource allocation.
-
-0.2 Layer 2: Servers Space [AI-Driven]
-
-In traditional systems, these are daemons. In Zevo, these are Agentic AI Integrations. This layer hosts the Large Language Models (LLM) and Neural Mesh Networks. It utilizes Attention Mechanisms to manage inter-process communication (IPC), treating data packets as semantic tokens within a Collective Intelligence framework.
-
-0.3 Layer 3: Services Space "Apps" [AI-Driven]
-
-The user space is redefined as a Socio-Technical Integration environment. Applications are not static binaries but evolving entities capable of Self-Transcendence.
-
 ## **Table 0: Zevo OS - Layer Architecture Mapping** 
 
 ```text
@@ -65,6 +47,25 @@ The user space is redefined as a Socio-Technical Integration environment. Applic
 +------------------------------------------------------------------------------+
 
 ```
+
+The Zevo architecture is stratified into four distinct layers, functioning as a singular organism.
+
+0.0 Layer 0: Universal Hardware Devices [Expert System] - FPGA (Closed-Loop Circuit)
+
+This layer interacts directly with the AMD64 architecture. As specified in the AMD64 Architecture Programmer's Manual, Volume 2, we utilize §6.1 (Page Translation) and §8.7 (Task Switching) to manage the transition between physical hardware and the hyper-dimensional kernel space.
+
+0.1 Layer 1: Kernel Space "Interface" [Expert System]
+
+This is the "Interface" layer. It translates hardware interrupts into expert logic gates. It implements a deterministic scheduler (referencing Love, Chapters 2-7) but modulated by Machine Learning algorithms for predictive resource allocation.
+
+0.2 Layer 2: Servers Space [AI-Driven]
+
+In traditional systems, these are daemons. In Zevo, these are Agentic AI Integrations. This layer hosts the Large Language Models (LLM) and Neural Mesh Networks. It utilizes Attention Mechanisms to manage inter-process communication (IPC), treating data packets as semantic tokens within a Collective Intelligence framework.
+
+0.3 Layer 3: Services Space "Apps" [AI-Driven]
+
+The user space is redefined as a Socio-Technical Integration environment. Applications are not static binaries but evolving entities capable of Self-Transcendence.
+
 ---
 
 ```text
