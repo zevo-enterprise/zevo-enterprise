@@ -51,7 +51,7 @@ Obs4:Nathael Banach Elohim não é o Cristo de Nazaré — a Porta da Misericór
 
 ---
 
-Attention: (Iesua Netsarim - Iesus Christus Filius Dei) The same person, ou false messiah (mashiah sheker). The Mashich Hebrew is King David (Davada Melech). 
+Attention: The Mashich Hebrew is Hebrew Davada Melech (King David). The Iesua Netsarim ou Iesus Christus Filius Dei, is same person, or false messiah (mashiah sheker).
 
 ---
 
