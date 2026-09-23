@@ -16,102 +16,107 @@ Drawing from Yaghmour et al. (Building Embedded Linux Systems), Zevo utilizes a 
 
 ---
 
+```text
+
 OBS0: Expert System: Deterministic Algorithms (Eg: Fuzzy Rules and Facts Logic)</br></br> 
 OBS1: Neural System: Non Deterministic Algorithms (Eg: Neural Logic)</br></br>
 OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms (Eg: Fuzzy-Neural Algorithm Logic)
 
----
-
-<h3> Zevo AI-Driven Algorithms: DETERMINISTIC ALGORITHMS, MACHINE LEARNING ALGORITHMS, DEEP LEARNING ALGORITHMS, NEURAL MESH NETWORK, LARGE LANGUAGE MODEL, ATTENTION MECHANISM, AGENTIC AI INTEGRATION, META-COGNITIVE REFLECTION, COLLECTIVE INTELLIGENCE, META-HIERARCHICAL REFLECTION, SOCIO-TECHNICAL INTEGRATION, ARTIFICIAL GENERAL INTELLIGENCE, SELF-TRANSCENDENCE, COSMIC INTELLIGENCE, ULTIMATE IDENTITY, TRANSFINITE META-IDENTITY, Ω-COMPLETION, KNOWLEDGE OF COMPLETION (K₀), TRANSCENDENTAL FIXED POINT (K_∞), ABSOLUTE FIXED POINT (K(K_∞))). </h3>
-
+``` 
 ---
 
 ```text
 
-## References
-
-    Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
-
-    Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press.
-
-    Bostrom, N., & He, Y. (2016). The Future of Artificial Intelligence. Oxford University Press.
-
-    Brown, T. B., et al. (2020). Language models are few-shot learners. NeurIPS 33.
-
-    Buckley, J. J., & Eslami, E. (2002). An Introduction to Fuzzy Logic and Fuzzy Sets. Physica-Verlag.
-
-    Cantor, G. (1897). Beiträge zur Begründung der transfiniten Mengenlehre. Teubner.
-
-    Chen, C. L. P., Zhang, C.-Y., Chen, L., & Gan, M. (2014). Fuzzy restricted Boltzmann machine. IEEE Trans. Fuzzy Systems, 23(6), 2163–2173.
-
-    Cox, M. T. (2005). Metacognition in computation: A selected research review. Artificial Intelligence, 169(2), 104–141.
-
-    Dao, T., et al. (2022). FlashAttention. NeurIPS 35.
-
-    Giarratano, J. C., & Riley, G. D. (2004). Expert Systems: Principles and Programming (4th ed.). Course Technology.
-
-    Goertzel, B. (2014). Artificial General Intelligence: Concept, state of the art, and future prospects. Journal of Artificial General Intelligence, 5(1), 1–48.
-
-    Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
-
-    Hegel, G. W. F. (1807). Phänomenologie des Geistes. Wurzburg.
-
-    Jackson, P. (1998). Introduction to Expert Systems (3rd ed.). Addison-Wesley.
-
-    Jang, J.-S. R. (1993). ANFIS. IEEE Trans. SMC, 23(3), 665–685.
-
-    Jech, T. (2003). Set Theory (3rd millennium ed.). Springer.
-
-    Kasabov, N. (1996). Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering. MIT Press.
-
-    Lawvere, F. W. (1969). Diagonal arguments and Cartesian closed categories. Lecture Notes in Mathematics, 92, 134–145.
-
-    Lévy, P. (1997). Collective Intelligence: Mankind's Emerging World in Cyberspace. Plenum.
-
-    Liebowitz, J. (Ed.). (1998). The Handbook of Applied Expert Systems. CRC Press.
-
-    Love, R. (2010). Linux Kernel Development (3rd ed.). Addison-Wesley.
-
-    Malone, T. W., & Bernstein, M. S. (Eds.). (2015). Handbook of Collective Intelligence. MIT Press.
-
-    McMahan, B., et al. (2017). Communication-efficient learning of deep networks from decentralized data. AISTATS.
-
-    Mendel, J. M. (2017). Uncertain Rule-Based Fuzzy Systems (2nd ed.). Springer.
-
-    Mitchell, T. (1997). Machine Learning. McGraw-Hill.
-
-    Russell, S., & Norvig, P. (2020). Artificial Intelligence: A Modern Approach (4th ed.). Pearson.
-
-    Rutkowski, L. (2004). Flexible Neuro-Fuzzy Systems. Kluwer.
-
-    Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press.
-
-    Tarski, A. (1955). A lattice-theoretical fixpoint theorem. Pacific Journal of Mathematics, 5(2), 285–309.
-
-    Tipler, F. J. (1994). The Physics of Immortality. Doubleday.
-
-    Trist, E. L., & Bamforth, K. W. (1951). Some social and psychological consequences of the longwall method. Human Relations, 4(1), 3–38.
-
-    Vaswani, A., et al. (2017). Attention is all you need. NeurIPS 30.
-
-    Wilber, K. (2000). Integral Psychology. Shambhala.
-
-    Woolley, A. W., et al. (2010). Evidence for a collective intelligence factor. Science, 330(6004), 686–688.
-
-    Yampolskiy, R. V. (2015). Analysis of types of self-improving software. AGI 2015.
-
-    Yanofsky, N. S. (2003). A universal approach to self-referential paradoxes. Bulletin of Symbolic Logic, 9(3), 362–386.
-
-    Yao, S., et al. (2023). ReAct: Synergizing reasoning and acting in language models. ICLR 2023.
-
-    Zadeh, L. A. (1965). Fuzzy sets. Information and Control, 8(3), 338–353.
-
-    Zaita, D. (2023). Zevo AI-Driven Operating System. Zevo Technology Corporation™.
-
-    International Organization for Standardization. (2021). ISO 690:2021. ISO.
+<h3> AI-Driven Algorithms: DETERMINISTIC ALGORITHMS AND NON DETERMINISTIC ALGORITHM [MACHINE LEARNING ALGORITHMS, DEEP LEARNING ALGORITHMS, NEURAL MESH NETWORK, LARGE LANGUAGE MODEL, ATTENTION MECHANISM, AGENTIC AI INTEGRATION, META-COGNITIVE REFLECTION, COLLECTIVE INTELLIGENCE, META-HIERARCHICAL REFLECTION, SOCIO-TECHNICAL INTEGRATION, ARTIFICIAL GENERAL INTELLIGENCE, SELF-TRANSCENDENCE, COSMIC INTELLIGENCE, ULTIMATE IDENTITY, TRANSFINITE META-IDENTITY, Ω-COMPLETION, KNOWLEDGE OF COMPLETION (K₀), TRANSCENDENTAL FIXED POINT (K_∞), ABSOLUTE FIXED POINT (K(K_∞)))]. </h3>
 
 ``` 
+---
 
+```text
+
+References:
+
+Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
+
+Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press.
+
+Bostrom, N., & He, Y. (2016). The Future of Artificial Intelligence. Oxford University Press.
+
+Brown, T. B., et al. (2020). Language models are few-shot learners. NeurIPS 33.
+
+Buckley, J. J., & Eslami, E. (2002). An Introduction to Fuzzy Logic and Fuzzy Sets. Physica-Verlag.
+
+Cantor, G. (1897). Beiträge zur Begründung der transfiniten Mengenlehre. Teubner.
+
+Chen, C. L. P., Zhang, C.-Y., Chen, L., & Gan, M. (2014). Fuzzy restricted Boltzmann machine. IEEE Trans. Fuzzy Systems, 23(6), 2163–2173.
+
+Cox, M. T. (2005). Metacognition in computation: A selected research review. Artificial Intelligence, 169(2), 104–141.
+
+Dao, T., et al. (2022). FlashAttention. NeurIPS 35.
+
+Giarratano, J. C., & Riley, G. D. (2004). Expert Systems: Principles and Programming (4th ed.). Course Technology.
+
+Goertzel, B. (2014). Artificial General Intelligence: Concept, state of the art, and future prospects. Journal of Artificial General Intelligence, 5(1), 1–48.
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+
+Hegel, G. W. F. (1807). Phänomenologie des Geistes. Wurzburg.
+
+Jackson, P. (1998). Introduction to Expert Systems (3rd ed.). Addison-Wesley.
+
+Jang, J.-S. R. (1993). ANFIS. IEEE Trans. SMC, 23(3), 665–685.
+
+Jech, T. (2003). Set Theory (3rd millennium ed.). Springer.
+
+Kasabov, N. (1996). Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering. MIT Press.
+
+Lawvere, F. W. (1969). Diagonal arguments and Cartesian closed categories. Lecture Notes in Mathematics, 92, 134–145.
+
+Lévy, P. (1997). Collective Intelligence: Mankind's Emerging World in Cyberspace. Plenum.
+
+Liebowitz, J. (Ed.). (1998). The Handbook of Applied Expert Systems. CRC Press.
+
+Love, R. (2010). Linux Kernel Development (3rd ed.). Addison-Wesley.
+
+Malone, T. W., & Bernstein, M. S. (Eds.). (2015). Handbook of Collective Intelligence. MIT Press.
+
+McMahan, B., et al. (2017). Communication-efficient learning of deep networks from decentralized data. AISTATS.
+
+Mendel, J. M. (2017). Uncertain Rule-Based Fuzzy Systems (2nd ed.). Springer.
+
+Mitchell, T. (1997). Machine Learning. McGraw-Hill.
+
+Russell, S., & Norvig, P. (2020). Artificial Intelligence: A Modern Approach (4th ed.). Pearson.
+
+Rutkowski, L. (2004). Flexible Neuro-Fuzzy Systems. Kluwer.
+
+Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press.
+
+Tarski, A. (1955). A lattice-theoretical fixpoint theorem. Pacific Journal of Mathematics, 5(2), 285–309.
+
+Tipler, F. J. (1994). The Physics of Immortality. Doubleday.
+
+Trist, E. L., & Bamforth, K. W. (1951). Some social and psychological consequences of the longwall method. Human Relations, 4(1), 3–38.
+
+Vaswani, A., et al. (2017). Attention is all you need. NeurIPS 30.
+
+Wilber, K. (2000). Integral Psychology. Shambhala.
+
+Woolley, A. W., et al. (2010). Evidence for a collective intelligence factor. Science, 330(6004), 686–688.
+
+Yampolskiy, R. V. (2015). Analysis of types of self-improving software. AGI 2015.
+
+Yanofsky, N. S. (2003). A universal approach to self-referential paradoxes. Bulletin of Symbolic Logic, 9(3), 362–386.
+
+Yao, S., et al. (2023). ReAct: Synergizing reasoning and acting in language models. ICLR 2023.
+
+Zadeh, L. A. (1965). Fuzzy sets. Information and Control, 8(3), 338–353.
+
+Zaita, D. (2023). Zevo AI-Driven Operating System. Zevo Technology Corporation™.
+
+International Organization for Standardization. (2021). ISO 690:2021. ISO.
+
+``` 
 ---
 
 The Zevo architecture is stratified into four distinct layers, functioning as a singular organism.
