@@ -1,4 +1,4 @@
-## Regulation: Artificial Intelligence (Global - International - National)
+## Regulation Law : Artificial Intelligence (Global [UN - United Nations]) - International [Between Country] - National - [Local Country])
 
 <h3> Responsible: AI server provider ("Data Center"), AI service provider ("Application"), and AI consumer ("User") </h3>
 
