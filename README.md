@@ -1,4 +1,4 @@
-## Security Protective Equipment - Default Army - Oliver Green Color
+## Security Protective Equipment - Army Color Default - Oliver Green 
 
 <h3>EPI (Individual Protective Equipment) and EPC (Collective Protective Equipment) are two fundamental pillars of workplace occupational health and safety. The primary difference lies in the scope of protection. EPI protects a single worker, while EPC is installed to protect everyone in the area simultaneously. </h3>
 
