@@ -47,6 +47,8 @@ Or go ahead and go crazy Contradiction the Baphomet.
 
 ### The Big Question: The Solomon was a messianic king ???
 
+---
+
 <h3>Response: King Solomon, the son of David, was his successor; even so, he was not a messianic king. </h3>
 
 ---
