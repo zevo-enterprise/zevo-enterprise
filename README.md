@@ -2,9 +2,13 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
 
+---
+
 ### Regulation Law: Artificial Intelligence (Global [UN - United Nations] - International [Between Country] - National [Local Country])
 
 <h3> Responsible: AI server provider ("Data Center"), AI service provider ("Application"), and AI consumer ("User") </h3>
+
+---
 
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
 
 ## Zevo Technologies Enterprise Company™
 
