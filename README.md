@@ -23,8 +23,9 @@ OBS0: Expert System: Deterministic Algorithms
 Obs0: Stopping condition.
 
 OBS1: Neural System: Non Deterministic Algorithms
-(Eg: Neural Mesh Network Logic)
-Obs1: Grilo Singer, Keep contesting until the day of death arrives—that is, until there is no possibility of stopping.
+(Eg: Neural Mesh Network Logic) AI Hallucination
+Obs1: Grilo Singer, Keep contesting until the day of death arrives—that is,
+until there is no possibility of stopping.
 
 
 OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
