@@ -6,7 +6,9 @@
 
 ### Regulation Law: Artificial Intelligence (Global [UN - United Nations] - International [Between Country] - National [Country])
 
-<h3> Responsible: AI server provider ("Data Center"), AI service provider ("Application"), and AI consumer ("User") </h3>
+<h3> Responsible: AI server provider ("Data Centers"), AI service provider ("Applications"), and AI consumer ("Users") </h3>
+
+<h3>Artificial Intelligence is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in Global, International and National Constitution. </h3>
 
 ---
 
