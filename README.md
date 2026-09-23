@@ -40,7 +40,7 @@ OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms (Eg
 |  [Machine Learning] [LLM Inference] [Neural Mesh] [RIPC]                     |
 +------------------------------------------------------------------------------+
 |  LAYER 1: KERNEL SPACE                                                       |
-|  [Bootstrapping Chain] [FSM] [Security] [Telemetry] [SYSCALL/SYSENTER]       |
+|  [Bootstrapping Chain] [FSM] [SYSCALL/SYSENTER] [Security] [Telemetry]       |
 +------------------------------------------------------------------------------+
 |  LAYER 0: UNIVERSAL HARDWARE DEVICES                                         |
 |  [AMD64 CPU] [GPU/TPU Clusters] [Quantum Co-processors]                      |
