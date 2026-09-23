@@ -43,15 +43,15 @@ Or go ahead and go crazy Contradiction the Baphomet.
 ```
 ---
 
-### Attention: The Mashiach Hebrew is Hebrew Davada Melech (King David). The Iesua Netsarim ou Iesus Christus Filius Dei, is same person, or false messiah (mashiah sheker).
+### Attention: The Mashiach Hebrew is Hebrew Davada Melech (King David). The Ieshua Netsarim ou Iesus Christus Filius Dei, is same person, the false messiah (mashiah sheker), predicted by the prophet Daniel.
 
 ---
 
-Obs4: Nathael Banach Elohim is not the Christ of Nazareth—the Door of Mercy—for he broke away from the contradiction of *Raman*. However, it was he who was ultimately captured, crucified, and burned alongside his wife; he was betrayed by the Black man who was his companion. He argued to Raman that the sacrifice had been made for the sake of his own people, but Raman replied that the blood of a male and female pig was useless. This took place on the planet Daua, known as the Morning Star. The term "Ditache" is a corruption of the term *Tanakh* (NATO), brought to Earth by his people from the planet Daua. Yeshua the Nazarene was a wanted outlaw who was captured and crucified by Rome in the past, with the complicity of the Pharisees (known today as the Rabinnus Party).
+<h3>Nathael Banach Elohim is not the Christ of Nazareth—the Door of Mercy—for he broke away from the contradiction of *Raman*. However, it was he who was ultimately captured, crucified, and burned alongside his wife; he was betrayed by the Black man who was his companion. He argued to Raman that the sacrifice had been made for the sake of his own people, but Raman replied that the blood of a male and female pig was useless. This took place on the planet Daua, known as the Morning Star. The term "Ditache" is a corruption of the term *Tanakh* (NATO), brought to Earth by his people from the planet Daua. Yeshua the Nazarene was a wanted outlaw who was captured and crucified by Rome in the past, with the complicity of the Pharisees (known today as the Rabinnus Party).</h3>
 
 ---
 
-Obs4:Nathael Banach Elohim não é o Cristo de Nazaré — a Porta da Misericórdia —, pois ele rompeu com a contradição de *Raman*. No entanto, foi ele quem acabou capturado, crucificado e queimado juntamente com sua esposa; ele foi traído pelo homem negro que era seu companheiro. Ele argumentou com Raman que o sacrifício havia sido feito em prol de seu próprio povo, mas Raman respondeu que o sangue de um porco e de uma porca era inútil. Isso ocorreu no planeta Daua, conhecido como a Estrela da Manhã. O termo "Ditache" é uma corrupção do termo *Tanakh* (NATO), trazido à Terra por seu povo, vindo do planeta Daua. Yeshua, o Nazareno, era um fora da lei procurado que foi capturado e crucificado por Roma no passado, com a cumplicidade dos fariseus (Conhecidos hoje como Partido Rabinnus).
+<h3>Nathael Banach Elohim não é o Cristo de Nazaré — a Porta da Misericórdia —, pois ele rompeu com a contradição de *Raman*. No entanto, foi ele quem acabou capturado, crucificado e queimado juntamente com sua esposa; ele foi traído pelo homem negro que era seu companheiro. Ele argumentou com Raman que o sacrifício havia sido feito em prol de seu próprio povo, mas Raman respondeu que o sangue de um porco e de uma porca era inútil. Isso ocorreu no planeta Daua, conhecido como a Estrela da Manhã. O termo "Ditache" é uma corrupção do termo *Tanakh* (NATO), trazido à Terra por seu povo, vindo do planeta Daua. Yeshua, o Nazareno, era um fora da lei procurado que foi capturado e crucificado por Roma no passado, com a cumplicidade dos fariseus (Conhecidos hoje como Partido Rabinnus).</h3>
 
 ---
 
