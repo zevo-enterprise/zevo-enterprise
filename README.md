@@ -4,7 +4,7 @@
 
 ---
 
-## How to collaborate: Find the best paid remote collaboration opportunities online. Keep your social security contributions up to date as an entrepreneurial employee.
+## How to collaborate: Find the best paid remote collaborative work opportunities online. Keep your social security contributions up to date as an entrepreneurial professional.
 
 ---
 
