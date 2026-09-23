@@ -1,6 +1,6 @@
 ## Medicinal Herbs™
 
-<h3>We support the medicinal use of cannabis, coca, and *Coleus barbatus* (boldo) leaves for teas and aromatic infusions, but we oppose the hallucinogenic effects caused by smoking the plant.</h3>
+<h3>We support the medicinal use of cannabis leaves, coca leaves, and coleus barbatus leaves (boldo) for teas and aromatic infusions, but we oppose the hallucinogenic effects caused by smoking the plant.</h3>
 
 ## Zevo AI-Driven Mascot Team™
 
