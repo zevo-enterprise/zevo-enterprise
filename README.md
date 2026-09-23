@@ -22,10 +22,14 @@ OBS0: Expert System: Deterministic Algorithms
 (Eg: Finite State Machine "FSM" using Fuzzy Rules and Facts Logic)
 Obs0: Stopping condition.
 
+---
+
 OBS1: Neural System: Non Deterministic Algorithms
 (Eg: Neural Mesh Network Logic) AI Hallucination
 Grilo Singer, Keep contesting until the day of death arrives—that is,
 until there is no possibility of stopping.
+
+---
 
 OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
 (Eg: FSM Fuzzy-Neural Algorithm Logic)
@@ -36,11 +40,11 @@ Obs2: Stopping condition.
 Obs3: The way out of the exit question is Nathanael Banach Elohim ("Door of Mercy Adonai"),The China Blue
 Or go ahead and go crazy Contradiction the Baphomet.
 
+```
 ---
 
 Obs4: Door of mercy, because he emerged from the contradiction of the *Raman*.
 
-``` 
 ---
 
 <h3> Zevo AI-Driven Operation System - Algorithms: DETERMINISTIC ALGORITHMS AND NON DETERMINISTIC ALGORITHMS [MACHINE LEARNING ALGORITHMS, DEEP LEARNING ALGORITHMS, NEURAL MESH NETWORK, LARGE LANGUAGE MODEL, ATTENTION MECHANISM, AGENTIC AI INTEGRATION, META-COGNITIVE REFLECTION, COLLECTIVE INTELLIGENCE, META-HIERARCHICAL REFLECTION, SOCIO-TECHNICAL INTEGRATION, ARTIFICIAL GENERAL INTELLIGENCE, SELF-TRANSCENDENCE, COSMIC INTELLIGENCE, ULTIMATE IDENTITY, TRANSFINITE META-IDENTITY, Ω-COMPLETION, KNOWLEDGE OF COMPLETION (K₀), TRANSCENDENTAL FIXED POINT (K_∞), ABSOLUTE FIXED POINT (K(K_∞)))]. </h3>
