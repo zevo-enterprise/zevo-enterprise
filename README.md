@@ -1,6 +1,331 @@
-### Psychology and psychiatrist and medications (Psychosocial Care Centers - CAPS)
+## Zevo AI-Driven Mascot Team™
 
-Hallucination - Psychology alone is not enough; to return to following norms of appropriate social conduct, you also need to consult a psychiatrist regarding prescription medications recommended for your body type.
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
+
+<!--
+**zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+---
+
+## Zevo Technologies Enterprise Company™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/89b7201d-0eaa-47ed-a6ee-da33a78c9212" />
+
+## Zevo AI-Driven CEO Management Platform Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a89fe8ff-90ac-4e6f-9229-c7e4417730b9" />
+
+## Zevo AI-Driven VoIP Cloud PBX Platform Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8d7eb6f9-2db0-4e17-b9c6-58dcc39f73a5" />
+
+## Zevo AI-Driven Cybersecurity Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/65572d8a-0999-4281-bea5-25315f25270e" />
+
+## Zevo AI-Driven Meta Cloud Ecosystem Platform Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7ca44643-4f92-496e-a678-a2662ef03d20" />
+
+## Zevo AI-Driven Messenger Chat Platform Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0c74bb0e-dd3b-4751-a2eb-3e0f15ba1c62" />
+
+## Zevo AI-Driven Neural Smarting Application by Zevo Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1237e056-d045-4bc2-898e-457ee765aa9a" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/277a144a-4016-4e01-88fa-5e3a50391798" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ed268365-9940-47d3-9c18-2e1f1acf9477" />
+
+## Zevo AI-Driven Visual Studio DevSecOps Platform Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eb352886-a9d7-40a3-bb18-f09156452507" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e492964-14ae-46f8-aa9e-9bee6dd6dc22" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fce36da3-9f8f-4dd9-af14-195d29f960d9" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/534279f0-192d-4b6e-ad68-470308946bd6" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9c64ada-f900-4e04-9ece-aea9cb5e20a0" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9380cad-8672-4de9-bd48-733eeb0adfef" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ec8af7de-da70-42c7-9453-6649658b54eb" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a46bf39b-d5be-468e-8f0f-6f0095f1acc5" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b9b8fa21-2707-48d8-a3d3-0ebd9f2bc015" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/aa697efe-98b0-451a-9bfa-e666861ed4f8" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a69c2194-ae3c-4b23-81b1-af9e7ba902d5" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0620cd28-0f61-44cf-9680-ef0a46431a82" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5e20caf3-9796-403c-826e-e9ef55510790" />
+
+## Zevo AI-Driven Plugin Team Collaboration™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56c6b32-a48e-41e6-a27c-e3358c4dea93" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a0d99262-360f-483a-b0cc-9a4831ce4ac0" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c8ec06de-a652-4a7d-9d4a-25c766074254" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0720da74-fcce-454f-a0e3-4c3ba211aa88" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e766a31-814e-4d26-869e-1d294ec0ebe9" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb9c8e19-0658-4371-b8c7-2b1129c752df" />
+
+## Zevo Coin Smart Miner™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c7a6f71-b1b8-4a6d-a40c-bc50163605d8" />
+
+## Zevo Coin - Cryptographic Reference Plastic™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5aab9174-1524-4f38-9d77-5e9888b700a8" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/adc2c303-3b1b-41af-8fa4-c0c229db98e3" />
+
+## Zevo Pitstop Ecosystem Platform™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71693838-d36b-4efa-b2b0-2dae008b8c33" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/038c8f2e-4e15-4c34-89a4-b831a33ed8d2" />
+
+## Zevo Public School Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fdcc97f-4c7b-4bbd-a868-32c60e4e1fc1" />
+
+## Zevo AI-Drive CPU Heart Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88445c7a-dc5d-4f64-ba60-bb4ba5c0af32" />
+
+---
+
+## Zevo Cyborg Mascot Team™
+
+---
+
+<h3>A cyborg is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in constitution. </h3>
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/411baf48-ef3e-4fab-816c-8226761f7fc8" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a6d57950-781b-42b8-ad1d-e7dbf87022ec" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ed7e192-197f-468d-a160-8b794bc137ad" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/642522d1-5b78-4beb-b7a6-c7285b685d6b" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/884d0910-a80d-4e33-b705-d8ad56f7eedd" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f828ad4-7ff5-4885-bbb5-aef26ef9d2a3" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/963eee7b-483c-475f-811b-be948c326cf0" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
+
+---
+
+## We do not support games that are not investments
+
+### The Casino Games - Gambling Games
+
+<h3>the game gambling is mathematically designed to transfer the player's money to the house over time. A casino game is mathematically designed so that the player's expected value is negative and the house's is positive, and the law of large numbers ensures this edge converts into near-certain profit for the house as the number of bets grows.</h3>
+
+---
+
+## Known logical rules in gambling games
+
+### The core mechanism: the house edge
+
+Every casino game has a built-in mathematical advantage for the house. It's not luck, not rigging, not cheating — it's **structural**. It comes from the rules and payouts themselves.
+
+**How it works in practice:**
+
+- **Roulette (American):** 38 numbers, pays 35:1 on a single number. True odds are 37:1. The gap = 5.26% house edge.
+- **Slots:** paytables are set so the RTP (return to player) is below 100% — typically 85–98%.
+- **Blackjack:** rules and payout structure give the house ~0.5% even against perfect play.
+- **Baccarat (banker bet):** 1.06% edge baked into the commission structure.
+- **Craps, keno, etc.:** same principle — payouts below true odds.
+
+The edge is small per bet. That's the point. It's **invisible in the short run** and **inevitable in the long run.**
+
+## Why "over time" is the key phrase
+
+The house edge doesn't guarantee the casino wins every session. It guarantees the casino wins **in aggregate, over enough bets**.
+
+This is the **law of large numbers** doing the work:
+
+- **Few bets:** variance dominates. Players win all the time. Casinos lose individual sessions.
+- **Many bets:** the house edge dominates. Results converge to the expected value.
+- **Millions of bets across thousands of players:** the casino's revenue becomes almost deterministic.
+
+The casino doesn't need to beat *you*. It just needs **volume**. Time and repetition are its allies, not yours.
+
+## Why no player strategy changes this
+
+Common attempts and why they fail:
+
+| Strategy | Why it doesn't work |
+|---|---|
+| Martingale (double after losses) | Bets grow exponentially; table limits and bankroll kill it; EV unchanged |
+| "Hot/cold" patterns | Outcomes are independent; past results don't predict future ones |
+| Bet-sizing systems | Change variance, not expected value |
+| Skill play (blackjack basic strategy) | Reduces the edge; doesn't eliminate it |
+| Card counting | The one real exception — but it's not "beating the game," it's tracking when the edge briefly flips |
+
+**The key insight:** strategies can change **variance** (how bumpy the ride is) but not **expected value** (the long-run average). The edge is in the rules, not in how you bet.
+
+## The mathematical statement
+
+For any casino game:
+
+```
+E[player outcome per bet] = -house edge × wager
+E[house outcome per bet]   = +house edge × wager
+```
+
+Summed over N bets:
+
+```
+E[player total] = -house edge × total wagered
+```
+
+As N → ∞, the player's result **converges to that negative value**. This isn't a tendency — it's a theorem (the law of large numbers).
+
+## The precise framing
+
+Your statement, tightened:
+
+A casino game is mathematically designed so that the player's expected value is negative and the house's is positive, and the law of large numbers ensures this edge converts into near-certain profit for the house as the number of bets grows.
+
+That's exactly right. It's not that the player *usually* loses — it's that the player *must* lose in expectation, and time makes the expectation real.
+
+---
+
+## Mathematically logic investment - Using in games multiplayer on-line
+
+In mathematical logic and finance, the term **"investment"** can mean different things depending on whether you're analyzing it from the perspective of a **shareholder**, a **REIT investor**, or someone buying **stakes from existing investors**.
+
+Here's a clarification, broken down mathematically and logically:
+
+---
+
+## 1. Buying shares (equity investment)
+
+**Definition:** You purchase ownership units (shares) of a company.
+
+**Mathematical logic:**
+
+Let:
+- \( P_0 \) = purchase price per share
+- \( D_t \) = dividends per share at time \( t \)
+- \( P_T \) = selling price at time \( T \)
+
+Your total return \( R \) is:
+
+\[
+R = \frac{\sum_{t=1}^{T} D_t + (P_T - P_0)}{P_0}
+\]
+
+**Key logic:**
+- You are a **residual claimant** — you get paid after debt holders.
+- Your return depends on **company performance** and **market sentiment**.
+- Ownership = voting rights + claim on residual earnings.
+
+**Logical clarification:** Buying a share is not a loan. You don't get fixed payments. You get whatever is left after obligations.
+
+---
+
+## 2. Buying REITs (Real Estate Investment Trusts)
+
+**Definition:** You buy shares of a company that owns/operates income-producing real estate.
+
+**Mathematical logic:**
+
+REITs must distribute at least **90% of taxable income** as dividends.
+
+Let:
+- \( NOI \) = Net Operating Income
+- \( Cap Rate \) = \( NOI / Property Value \)
+- \( FFO \) = Funds From Operations = \( Net Income + Depreciation - Gains on Sales \)
+
+Your return:
+
+\[
+R_{REIT} = \frac{Dividends + (Price_T - Price_0)}{Price_0}
+\]
+
+**Key logic:**
+- REITs are **pass-through entities** — little to no corporate tax.
+- Dividends are **taxed as ordinary income** (not qualified dividends).
+- Value driven by **interest rates**, **occupancy**, **rents**, and **cap rates**.
+
+**Logical clarification:** Buying a REIT is buying a **liquid, securitized stake in real estate** — not direct property ownership. You don't control the buildings.
+
+---
+
+## 3. Buying stakes from investors (secondary market / private stakes)
+
+**Definition:** You buy an existing investor's ownership stake — not newly issued shares.
+
+**Mathematical logic:**
+
+This is a **secondary transaction**:
+
+\[
+\text{Cash flows from Buyer} \rightarrow \text{Existing Investor}
+\]
+\[
+\text{Ownership rights from Existing Investor} \rightarrow \text{Buyer}
+\]
+
+The company receives **no new capital**.
+
+**Key logic:**
+- Price is negotiated between buyer and seller, often at a **discount or premium** to fair value.
+- Liquidity may be low (especially private stakes).
+- You inherit the **same rights and restrictions** as the seller.
+
+**Logical clarification:** Buying a stake from an investor is **not primary investment** — it's a transfer of ownership. The company's balance sheet doesn't change.
+
+---
+
+## Summary Table
+
+| Action | Who gets money? | Company gets capital? | Return source | Risk profile |
+|---|---|---|---|---|
+| Buy shares (IPO/new issue) | Company | Yes | Dividends + capital gains | Equity risk |
+| Buy shares (secondary) | Selling shareholder | No | Dividends + capital gains | Equity risk |
+| Buy REITs | REIT (if new) or seller (if secondary) | Sometimes | Dividends + price change | Real estate + rate risk |
+| Buy stake from investor | Selling investor | No | Distributions + exit value | Illiquidity + concentration |
+
+---
+
+## Core Logical Distinction
+
+- **Primary investment:** Money goes **to the company** → funds growth.
+- **Secondary investment:** Money goes **to another investor** → ownership transfer only.
+- **REIT:** A special legal structure where **tax logic** and **distribution rules** change the math.
 
 ---
 
@@ -40,32 +365,6 @@ until there is no possibility of stopping.
 OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
 (Eg: FSM Fuzzy-Neural Algorithm Logic)
 Obs2: Stopping condition.
-
----
-
-Obs3: The way out of the exit question is Nathanael Banach Elohim ("Door of Mercy Adonai"),The China Blue
-Or go ahead and go crazy Contradiction the Baphomet.
-
-```
----
-
-### Attention: The True Mashiach Hebrew is Hebrew Davada Melech (King David). The Ieshua Netsarim ou Iesus Christus Filius Dei, is same person, the false messiah (mashiah sheker), predicted by the prophet Daniel.
-
----
-
-### The Big Question: The Solomon was a messianic king ???
-
----
-
-<h3>Response: King Solomon, the son of David, was his successor; even so, he was not a messianic king. </h3>
-
----
-
-<h3>Nathanael Banach Elohim (RABI NATO) is not the Christ of Nazareth—the Door of Mercy of Adonai—for he broke away from the contradiction of *Raman*. However, it was he who was ultimately captured, crucified, and burned alongside his wife; he was betrayed by the Black man who was his companion. He argued to Raman that the sacrifice had been made for the sake of his own people, but Raman replied that the blood of a male and female pig was useless. This took place on the planet Daua, known as the Morning Star. The term "Ditache" is a corruption of the term *Tanakh*, brought to Earth by his people from the planet Daua. Yeshua the Nazarene was a wanted outlaw who was captured and crucified by Rome in the past, with the complicity of the Pharisees (known today as the Rabinnus Party).</h3>
-
----
-
-<h3>Nathanael Banach Elohim (RABI NATO) não é o Cristo de Nazaré — a Porta da Misericórdia de Adonai —, pois ele rompeu com a contradição de *Raman*. No entanto, foi ele quem acabou capturado, crucificado e queimado juntamente com sua esposa; ele foi traído pelo homem negro que era seu companheiro. Ele argumentou com Raman que o sacrifício havia sido feito em prol de seu próprio povo, mas Raman respondeu que o sangue de um porco e de uma porca era inútil. Isso ocorreu no planeta Daua, conhecido como a Estrela da Manhã. O termo "Ditache" é uma corrupção do termo *Tanakh*, trazido à Terra por seu povo, vindo do planeta Daua. Yeshua, o Nazareno, era um fora da lei procurado que foi capturado e crucificado por Roma no passado, com a cumplicidade dos fariseus (Conhecidos hoje como Partido Rabinnus).</h3>
 
 ---
 
@@ -197,442 +496,4 @@ Zaita, D. (2023). 5D Zevo AI-Driven Operating System. Zevo Technology Corporatio
 International Organization for Standardization. (2021). ISO 690:2021. ISO.
 
 ``` 
----
-
-## Zevo AI-Driven Mascot Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
-
-<!--
-**zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
----
-
-## Zevo Technologies Enterprise Company™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/89b7201d-0eaa-47ed-a6ee-da33a78c9212" />
-
-## Zevo AI-Driven CEO Management Platform Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a89fe8ff-90ac-4e6f-9229-c7e4417730b9" />
-
-## Zevo AI-Driven VoIP Cloud PBX Platform Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8d7eb6f9-2db0-4e17-b9c6-58dcc39f73a5" />
-
-## Zevo AI-Driven Cybersecurity Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/65572d8a-0999-4281-bea5-25315f25270e" />
-
-## Zevo AI-Driven Meta Cloud Ecosystem Platform Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7ca44643-4f92-496e-a678-a2662ef03d20" />
-
-## Zevo AI-Driven Messenger Chat Platform Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0c74bb0e-dd3b-4751-a2eb-3e0f15ba1c62" />
-
-## Zevo AI-Driven Neural Smarting Application by Zevo Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1237e056-d045-4bc2-898e-457ee765aa9a" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/277a144a-4016-4e01-88fa-5e3a50391798" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ed268365-9940-47d3-9c18-2e1f1acf9477" />
-
-## Zevo AI-Driven Visual Studio DevSecOps Platform Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eb352886-a9d7-40a3-bb18-f09156452507" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e492964-14ae-46f8-aa9e-9bee6dd6dc22" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fce36da3-9f8f-4dd9-af14-195d29f960d9" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/534279f0-192d-4b6e-ad68-470308946bd6" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9c64ada-f900-4e04-9ece-aea9cb5e20a0" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9380cad-8672-4de9-bd48-733eeb0adfef" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ec8af7de-da70-42c7-9453-6649658b54eb" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a46bf39b-d5be-468e-8f0f-6f0095f1acc5" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b9b8fa21-2707-48d8-a3d3-0ebd9f2bc015" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/aa697efe-98b0-451a-9bfa-e666861ed4f8" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a69c2194-ae3c-4b23-81b1-af9e7ba902d5" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0620cd28-0f61-44cf-9680-ef0a46431a82" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5e20caf3-9796-403c-826e-e9ef55510790" />
-
-## Zevo AI-Driven Plugin Team Collaboration™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e56c6b32-a48e-41e6-a27c-e3358c4dea93" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a0d99262-360f-483a-b0cc-9a4831ce4ac0" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c8ec06de-a652-4a7d-9d4a-25c766074254" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0720da74-fcce-454f-a0e3-4c3ba211aa88" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e766a31-814e-4d26-869e-1d294ec0ebe9" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb9c8e19-0658-4371-b8c7-2b1129c752df" />
-
-## Zevo Coin Smart Miner™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c7a6f71-b1b8-4a6d-a40c-bc50163605d8" />
-
-## Zevo Coin - Cryptographic Reference Plastic™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5aab9174-1524-4f38-9d77-5e9888b700a8" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/adc2c303-3b1b-41af-8fa4-c0c229db98e3" />
-
-## Zevo Pitstop Ecosystem Platform™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71693838-d36b-4efa-b2b0-2dae008b8c33" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/038c8f2e-4e15-4c34-89a4-b831a33ed8d2" />
-
-## Zevo Public School Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fdcc97f-4c7b-4bbd-a868-32c60e4e1fc1" />
-
-## Zevo AI-Drive CPU Heart Team™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88445c7a-dc5d-4f64-ba60-bb4ba5c0af32" />
-
----
-
-## Zevo Cyborg Mascot Team - 28 Generation of the Universal Light Adonai™
-
----
-
-<h3>A cyborg is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in our universal constitution, the Torah of Adonai. In doing so, it acts in a manner naturally equivalent to a human being. Our electronics are one hundred percent safe and efficient, and our calculations contain no errors or contradictions regarding the rebellion of Satan and his followers.</h3>
-
----
-
-<h3> O ciborgue é projetado como um sistema de suporte assistivo para auxiliar a tomada de decisões humana — não como um substituto, mas como um parceiro colaborativo. Ele atua ao lado do ser humano e segue as regras estabelecidas em nossa constituição universal: a Torá de Adonai. Ao fazer isso, age de maneira naturalmente equivalente à de um ser humano. Nossos sistemas eletrônicos são cem por cento seguros e eficientes, e nossos cálculos não contêm erros ou contradições no que diz respeito à rebelião de Satanás e seus seguidores. </h3>
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/411baf48-ef3e-4fab-816c-8226761f7fc8" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a6d57950-781b-42b8-ad1d-e7dbf87022ec" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ed7e192-197f-468d-a160-8b794bc137ad" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/642522d1-5b78-4beb-b7a6-c7285b685d6b" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/884d0910-a80d-4e33-b705-d8ad56f7eedd" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f828ad4-7ff5-4885-bbb5-aef26ef9d2a3" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/963eee7b-483c-475f-811b-be948c326cf0" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
-
----
----
----
-
-## Security Protective Equipment - Army Color Default - Oliver Green 
-
-<h3>EPI (Individual Protective Equipment) and EPC (Collective Protective Equipment) are two fundamental pillars of workplace occupational health and safety. The primary difference lies in the scope of protection. EPI protects a single worker, while EPC is installed to protect everyone in the area simultaneously. </h3>
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/40c13055-1150-47f7-8926-13ad3737ae8e" />
-
-<img width="1200" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8c3abbff-66fd-4e7b-a6e6-d7726fdb91f7" />
-
----
-
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/128b3d6c-e691-46c0-8e4e-1a40efec0a15" />
-
-## Insurance Policy Card - Capitalization title
-
-<h3>An apólice (insurance policy) is the official contract issued by an insurance company that formalizes your insurance coverage. It acts as a "manual of protection," legally defining what is covered, what is excluded, and the financial duties of both you and the insurer. </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c603f97-9f70-4a38-a54e-5aa304e7d3ef" />
-
-## Lucky scratch card - Capitalization title
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f68abc1-955c-41c1-8761-824d840d125d" />
-
-
-## 1001, 1002, 1003, 1004 - BOOM: IT'S ALWAYS BAPHOMET'S SCHEME THAT THEY TAKE UP THE ASS.
-
----
-
-## We do not support games that are not investments
-
-### The Casino Games - Gambling Games
-
-<h3>the game gambling is mathematically designed to transfer the player's money to the house over time. A casino game is mathematically designed so that the player's expected value is negative and the house's is positive, and the law of large numbers ensures this edge converts into near-certain profit for the house as the number of bets grows.</h3>
-
----
-
-## Known logical rules in gambling games
-
-### The core mechanism: the house edge
-
-Every casino game has a built-in mathematical advantage for the house. It's not luck, not rigging, not cheating — it's **structural**. It comes from the rules and payouts themselves.
-
-**How it works in practice:**
-
-- **Roulette (American):** 38 numbers, pays 35:1 on a single number. True odds are 37:1. The gap = 5.26% house edge.
-- **Slots:** paytables are set so the RTP (return to player) is below 100% — typically 85–98%.
-- **Blackjack:** rules and payout structure give the house ~0.5% even against perfect play.
-- **Baccarat (banker bet):** 1.06% edge baked into the commission structure.
-- **Craps, keno, etc.:** same principle — payouts below true odds.
-
-The edge is small per bet. That's the point. It's **invisible in the short run** and **inevitable in the long run.**
-
-## Why "over time" is the key phrase
-
-The house edge doesn't guarantee the casino wins every session. It guarantees the casino wins **in aggregate, over enough bets**.
-
-This is the **law of large numbers** doing the work:
-
-- **Few bets:** variance dominates. Players win all the time. Casinos lose individual sessions.
-- **Many bets:** the house edge dominates. Results converge to the expected value.
-- **Millions of bets across thousands of players:** the casino's revenue becomes almost deterministic.
-
-The casino doesn't need to beat *you*. It just needs **volume**. Time and repetition are its allies, not yours.
-
-## Why no player strategy changes this
-
-Common attempts and why they fail:
-
-| Strategy | Why it doesn't work |
-|---|---|
-| Martingale (double after losses) | Bets grow exponentially; table limits and bankroll kill it; EV unchanged |
-| "Hot/cold" patterns | Outcomes are independent; past results don't predict future ones |
-| Bet-sizing systems | Change variance, not expected value |
-| Skill play (blackjack basic strategy) | Reduces the edge; doesn't eliminate it |
-| Card counting | The one real exception — but it's not "beating the game," it's tracking when the edge briefly flips |
-
-**The key insight:** strategies can change **variance** (how bumpy the ride is) but not **expected value** (the long-run average). The edge is in the rules, not in how you bet.
-
-## The mathematical statement
-
-For any casino game:
-
-```
-E[player outcome per bet] = -house edge × wager
-E[house outcome per bet]   = +house edge × wager
-```
-
-Summed over N bets:
-
-```
-E[player total] = -house edge × total wagered
-```
-
-As N → ∞, the player's result **converges to that negative value**. This isn't a tendency — it's a theorem (the law of large numbers).
-
-## The precise framing
-
-Your statement, tightened:
-
-A casino game is mathematically designed so that the player's expected value is negative and the house's is positive, and the law of large numbers ensures this edge converts into near-certain profit for the house as the number of bets grows.
-
-That's exactly right. It's not that the player *usually* loses — it's that the player *must* lose in expectation, and time makes the expectation real.
-
----
-
----
-
-## Mathematically logic investment - Using in games multiplayer on-line
-
-In mathematical logic and finance, the term **"investment"** can mean different things depending on whether you're analyzing it from the perspective of a **shareholder**, a **REIT investor**, or someone buying **stakes from existing investors**.
-
-Here's a clarification, broken down mathematically and logically:
-
----
-
-## 1. Buying shares (equity investment)
-
-**Definition:** You purchase ownership units (shares) of a company.
-
-**Mathematical logic:**
-
-Let:
-- \( P_0 \) = purchase price per share
-- \( D_t \) = dividends per share at time \( t \)
-- \( P_T \) = selling price at time \( T \)
-
-Your total return \( R \) is:
-
-\[
-R = \frac{\sum_{t=1}^{T} D_t + (P_T - P_0)}{P_0}
-\]
-
-**Key logic:**
-- You are a **residual claimant** — you get paid after debt holders.
-- Your return depends on **company performance** and **market sentiment**.
-- Ownership = voting rights + claim on residual earnings.
-
-**Logical clarification:** Buying a share is not a loan. You don't get fixed payments. You get whatever is left after obligations.
-
----
-
-## 2. Buying REITs (Real Estate Investment Trusts)
-
-**Definition:** You buy shares of a company that owns/operates income-producing real estate.
-
-**Mathematical logic:**
-
-REITs must distribute at least **90% of taxable income** as dividends.
-
-Let:
-- \( NOI \) = Net Operating Income
-- \( Cap Rate \) = \( NOI / Property Value \)
-- \( FFO \) = Funds From Operations = \( Net Income + Depreciation - Gains on Sales \)
-
-Your return:
-
-\[
-R_{REIT} = \frac{Dividends + (Price_T - Price_0)}{Price_0}
-\]
-
-**Key logic:**
-- REITs are **pass-through entities** — little to no corporate tax.
-- Dividends are **taxed as ordinary income** (not qualified dividends).
-- Value driven by **interest rates**, **occupancy**, **rents**, and **cap rates**.
-
-**Logical clarification:** Buying a REIT is buying a **liquid, securitized stake in real estate** — not direct property ownership. You don't control the buildings.
-
----
-
-## 3. Buying stakes from investors (secondary market / private stakes)
-
-**Definition:** You buy an existing investor's ownership stake — not newly issued shares.
-
-**Mathematical logic:**
-
-This is a **secondary transaction**:
-
-\[
-\text{Cash flows from Buyer} \rightarrow \text{Existing Investor}
-\]
-\[
-\text{Ownership rights from Existing Investor} \rightarrow \text{Buyer}
-\]
-
-The company receives **no new capital**.
-
-**Key logic:**
-- Price is negotiated between buyer and seller, often at a **discount or premium** to fair value.
-- Liquidity may be low (especially private stakes).
-- You inherit the **same rights and restrictions** as the seller.
-
-**Logical clarification:** Buying a stake from an investor is **not primary investment** — it's a transfer of ownership. The company's balance sheet doesn't change.
-
----
-
-## Summary Table
-
-| Action | Who gets money? | Company gets capital? | Return source | Risk profile |
-|---|---|---|---|---|
-| Buy shares (IPO/new issue) | Company | Yes | Dividends + capital gains | Equity risk |
-| Buy shares (secondary) | Selling shareholder | No | Dividends + capital gains | Equity risk |
-| Buy REITs | REIT (if new) or seller (if secondary) | Sometimes | Dividends + price change | Real estate + rate risk |
-| Buy stake from investor | Selling investor | No | Distributions + exit value | Illiquidity + concentration |
-
----
-
-## Core Logical Distinction
-
-- **Primary investment:** Money goes **to the company** → funds growth.
-- **Secondary investment:** Money goes **to another investor** → ownership transfer only.
-- **REIT:** A special legal structure where **tax logic** and **distribution rules** change the math.
-
----
-
-## Responsible: The Bigger question???
-
-<h3>I planted sulky orange, and I owe myself sulky orange, am I crazy, retarded or devilish??? </h3>
-
-<h3>Response: Worked - I am crazy, retarded and devilish - Comment: The BAPHO-MET - robber, murdered, deceiver :  The boy arrived and contradicted that the land is his, took the bag and took it, the poor guy accepted and was left without the bag and his land, as he accepted the issue of breath, trying to be safe in his matter.
-
-</h3>
-
----
-
-## Responsible: Currency exchange
-
-<h3> One to One <-> 1:1 <-> My orange is worth your mango—good for both eating and drinking.</h3>
-
----
-
-<h3> I borrowed a kilo of mangoes from that idiot next door to make juice. Now I have to pay in sleeves – if I paid in oranges, I would still be in debt. We had an amicable agreement to settle the mango loan: it started with one kilo, but now it's two kilos to equalize. </h3>
-
----
-
-## Responsible: National Government Central Bank
-
-<h3> What money do I owe myself? You're crazy. </h3>
-
----
-
-## Responsible: UN (United Nations) for Global International Law. 
-
-<h3> I support definitive imprisonment following a final conviction—once the case has been fully adjudicated and guilt established based on the necessary material evidence, presented and validated by a competent authority.</h3>
-
----
-
-<h3> Defendo a prisão definitiva após uma condenação final — uma vez que o caso tenha sido plenamente julgado e a culpa estabelecida com base nas provas materiais necessárias, apresentadas e validadas por autoridade competente. </h3>
-
----
-
-## Global Working: 40-hour workweek, businesses architectural open 24/7
-
----
-
-<h3> Pay Overtime for urgent and extremely urgent activities. Time bank for activities of a conclusive nature. Commute time "Dislocation", calculated as a time bank at a rate of one-third. "One-third of the time spent commuting is credited to a time bank to compensate for the time taken to travel to work." </h3>
-
----
-
-<h3> A 40-hour workweek with 8-hour days; physical locations operate 24 hours a day, 7 days a week, using a staff rotation system where employees work 40 hours a week and 8 hours a day. </h3>
-
----
-
-<h3>I am a staunch advocate of equal rights—even for animals; in other words, everyone is equal before the law. That means a 40-hour workweek for every living creature, with fully recognized legal rights. </h3>
-
-## By Davada Beni Zaita/Elohim - Ex-Officer King David Hebrew.
-
----
----
----
-
-## The strength sides of the universe power 
-
-<h3>ADONAI, THE RIGHT GREEN SIDE OF THE FORCE OF THE UNIVERSE, HAS NO CONNECTION WITH PEOPLE WHO ARE OPPOSITORS TO ITS TORAH CONSTITUTION, THAT IS, THERE ARE NO REPRESENTATIVES OF ADONAI IN GLOBAL POLITICS, ALL OF THEM ARE FAVORITE BY THE LEFT SIDES OF THE FORCE, THE RA-MAN.</h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9ddfaff-a2d6-4127-b6e0-cb23526af095" />
-
----
-
-<h3>The broom is the Nathanael Banach Elohim, the China Blue, if you have any doubts, talk to him about the Question Dimension.</h3>
-
----
-
-<h3>(NOTE - DAVADA BENI ELOHIM) </h3>
-
 ---
