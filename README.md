@@ -43,7 +43,15 @@ Or go ahead and go crazy Contradiction the Baphomet.
 ```
 ---
 
-Obs4: Door of mercy, because he emerged from the contradiction of the *Raman*.
+Obs4: Gate of Mercy, because he broke away from the contradiction of *Raman*. Yet, it was he who ended up captured, crucified, and burned alongside his wife; he was betrayed by the Black man who was his companion. He argued with Raman that the sacrifice had been made for the sake of his own people, but Raman replied that the blood of a male and female pig was useless. This took place on the planet Daua, known as the Morning Star. The term "Ditache" is a corruption of the NATO *Tanakh*, brought to Earth by his people from the planet Daua. Yeshua the Nazarene was a wanted outlaw who was captured and crucified by Rome in the past, with the complicity of the Pharisees (Known today as Rabbinus Party).
+
+---
+
+Obs4: Porta da misericórdia, porque ele saiu da contradição do *Raman*. Mas foi ele quem acabou capturado, crucificado e queimado ao lado de sua esposa; ele foi traído pelo negro que era seu companheiro. Ele argumentou com Raman que o sacrifício havia sido feito pelo bem de seu próprio povo, mas Raman respondeu que o sangue de um porco macho e uma fêmea era inútil. Isso aconteceu no planeta Daua, conhecido como Estrela da Manhã. O termo "Ditache" é uma corruptela do *Tanakh* da OTAN, trazido à Terra por seu povo do planeta Daua. O Nazareno Yeshua era um fora-da-lei procurado que foi capturado e crucificado por Roma no passado, com a cumplicidade dos fariseus (hoje conhecidos como rabinos israelenses).
+
+---
+
+Attention: (Iesua Netsarim - Iesus Christus Filius Dei) The same person, ou false messiah (mashiah sheker). The Mashich Hebrew is King David (Davada Melech). The Nathael Banach Elohim, is not Christum Nazareth, 
 
 ---
 
