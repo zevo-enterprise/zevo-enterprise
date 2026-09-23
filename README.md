@@ -14,9 +14,9 @@
 
 ### Recommendation: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
 
-<h3> Eg: FSM Fuzzy-Neural Algorithm Logic - Start and Restart, Stop, Exit. </h3>
+<h3> Eg: FSM Fuzzy-Neural Algorithm Logic - Standby and Start, Restart, Stop, Exit. </h3>
 
-<h3> Eg: Color Algorithm Logic - Green and Yellow, Blue, White... </h3>
+<h3> Eg: Color Algorithm Logic - Green and Yellow, Blue, White, Alpha... </h3>
 
 <h3> Eg: Power Algorithm Logic - Adonai and Davada, Alaia, Adam, Nato...</h3>
 
