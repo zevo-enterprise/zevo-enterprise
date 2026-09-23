@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3>A cyborg is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in constitution. </h3>
+<h3>A cyborg is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in Global, International and National Constitution. </h3>
 
 ---
 
