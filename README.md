@@ -4,7 +4,7 @@
 
 ---
 
-## How to collaborate: Find the best paid remote collaboration opportunities online. 
+## How to collaborate: Find the best paid remote collaboration opportunities online. Keep your Social Security contributions up to date.
 
 ---
 
