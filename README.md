@@ -14,7 +14,7 @@
 
 <h3>How can a massive hacker attack by an adversary nation against a fixed target in another country be blocked? </h3>
 
-<h3> Response: Deny everything to the country enemy </h3>
+<h3> Response: Deny everything to the country opposition </h3>
 
 ---
 
