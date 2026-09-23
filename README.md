@@ -4,7 +4,7 @@ Psychology alone is not enough; to return to following norms of appropriate soci
 
 ---
 
-## Regulation Law: Artificial Intelligence (Global [UN - United Nations] - International [Between Country] - National [Local Country])
+### Regulation Law: Artificial Intelligence (Global [UN - United Nations] - International [Between Country] - National [Local Country])
 
 <h3> Responsible: AI server provider ("Data Center"), AI service provider ("Application"), and AI consumer ("User") </h3>
 
