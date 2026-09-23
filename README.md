@@ -43,7 +43,7 @@ Or go ahead and go crazy Contradiction the Baphomet.
 ```
 ---
 
-### Attention: The Mashiach Hebrew is Hebrew Davada Melech (King David). The Ieshua Netsarim ou Iesus Christus Filius Dei, is same person, the false messiah (mashiah sheker), predicted by the prophet Daniel.
+### Attention: The True Mashiach Hebrew is Hebrew Davada Melech (King David). The Ieshua Netsarim ou Iesus Christus Filius Dei, is same person, the false messiah (mashiah sheker), predicted by the prophet Daniel.
 
 ---
 
