@@ -47,7 +47,7 @@ In traditional systems, these are daemons. In Zevo, these are Agentic AI Integra
 
 The user space is redefined as a Socio-Technical Integration environment. Applications are not static binaries but evolving entities capable of Self-Transcendence.
 
-## **Table 0: Zevo Layer Architecture Mapping** 
+## **Table 0: Zevo OS - Layer Architecture Mapping** 
 
 ```text
 +------------------------------------------------------------------------------+
@@ -58,7 +58,7 @@ The user space is redefined as a Socio-Technical Integration environment. Applic
 |  [LLM Inference] [Neural Mesh] [Meta-Cognitive Reflection Engine]            |
 +------------------------------------------------------------------------------+
 |  LAYER 1: KERNEL SPACE                                                       |
-|  [Deterministic Scheduler] [Hyper-dim Memory Manager] [SYSCALL/SYSENTER]     |
+|  [Bootstraping Chain] [Security] [Telemetry] [SYSCALL/SYSENTER]              |
 +------------------------------------------------------------------------------+
 |  LAYER 0: UNIVERSAL HARDWARE DEVICES                                         |
 |  [AMD64 CPU] [GPU/TPU Clusters] [Quantum Co-processors]                      |
