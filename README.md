@@ -4,11 +4,14 @@
 
 ---
 
+<h3>Artificial Intelligence is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in Global, International and National Constitution. </h3>
+
 ### Regulation Law: Artificial Intelligence (Global [UN - United Nations] - International [Between Country] - National [Country])
 
 <h3> Responsible: AI server provider ("Data Centers"), AI service provider ("Applications"), and AI consumer ("Users") </h3>
 
-<h3>Artificial Intelligence is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in Global, International and National Constitution. </h3>
+### Recommendation: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
+(Eg: FSM Fuzzy-Neural Algorithm Logic) Stopping condition.
 
 ---
 
