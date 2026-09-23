@@ -1,6 +1,6 @@
-## Responsible: Global Regulation Artificial Intelligence 
+## Regulation: Global Artificial Intelligence 
 
-<h3> AI server provider ("Data Center"), AI service provider ("Application"), and consumer AI ("User") </h3>
+<h3> Responsible: AI server provider ("Data Center"), AI service provider ("Application"), and consumer AI ("User") </h3>
 
 ---
 
