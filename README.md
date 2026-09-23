@@ -52,7 +52,7 @@ The user space is redefined as a Socio-Technical Integration environment. Applic
 ```text
 +------------------------------------------------------------------------------+
 |  LAYER 3: SERVICES SPACE (User Applications)                                 |
-|  [AGI Agents] [Self-Transcendence Modules] [Ultimate Identity UI]            |
+|  [AGI Agents] [Self-Transcendence Modules] [Ultimate Identity UI] [R-IPC]    |
 +------------------------------------------------------------------------------+
 |  LAYER 2: SERVERS SPACE                                                      |
 |  [Machine Learning] [LLM Inference] [Neural Mesh]                            |
