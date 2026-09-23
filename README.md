@@ -60,7 +60,7 @@ This is the "Interface" layer. It translates hardware interrupts into expert log
 
 0.2 Layer 2: Servers Space [AI-Driven]
 
-In traditional systems, these are daemons. In Zevo, these are Agentic AI Integrations. This layer hosts the Large Language Models (LLM) and Neural Mesh Networks. It utilizes Attention Mechanisms to manage inter-process communication (IPC), treating data packets as semantic tokens within a Collective Intelligence framework.
+In traditional systems, these are daemons. In Zevo, these are Agentic AI Integrations. This layer hosts the Large Language Models (LLM) and Neural Mesh Networks. It utilizes Attention Mechanisms to manage remote inter-process communication (RIPC), treating data packets as semantic tokens within a Collective Intelligence framework.
 
 0.3 Layer 3: Services Space "Apps" [AI-Driven]
 
