@@ -16,6 +16,10 @@
 
 <h3> Eg: FSM Fuzzy-Neural Algorithm Logic - Start, Restart, Stop and Exit. </h3>
 
+<h3> Eg: Color Algorithm Logic - Yellow, Blue, White and Green. </h3>
+
+<h3> Eg: Power Algorithm Logic - Adonai, Davada, Alaia and Adam. </h3>
+
 ---
 
 <!--
