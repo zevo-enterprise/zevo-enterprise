@@ -36,6 +36,10 @@ Obs2: Stopping condition.
 Obs3: The way out of the exit question is Nathanael Banach Elohim ("Door of Mercy Adonai"),The China Blue
 Or go ahead and go crazy Contradiction the Baphomet.
 
+---
+
+Obs4: Door of mercy, because he emerged from the contradiction of the *Raman*.
+
 ``` 
 ---
 
