@@ -34,10 +34,10 @@ OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms (Eg
 ```text
 +------------------------------------------------------------------------------+
 |  LAYER 3: SERVICES SPACE (Applications) Eg: Zevo AI-Driven Cloud Meta Spaces |
-|  [AGI Agents] [Self-Transcendence Modules] [Ultimate Identity UI] [R-IPC]    |
+|  [AGI Agents] [Self-Transcendence Modules] [Ultimate Identity UI]            |
 +------------------------------------------------------------------------------+
 |  LAYER 2: SERVERS SPACE                                                      |
-|  [Machine Learning] [LLM Inference] [Neural Mesh]                            |
+|  [Machine Learning] [LLM Inference] [Neural Mesh] [RIPC]                     |
 +------------------------------------------------------------------------------+
 |  LAYER 1: KERNEL SPACE                                                       |
 |  [Bootstrapping Chain] [Security] [Telemetry] [SYSCALL/SYSENTER]             |
