@@ -27,10 +27,13 @@ OBS1: Neural System: Non Deterministic Algorithms
 Obs1: Grilo Singer, Keep contesting until the day of death arrives—that is,
 until there is no possibility of stopping.
 
-
 OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
 (Eg: FSM Fuzzy-Neural Algorithm Logic)
 Obs2: Stopping condition.
+
+---
+
+Obs3: The way out of the exit question is Nathanael Banach Elohim, The China Blue.
 
 ``` 
 ---
