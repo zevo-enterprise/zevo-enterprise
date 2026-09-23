@@ -4,6 +4,10 @@
 
 ---
 
+## How to collaborate: Look for one of our associates online.
+
+---
+
 <h3>Artificial Intelligence is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in Global, International and National Constitution. </h3>
 
 ---
@@ -15,10 +19,6 @@
 ### Recommendation: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
 
 <h3> Eg: FSM Fuzzy-Neural Algorithm Logic - Standby and Start, Restart, Stop, Exit. </h3>
-
-<h3> Eg: Color Algorithm Logic - Green and Yellow, Blue, White, Alpha... </h3>
-
-<h3> Eg: Power Algorithm Logic - Adonai and Davada, Alaia, Adam, Nato...</h3>
 
 ---
 
