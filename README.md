@@ -4,7 +4,7 @@
 
 ---
 
-## 5D Zevo Hybrid Operation System (Research and Prototype - RP)™
+## 5D Zevo AI-Driven Operation System (Research and Prototype - RP)™
 
 <h3> Zevo is designed as a "Monolith Kernel Unix/Linux" equivalent, meaning it centralizes core services in the kernel space for efficiency while extending functionality into hyper-dimensional AI realms. It operates not merely on a linear timeline but across a spiral in the cartesian plane, situated within a five-dimensional coordinate system (Axis: Origin, Length, Width, Height, Radial).
 </br></br>
@@ -147,7 +147,7 @@ Yao, S., et al. (2023). ReAct: Synergizing reasoning and acting in language mode
 
 Zadeh, L. A. (1965). Fuzzy sets. Information and Control, 8(3), 338–353.
 
-Zaita, D. (2023). Zevo AI-Driven Operating System. Zevo Technology Corporation™.
+Zaita, D. (2023). 5D Zevo AI-Driven Operating System. Zevo Technology Corporation™.
 
 International Organization for Standardization. (2021). ISO 690:2021. ISO.
 
