@@ -4,6 +4,10 @@
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/40c13055-1150-47f7-8926-13ad3737ae8e" />
 
+<img width="1200" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8c3abbff-66fd-4e7b-a6e6-d7726fdb91f7" />
+
+---
+
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/128b3d6c-e691-46c0-8e4e-1a40efec0a15" />
 
 ## Insurance Policy Card - Capitalization title
