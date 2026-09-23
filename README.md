@@ -8,20 +8,6 @@
 
 ---
 
-<h3>Artificial Intelligence is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in Global, International and National Constitution. </h3>
-
----
-
-### Regulation Law: Artificial Intelligence (Global [UN - United Nations] - International [Between Country] - National [Country])
-
-<h3> Responsible: AI server provider ("Data Centers"), AI service provider ("Applications"), and AI consumer ("Users") </h3>
-
-### Recommendation: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
-
-<h3> Eg: FSM Fuzzy-Neural Algorithm Logic - Standby and Start, Restart, Stop, Exit. </h3>
-
----
-
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -160,6 +146,20 @@ Here are some ideas to get you started:
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/963eee7b-483c-475f-811b-be948c326cf0" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
+
+---
+
+<h3>Artificial Intelligence is designed as an assistive support system to aid human decision-making — not as a replacement, but as a collaborative partner. It stands alongside the human and adheres to the rules established in Global, International and National Constitution. </h3>
+
+---
+
+### Regulation Law: Artificial Intelligence (Global [UN - United Nations] - International [Between Country] - National [Country])
+
+<h3> Responsible: AI server provider ("Data Centers"), AI service provider ("Applications"), and AI consumer ("Users") </h3>
+
+### Recommendation: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
+
+<h3> Eg: FSM Fuzzy-Neural Algorithm Logic - Standby and Start, Restart, Stop, Exit. </h3>
 
 ---
 
