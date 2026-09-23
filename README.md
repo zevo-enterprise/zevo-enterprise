@@ -4,7 +4,7 @@
 
 ---
 
-## 5D Zevo Hybrid Operation System™
+## 5D Zevo Hybrid Operation System (Research and Prototype - RP)™
 
 <h3> Zevo is designed as a "Monolith Kernel Unix/Linux" equivalent, meaning it centralizes core services in the kernel space for efficiency while extending functionality into hyper-dimensional AI realms. It operates not merely on a linear timeline but across a spiral in the cartesian plane, situated within a five-dimensional coordinate system (Axis: Origin, Length, Width, Height, Radial).
 </br></br>
