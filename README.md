@@ -2,6 +2,8 @@
 
 <h3>EPI (Individual Protective Equipment) and EPC (Collective Protective Equipment) are two fundamental pillars of workplace occupational health and safety. The primary difference lies in the scope of protection. EPI protects a single worker, while EPC is installed to protect everyone in the area simultaneously. </h3>
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/40c13055-1150-47f7-8926-13ad3737ae8e" />
+
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/128b3d6c-e691-46c0-8e4e-1a40efec0a15" />
 
 ## Insurance Policy Card - Capitalization title
