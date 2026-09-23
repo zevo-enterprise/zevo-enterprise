@@ -18,9 +18,14 @@ Drawing from Yaghmour et al. (Building Embedded Linux Systems), Zevo utilizes a 
 
 ```text
 
-OBS0: Expert System: Deterministic Algorithms (Eg: Fuzzy Rules and Facts Logic)
-OBS1: Neural System: Non Deterministic Algorithms (Eg: Neural Logic)
-OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms (Eg: Fuzzy-Neural Algorithm Logic)
+OBS0: Expert System: Deterministic Algorithms
+(Eg: Finite State Machine "FSM" using Fuzzy Rules and Facts Logic)
+
+OBS1: Neural System: Non Deterministic Algorithms
+(Eg: Neural Mesh Network Logic)
+
+OBS2: AI-Driven System: Union Deterministic and Non Deterministic Algorithms
+(Eg: FSM Fuzzy-Neural Algorithm Logic)
 
 ``` 
 ---
