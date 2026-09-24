@@ -26,6 +26,10 @@
 
 ## Se eu fosse o presidente, seria eu, eu e eu e só depois quem pagar o melhor preço pelo que é meu. Eles mandam o que há de melhor para casa do KARAI e os otarios pagando caro para comer a bosta do babai.
 
+## Da Bolsa Miseria para Bolsa Cooperação
+
+## Se eu fosse o presidente, primeiro passo é muito, voltamos ao tempo das cooperativas em geral, prioridade de trabalho cooperado é para todos que tem bolsa familia e valores reajustados de acordo com plano de cargos e salarios, os caso excessivos rebem um salario minimo, ou seja os doentes que seriam aposentados. Exemplos os deficientes visuais, visoes paciais e com dificuldade de mobilidade.
+
 ---
 
 <h3>Será que o "ouro negro" está sendo extraído, refinado e distribuído pelo próprio dono do "ouro negro", ou será que já entregaram tudo para o bandido????</h3>
