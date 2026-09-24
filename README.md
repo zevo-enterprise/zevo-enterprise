@@ -1,6 +1,6 @@
 ## Try to capture me, here and commander Davada Beni Elohim - Zaita
 
-<h3> Put my name on the blacklist, Davada Beni Elohim, because your name is on my list of the dead. (All Enemies) </h3>
+<h3> Put my name on the blacklist, Davada Beni Elohim/Zaita, because your name is on my list of the dead. (All Enemies) </h3>
 
 ---
 
