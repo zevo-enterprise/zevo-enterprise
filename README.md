@@ -24,7 +24,7 @@
 
 ---
 
-## Brincadeira: Jokenpô - Pedra (Piramide), papel (Money) e tesoura (Estrela do Matao)
+## Brincadeira: Jokenpô - Pedra (Piramide), Papel (Dinheiro) e Tesoura (Estrela do Sertão)
 
 ---
 
