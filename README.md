@@ -20,7 +20,7 @@
 
 ---
 
-## Defensive approaches organizations use against nation-state threats:
+## Defensive approaches organizations use against nation-state threats
 
 ```text
 
