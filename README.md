@@ -4,7 +4,7 @@
 
 ---
 
-## Zevo Bizu: How to manufacture your own legal firearm
+## Zevo Bizu: We do not support the Baphomet scheme.
 
 <h3> We don't back the Baphomet scheme; once you pick a fight with the "Green Side of the Force" and don't back down, it's a coffin and a shroud for the sucker—and if you don't like it, go fuck yourself.</h3>
 
@@ -19,6 +19,8 @@
 ---
 ---
 ---
+
+## Zevo Bizu: How to manufacture your own legal firearm
 
 <h3> 0 - First, request authorization from the responsible authority to manufacture your own firearm at home for personal defense. </h3>
 
