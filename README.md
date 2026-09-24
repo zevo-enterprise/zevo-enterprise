@@ -28,7 +28,7 @@
 
 ---
 
-## Sera que o ministro da defesa da guerra dos vassorao e o comandante braba já prestou conta com a população sobre os gastos da guerra das vassouras ao extremo da história da questão gasta todo ano com serviço obrigatorio militao ???
+## Fico imaginando se o Ministro da Defesa e o Comandante Braba já prestaram contas com o povo da nação em público sobre os custos vultosos associados à "Guerra do Vassourão" — e a toda a saga em torno do serviço militar obrigatório ao extremo da historia questao. ???
 
 ---
 
