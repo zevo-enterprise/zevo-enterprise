@@ -30,8 +30,11 @@
 
 <h3>Verdão para todos os Pracas Militao</h3>
 
-
 <img width="450" height="444" alt="Image" src="https://github.com/user-attachments/assets/1fb2a5db-4a6f-48be-ba7c-352c72032fb6" />
+
+<h3>Quepes para todos os Pracas Militao</h3>
+
+<img width="516" height="387" alt="Image" src="https://github.com/user-attachments/assets/0f1b41fe-faff-4b02-945c-aace70dcd2d1" />
 
 ---
 
