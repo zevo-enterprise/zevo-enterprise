@@ -28,6 +28,8 @@
 
 ---
 
+## E o tira e bota, bota e tira — todo ano entra, mas, todo ano, sai, e os gastos vultosos ficam ocultos na porta dos fundos.
+
 ## Fico imaginando se o Ministro da Defesa e o Comandante Braba já prestaram contas com o povo da nação em público na televisão sobre os custos vultosos associados à "Guerra do Vassourão" — e a toda a saga em torno do serviço obrigatório militão ao extremo da historia questao. ???
 
 ---
