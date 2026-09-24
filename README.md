@@ -12,7 +12,7 @@
 
 ---
 
-<h3>Armas de distincao para todos os militao iniciando no baixo escalao ate o chefao militao</h3>
+<h3>Armas de distincao para todos os militao iniciando no baixo escalao ate o chefao militao na historinha da questao</h3>
 
 ---
 
