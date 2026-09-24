@@ -14,6 +14,8 @@
 
 <h3>Armas de distincao para todos os militao iniciando no baixo escalao ate o chefao militao</h3>
 
+---
+
 <img width="656" height="467" alt="Image" src="https://github.com/user-attachments/assets/51f8d3ff-f9ad-4d9d-8421-867ad3addaba" />
 
 ---
