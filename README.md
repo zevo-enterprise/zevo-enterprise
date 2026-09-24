@@ -28,6 +28,10 @@
 
 ---
 
+## Gostou Samango, Pau que da chico, tambem bate em frilho de francisco.
+
+---
+
 ## Pode sentar o cacete ao vivo na TV ao extremo da historia da QUESTAO no BRABA, pelo Caro Zaita.
 
 ---
