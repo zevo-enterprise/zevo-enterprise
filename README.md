@@ -12,7 +12,7 @@
 
 ---
 
-<h3>Sera que ja mudaram a legislacao para militacao ser associado e politacao de qualquer posto ou graduaçao mesmo tendo se reforma na historia da questão ???  </h3>
+<h3>Sera que ja mudaram a legislacao para militacao ser associado e politacao de qualquer posto ou graduaçao mesmo tendo se reformado na historia da questão ???  </h3>
 
 ---
 
