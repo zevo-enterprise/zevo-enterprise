@@ -32,7 +32,7 @@
 
 ---
 
-## Sera que acabou a guerra das vasouras e dos cabos ??? É para deixar de existir o servico obrigado do diabo, que leva os jovens coitados para varrear o patio sem ter sido convidado...
+## Sera que acabou a guerra das vasouras e dos cabos ??? É para deixar de existir o servico obrigado do diabo, que leva os jovens coitados para varrear o patio sem ter sido convidado ao extremo da história da questão.
 
 ---
 
