@@ -12,7 +12,7 @@
 
 ---
 
-<h3> E direito de todo cidadão saber fazer e ter a posse um arma de fogo legalizada em sua casa para defesa pessoal. </h3>
+<h3> É de direito de todo cidadão saber fazer e ter a posse de uma arma de fogo legalizada em sua casa para defesa pessoal. </h3>
 
 ---
 
