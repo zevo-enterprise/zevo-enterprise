@@ -22,7 +22,7 @@
 
 ## É so alfineda massa
 
-## Sera que guerra das vasouras e dos cabos ja acabou, para deixar de existir o servico obrigado do diabo, que leva os jovens coitados para varrear o patio sem ter sido convidado???
+## Sera que acabou a guerra das vasouras e dos cabos ??? É para deixar de existir o servico obrigado do diabo, que leva os jovens coitados para varrear o patio sem ter sido convidado...
 
 ---
 
