@@ -8,11 +8,11 @@
 
 ---
 
-<h3> It is every citizen's right to know how to use and to possess a legal firearm in their home for self-defense. </h3>
+<h3> It is every citizen's right to know how to use and to possess a register firearm in their home for self-defense. </h3>
 
 ---
 
-<h3> É de direito de todo cidadão saber fazer e ter a posse de uma arma de fogo legalizada em sua casa para defesa pessoal. </h3>
+<h3> É de direito de todo cidadão saber fazer e ter a posse de uma arma de fogo registrada em sua casa para defesa pessoal. </h3>
 
 ---
 
