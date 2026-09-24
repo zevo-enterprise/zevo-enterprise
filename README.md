@@ -14,6 +14,10 @@
 
 ---
 
+</h3> Fudeu ou não fude o KU, na historinha da questão do Bati BUMBUM ??? </h3>
+
+---
+
 <h3> Continue votando neles.</h3>
 
 <h3>Keep voting for them.</h3>
