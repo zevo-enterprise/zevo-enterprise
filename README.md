@@ -12,6 +12,10 @@
 
 ---
 
+<h3>Sera que ja mudaram a legislacao para militacao ser associado e politacao de qualquer posto ou graduaçao mesmo tendo se reforma na historia da questão ???  </h3>
+
+---
+
 <h3>Sera que ja acabou a guerra da embostadas??? Para implantar o serviço voluntariada milatada quando alguem bater as botas na historinha da questão na estrada!!! </h3>
 
 ---
