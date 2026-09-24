@@ -24,6 +24,12 @@
 
 ---
 
+## Tem muita arma massa uma cava a cova e outra a lasca para jogar dentro a merda amada
+
+<img width="554" height="554" alt="Image" src="https://github.com/user-attachments/assets/1ccdfa6a-595d-4d80-9373-8dfbec606ab8" />
+
+---
+
 ## 1 - 2 - 3 - 4 - 5 - Mil foi para a ponte que caiu.
 
 ## 1 - 2 - 3 - Guarda a vassoura, chama a lora e toma uma quiboa
