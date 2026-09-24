@@ -26,7 +26,7 @@
 
 ## Da Bolsa Miseria para Bolsa Cooperação
 
-## Se eu fosse o presidente, primeiro passo é muito, voltamos ao tempo das cooperativas em geral, prioridade de trabalho cooperado é para todos que tem bolsa familia e valores reajustados de acordo com plano de cargos e salarios, os caso excessivos rebem um salario minimo, ou seja os doentes que seriam aposentados. Exemplos os deficientes visuais, visoes paciais e com dificuldade de mobilidade.
+## Se eu fosse o presidente, primeiro passo é muito fácil, voltamos ao tempo das cooperativas em geral, prioridade de trabalho cooperado é para todos que tem bolsa familia e valores reajustados de acordo com plano de cargos e salarios, os caso excessivos rebem um salario minimo, ou seja os doentes que seriam aposentados. Exemplos os deficientes visuais, visoes paciais e com dificuldade de mobilidade.
 
 ---
 
