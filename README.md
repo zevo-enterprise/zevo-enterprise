@@ -32,7 +32,7 @@
 
 <h3> Dos oficiais (Cadete - Aspirante): Academia Militar e suas unidades de instrução </h3>
 
-<h3> Dos Pracas (Aluno - Ponteiro - "Privada") : Escola Militar e suas unidades de instrução </h3>
+<h3> Dos Pracas (Aluno - Samango) : Escola Militar e suas unidades de instrução </h3>
 
 
 ---
