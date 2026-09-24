@@ -20,7 +20,10 @@
 
 ---
 
-## Fudeu ou não fude o KU, na historinha da questão do Bati BUMBUM ???
+## Tranzou com Ku no Bati BUMBUM ???
+
+
+## < | > Davada - Dada < Vava | > DADA
 
 ---
 
