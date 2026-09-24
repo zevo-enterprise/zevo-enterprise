@@ -72,11 +72,11 @@
 
 ---
 
-# Antisemitism does not exist.
+# Semitism does not exist, and neither does antisemitism.
 
 ---
 
-# NÃO EXISTE ANTISSEMITISMO
+# O Semitismo não existe e antissemitismo também não.
 
 ---
 
