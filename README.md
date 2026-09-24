@@ -2,6 +2,8 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
 
+---
+
 ## Zevo Tips Mascot Team - Attack on a Sensitive Fixed Point™
 
 ---
