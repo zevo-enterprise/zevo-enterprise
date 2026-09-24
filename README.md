@@ -8,6 +8,10 @@
 
 ---
 
+<h3> It is every citizen's right to know how to use and to possess a legal firearm in their home for self-defense. </h3>
+
+---
+
 ## Zero Step: Making Sandbox Mold or Making 3D Mold
 
 ## One Step: Metal Aluminum Casting on Sandbox Mold or 3D Mold
