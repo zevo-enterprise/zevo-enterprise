@@ -4,7 +4,15 @@
 
 ---
 
-## Zevo Bizu: 
+## Zevo Bizu:
+
+---
+
+<h3>I oppose double taxation on anything whatsoever. </h3>
+
+<h3>Sou contra a dupla tributação sobre qualquer coisa.</h3>
+
+---
 
 <h3>Don't forget to pay your professional social security.</h3>
 
