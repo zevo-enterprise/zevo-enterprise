@@ -28,7 +28,9 @@
 
 ---
 
-## Cade o arbitro para marca a falta do funcionario publico canditado??? E se o arbitro deixar a bola rodar tendo sido falta, o que da para o arbitro que deixou a bola rolar quem marcar falta na area declarada no VAR, pelo TSE tambem tem constas a prestar com populacao sobre a falta na grande area que deixou de marcar sobre o funcionalismo publico que qer se eleitorar
+## Onde está o árbitro para marcar a falta cometida pelo agente público que concorre a um cargo politizado? E se o árbitro deixar o jogo seguir apesar da falta na grande area — o que acontece com o juiz que permitiu a continuidade da partida? Quem apita a falta na "área do VAR" — ou seja, o TSE — também precisa prestar contas ao público sobre a infração na grande área que deixou de marcar contra o agente público que se mentou a canditar.
+
+## Pelas as regras do jogo o agente publico tem que ser afasto varios meses antes e reformado militao não pode, não pode, não pode não, ao mesmo que seja exonerado a ex-officio meu caro arbrito.
 
 ---
 
