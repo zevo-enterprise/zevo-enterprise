@@ -8,6 +8,14 @@
 
 ---
 
+<h3> Continue votando neles.</h3>
+
+---
+
+<h3>Keep voting for them.</h3>
+
+---
+
 <h3>I oppose double (Triple...) taxation on anything whatsoever. </h3>
 
 <h3>Sou contra a dupla, (Tripla...) tributação sobre qualquer coisa.</h3>
