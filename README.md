@@ -20,6 +20,8 @@
 
 ## One Step: Metal Aluminum Casting on Sandbox Mold or 3D Mold
 
+## Two Step: Refining firearm handling
+
 ---
 
 <h3> Word: Sand Casting Process <h3>
