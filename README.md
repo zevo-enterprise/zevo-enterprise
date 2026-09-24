@@ -30,7 +30,7 @@
 
 ---
 
-## Dos Samangos - Acesso à defesa nacional em tempos de paz e de guerra - 30 Anos de Serviços
+## Dos Samangos e Recrutas- Acesso à defesa nacional em tempos de paz (Samango) e de guerra (Recruta) - 30 Anos de Serviços
 
 <h3> Dos Oficiais (Cadete - Aspirante maximo Gal. Ultimo Posto): Academia militar e suas unidades de instrução </h3>
 
