@@ -8,6 +8,10 @@
 
 ---
 
+## Tranzou com Ku no BATI BUMBUM ???
+
+---
+
 <h3>That's why I vote::: 00000. </h3>
 
 <h3>Por isso eu voto::: 00000. </h3>
@@ -33,10 +37,6 @@
 ---
 
 <h3> Uma questão antiga e dolorosa: quais são os nomes dos filhos de Noé? Sem, Cam e Jafé. O que é semitismo? Refere-se àqueles que favorecem os descendentes de Sem. O que é antissemitismo? Refere-se àqueles que são contra os descendentes de Sem. </h3>
-
----
-
-## Tranzou com Ku no BATI BUMBUM ???
 
 ---
 
