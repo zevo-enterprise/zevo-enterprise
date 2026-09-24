@@ -48,12 +48,14 @@
 
 ---
 
-<h3> Can some school-based tribunal of illiterates—the kind that could turn a dog into a human—be taken seriously and considered of Semitic descent? Algum tribunal trino escolar formado anafalbetos que transformar um cachorro em gente pode ser levado a seria e considerado semita descende?? </h3>
+<h3> Can some school-based tribunal of illiterates—the kind that could turn a dog into a human—be taken seriously and considered of Semitic descent? </h3>
+
+--- 
+ 
+<h3> Algum tribunal trino escolar formado anafalbetos que transformar um cachorro em gente pode ser levado a seria e considerado semita descende?? </h3>
 
 ---
-
-<h3>  Can some school-based tribunal of illiterates—the kind that could turn a dog into a human—be taken seriously and considered of Semitic descent? </h3>
-
+---
 ---
 
 ## Gostou Samango, Pau que da em chico, tambem bate em filho de francisco.
