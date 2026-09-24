@@ -12,6 +12,14 @@
 
 ---
 
+<h3>I am fully in favor of retirees continuing to contribute so that those who follow can also retire.</h3>
+
+---
+
+<h3>Sou completamente a favor de aposentado continuar colaborando para que os proximos tambem sejao aposentados. </h3>
+
+---
+
 <img width="637" height="313" alt="Image" src="https://github.com/user-attachments/assets/c2688a5a-4e01-4776-a678-b1ea8447cee3" />
 
 ---
