@@ -40,6 +40,14 @@
 
 ---
 
+<h3> Existe alguém que, após quatro gerações, possa provar — utilizando documentos oficiais reconhecidos internacionalmente que remontam ao Crescente Fértil — que é legalmente reconhecido como descendente de Sem? </h3>
+
+---
+
+<h3>Is there anyone who, after four generations, can prove—using internationally recognized official documents dating back to the Fertile Crescent—that they are legally recognized as a descendant of Shem? </h3>
+
+---
+
 ## Gostou Samango, Pau que da em chico, tambem bate em filho de francisco.
 
 ---
