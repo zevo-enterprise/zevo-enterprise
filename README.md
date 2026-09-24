@@ -14,13 +14,17 @@
 
 ---
 
-</h3> Fudeu ou não fude o KU, na historinha da questão do Bati BUMBUM ??? </h3>
-
----
-
 <h3> Continue votando neles.</h3>
 
 <h3>Keep voting for them.</h3>
+
+---
+
+## Fudeu ou não fude o KU, na historinha da questão do Bati BUMBUM ???
+
+---
+
+## SE FOSSE O PRESIDENTE, PRIMEIRO EU,EU,EU DEPOIS QUEM PAGAR MELHOR PELO QUE É MEU ???
 
 ---
 
