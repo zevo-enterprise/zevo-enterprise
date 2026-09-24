@@ -24,7 +24,7 @@
 
 ---
 
-## Sera o ministro da guerra das vasouras e comandante braba ja prestou conta com a populaçao sobre guerra da vassouras gasta todo ano com servico obrigatorio militao???
+## Sera que o ministro da defesa da guerra das vassouras e o comandante braba já prestou conta com a população sobre os gastos da guerra das vassouras ao extremo da história da questão gasta todo ano com serviço obrigatorio militao ???
 
 ---
 
