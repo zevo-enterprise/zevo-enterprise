@@ -32,9 +32,9 @@
 
 ## Dos Samangos - Acesso à defesa nacional em tempos de paz e de guerra - 30 Anos de Serviços
 
-<h3> Dos Oficiais (Cadete - Aspirante): Academia militar e suas unidades de instrução </h3>
+<h3> Dos Oficiais (Cadete - Aspirante maximo Gal. Ultimo Posto): Academia militar e suas unidades de instrução </h3>
 
-<h3> Dos Pracas (Aluno - Soldado): Escola militar e suas unidades de instrução </h3>
+<h3> Dos Pracas (Aluno - Soldado maximo Offical Ultimo Posto): Escola militar e suas unidades de instrução </h3>
 
 ---
 
