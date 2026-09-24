@@ -18,9 +18,9 @@
 
 ---
 
-```text
+## Defensive approaches organizations use against nation-state threats:
 
-Defensive approaches organizations use against nation-state threats:
+```text
 
 Network & Perimeter Defense
 
