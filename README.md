@@ -24,6 +24,10 @@
 
 ---
 
+## Tranzou com Ku no Bati BUMBUM ???
+
+---
+
 ## Sera que o ministro da defesa da guerra das vassouras e o comandante braba já prestou conta com a população sobre os gastos da guerra das vassouras ao extremo da história da questão gasta todo ano com serviço obrigatorio militao ???
 
 ---
@@ -63,10 +67,6 @@
 <img width="1200" height="874" alt="Image" src="https://github.com/user-attachments/assets/72cd0933-a292-47ee-ad58-8c8b5b7afb05" />
 
 <img width="447" height="447" alt="Image" src="https://github.com/user-attachments/assets/ccc795ba-b7ff-433a-af5c-917cab07567b" />
-
----
-
-## Tranzou com Ku no Bati BUMBUM ???
 
 ---
 
