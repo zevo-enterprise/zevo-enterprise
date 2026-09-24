@@ -6,6 +6,12 @@
 
 ## Zevo Bizu: How to manufacture your own legal firearm
 
+<h3>  First, request authorization from the responsible authority to manufacture your own firearm at home for personal defense. </h3>
+
+---
+
+<h3> Primeiro, solicite a autoridade responsável o direito de fabricar em sua casa sua propria arma em casa para defesa pessoal. </h3>
+
 ---
 
 <h3> It is every citizen's right to know how to use and to possess a registration firearm in their home for self-defense. </h3>
