@@ -22,8 +22,9 @@
 
 ## Tranzou com Ku no Bati BUMBUM ???
 
+---
 
-## < | > Davada - Dada < Vava | > DADA
+## < | > Davada - Dada < Va | Va > Dada
 
 ---
 
