@@ -26,7 +26,7 @@
 
 ## Da Bolsa Miseria para Bolsa Cooperação
 
-## Se eu fosse presidente, o primeiro passo seria muito simples: retornaríamos ao modelo cooperativista. A prioridade para o trabalho cooperativo seria dada a todos os beneficiários do *Bolsa Família*, com remuneração ajustada conforme uma tabela de cargos e salários; aqueles com condições severas — como deficientes visuais, pessoas com visão parcial e indivíduos com problemas gerais de mobilidade — receberiam um salário mínimo e teriam a aposentadoria concedida imediatamente.
+## Se eu fosse presidente, o primeiro passo seria muito simples: retornaríamos ao modelo cooperativista. A prioridade para o trabalho cooperativo seria dada a todos os beneficiários do *Bolsa Família*, com remuneração ajustada conforme uma tabela de cargos e salários; aqueles com condições severas — como deficientes visuais, pessoas com visão parcial severa e indivíduos com problemas gerais de mobilidade severa — receberiam um salário mínimo e teriam a aposentadoria concedida imediatamente.
 
 ---
 
