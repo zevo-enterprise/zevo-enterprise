@@ -34,7 +34,7 @@
 
 <h3>Quepes para todos os Pracas Militao</h3>
 
-<img width="516" height="387" alt="Image" src="https://github.com/user-attachments/assets/0f1b41fe-faff-4b02-945c-aace70dcd2d1" />
+<img width="518" height="592" alt="Image" src="https://github.com/user-attachments/assets/ae2727fb-9e62-4e8f-a415-1345defdae59" />
 
 ---
 
