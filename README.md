@@ -28,6 +28,10 @@
 
 ---
 
+## Cade o arbitro para marca a falta do funcionario publico canditado??? E se o arbitro deixar a bola rodar tendo sido falta, o que da para o arbitro que deixou a bola rolar quem marcar falta na area declarada no VAR, pelo TSE tambem tem constas a prestar com populacao sobre a falta na grande area que deixou de marcar sobre o funcionalismo publico que qer se eleitorar
+
+---
+
 ## Gostou Samango, Pau que da em chico, tambem bate em filho de francisco.
 
 ---
