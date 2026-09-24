@@ -40,7 +40,12 @@
 
 <h3> Deep Thing: 
 
+</br>
+
 At the Asshole's house, even a bazooka is allowed, but at the slaves' house, not even a slingshot is permitted—under the pretext that it could kill an asshole.
+
+
+</br>
 
 Na casa do babaca, até uma bazuca é permitida, mas na casa dos escravos, nem sequer um estilingue é autorizado — sob o pretexto de que poderia matar um babaca. 
 
