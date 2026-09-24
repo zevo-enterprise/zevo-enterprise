@@ -34,7 +34,7 @@
 
 ## Cade o Comandate BRABA para encaminhar ao STM o candidato para ser julgado, se condenado dois anos de gaiola e um chute na rabichola.
 
-## Eg: General BIXAO e CAPITAO CUZAO
+## Eg: General BIXAO e CAPITAO KUZAO
 
 ---
 
