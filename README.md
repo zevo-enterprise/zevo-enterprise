@@ -6,6 +6,12 @@
 
 ## Zevo Bizu: The Biggest Question
 
+<h3>Did they put an end to the discrimination against the *Shorts Militão*? </h3>
+
+<h3>Acabaram com a discriminação contra os Pracas Militão*? </h3>
+
+---
+
 </h3>They approved a work schedule for CLT employees that is the same as that of public servants???.</h3>
 
 <h3>Eles aprovaram um horário de trabalho para os funcionários regidos pela CLT igual ao dos servidores públicos???. </h3>
