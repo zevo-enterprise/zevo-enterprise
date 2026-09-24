@@ -28,11 +28,11 @@
 
 ---
 
-## Sera que o ministro da defesa da guerra das vassouras e o comandante braba já prestou conta com a população sobre os gastos da guerra das vassouras ao extremo da história da questão gasta todo ano com serviço obrigatorio militao ???
+## Sera que o ministro da defesa da guerra dos vassorao e o comandante braba já prestou conta com a população sobre os gastos da guerra das vassouras ao extremo da história da questão gasta todo ano com serviço obrigatorio militao ???
 
 ---
 
-## Sera que acabou a guerra das vasouras e dos cabos ??? É para deixar de existir o servico obrigado do diabo, que leva os jovens coitados para varrear o patio sem ter sido convidado ao extremo da história da questão.
+## Sera que acabou a guerra  vassorao ??? É para deixar de existir o servico obrigado do diabo, que leva os jovens coitados para varrear o patio sem ter sido convidado ao extremo da história da questão.
 
 ---
 
