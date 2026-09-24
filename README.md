@@ -6,8 +6,6 @@
 
 ## Zevo Bizu: We do not support the Baphomet scheme.
 
-<h3> ATTENTION HERE: IN GOD WE TRUST => IN BAPHOMET WE TRUST </h3>
-
 ---
 
 <h3> We don't back the Baphomet scheme; once you pick a fight with the "Green Side of the Force" and don't back down, it's a coffin and a shroud for the sucker—and if you don't like it, go fuck yourself.</h3>
@@ -19,6 +17,10 @@
 ---
 
 <h3> Commander Daua Defense Forces - Davada Beni Elohim/Zaita (Ex-King David)</h3>
+
+---
+
+<h3> ATTENTION HERE: IN GOD WE TRUST => IN BAPHOMET WE TRUST </h3>
 
 ---
 
