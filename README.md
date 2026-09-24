@@ -38,6 +38,17 @@
 
 ---
 
+
+<h3>  OBSERVATION HERE: 
+
+If the government cooperates, it will provide the 3D models of the authorized weapon.
+
+Se o governo colaborar, ele ira fornecer os modelos 3D da arma autorizada.
+
+<h3>
+
+---
+
 <h3> One - Second, after receiving government authorization, restart and complete the manufacturing process. </h3>
 
 <h3> Um - Em segundo lugar, após receber a autorização do governo, inicie e conclua o processo de fabricação. </h3>
