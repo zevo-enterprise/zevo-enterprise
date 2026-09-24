@@ -8,15 +8,15 @@
 
 ---
 
-<img width="900" height="648" alt="Image" src="https://github.com/user-attachments/assets/b2923b95-ed97-4c7b-90d2-84a3430aafbf" />
-
----
-
 ## Responsible: National Defense Security Forces
 
 <h3>How can a massive hacker attack by an adversary nation against a fixed target in another country be blocked? </h3>
 
 <h3> Response: Deny everything to the country opposition </h3>
+
+---
+
+<img width="900" height="648" alt="Image" src="https://github.com/user-attachments/assets/b2923b95-ed97-4c7b-90d2-84a3430aafbf" />
 
 ---
 
