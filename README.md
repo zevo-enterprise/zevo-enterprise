@@ -13,6 +13,10 @@
 <h3> Não apoiamos o esquema do Baphomet, abriu questão na dimensão questão contra o Lado verde da força e não saiu da questão é caixão e pano velado, para o otario, senao gostou vai tomar no rabo. </h3>
 
 ---
+
+<h3> Commander Daua Defense Forces - Davada Beni Elohim/Zaita</h3>
+
+---
 ---
 ---
 
