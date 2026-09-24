@@ -20,7 +20,7 @@
 
 ---
 
-<h3>Sera que eles sabem onde ficam os pontos sensiveis fixos dos fios, caso seja preciso de derrubar a conexao externas da revolucao dos bichos???</h3>
+<h3>Sera que eles sabem onde ficam os pontos sensiveis fixos dos fios, caso seja preciso derrubar a conexao externa da revolucao dos bichos???</h3>
 
 ---
 
