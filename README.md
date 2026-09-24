@@ -20,11 +20,11 @@
 
 ---
 
-## Tranzou com Ku no Bati BUMBUM ???
+## < | > Davada - Dada < Va | Va > Dada
 
 ---
 
-## < | > Davada - Dada < Va | Va > Dada
+## Tranzou com Ku no Bati BUMBUM ???
 
 ---
 
