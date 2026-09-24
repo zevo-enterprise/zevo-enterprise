@@ -28,7 +28,7 @@
 
 ---
 
-## Fico imaginando se o Ministro da Defesa e o Comandante Braba já prestaram contas com o povo da nação em público sobre os custos vultosos associados à "Guerra do Vassourão" — e a toda a saga em torno do serviço  obrigatório militão ao extremo da historia questao. ???
+## Fico imaginando se o Ministro da Defesa e o Comandante Braba já prestaram contas com o povo da nação em público na televisão sobre os custos vultosos associados à "Guerra do Vassourão" — e a toda a saga em torno do serviço obrigatório militão ao extremo da historia questao. ???
 
 ---
 
