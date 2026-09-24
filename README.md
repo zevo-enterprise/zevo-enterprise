@@ -6,7 +6,7 @@
 
 ## Zevo Bizu: The Biggest Question
 
-<h3>Did they put an end to the discrimination against the *Shorts Militão*? </h3>
+<h3>Did they put an end to the discrimination against the between Pracas Militao? </h3>
 
 <h3>Acabaram com a discriminação contra os Pracas Militão*? </h3>
 
@@ -35,6 +35,10 @@
 <h3>Quepes para todos os Pracas Militao</h3>
 
 <img width="518" height="592" alt="Image" src="https://github.com/user-attachments/assets/ae2727fb-9e62-4e8f-a415-1345defdae59" />
+
+<h3>Negona para todos os Pracas Militao</h3>
+
+<img width="591" height="173" alt="Image" src="https://github.com/user-attachments/assets/9044d813-3aca-476b-83cf-8eb909eb5222" />
 
 ---
 
