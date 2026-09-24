@@ -169,11 +169,12 @@ Prevention is partial. The practical goal is:
 ```
 ---
 
-```text
-
 ## Deep Dive: Submarine Cable Defense — All Three Angles
 
+```text
+
 1. LANDING STATION SECURITY
+
 Threat Model First
 
 Landing stations are where physical and cyber converge. Nation-state attack vectors:
