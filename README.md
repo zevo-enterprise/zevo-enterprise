@@ -6,6 +6,16 @@
 
 ## Zevo Bizu: How to manufacture your own legal firearm
 
+<h3> We don't back the Baphomet scheme; once you pick a fight with the "Green Side of the Force" and don't back down, it's a coffin and a shroud for the sucker—and if you don't like it, go fuck yourself.</h3>
+
+---
+
+<h3> Não apoiamos o esquema do Baphomet, abriu questão na dimensão questão contra o Lado verde da força e não saiu da questão é caixão e pano velado, para o otario, senao gostou vai tomar no rabo. </h3>
+
+---
+---
+---
+
 <h3> 0 - First, request authorization from the responsible authority to manufacture your own firearm at home for personal defense. </h3>
 
 <h3> 0 - Primeiro, solicite a autoridade responsável o direito de fabricar em sua casa sua propria arma em casa para defesa pessoal. </h3>
