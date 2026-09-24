@@ -8,10 +8,9 @@
 
 <h3>Don't forget to pay your professional social security.</h3>
 
----
-
 <h3>Não esqueca de pagar seu seguro social profissional.</h3>
 
+<img width="637" height="313" alt="Image" src="https://github.com/user-attachments/assets/c2688a5a-4e01-4776-a678-b1ea8447cee3" />
 
 ---
 
