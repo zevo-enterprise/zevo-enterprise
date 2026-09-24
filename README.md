@@ -34,6 +34,9 @@
 
 <h3> Dos Pracas (Aluno - Samango) : Escola Militar e suas unidades de instrução </h3>
 
+---
+
+"Samango" refere-se mais comumente a um macaco de floresta de pelagem escura encontrado no sul da África.
 
 ---
     
