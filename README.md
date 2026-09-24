@@ -8,6 +8,10 @@
 
 ---
 
+### Submarine Cable Map:  https://www.submarinecablemap.com/
+
+---
+
 ## Responsible: National Defense Security Forces
 
 <h3>How can a massive hacker attack by an adversary nation against a fixed target in another country be blocked? </h3>
