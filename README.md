@@ -8,9 +8,9 @@
 
 ---
 
-<h3>I oppose double taxation on anything whatsoever. </h3>
+<h3>I oppose double (Triple...) taxation on anything whatsoever. </h3>
 
-<h3>Sou contra a dupla tributação sobre qualquer coisa.</h3>
+<h3>Sou contra a dupla, (Tripla...) tributação sobre qualquer coisa.</h3>
 
 ---
 
