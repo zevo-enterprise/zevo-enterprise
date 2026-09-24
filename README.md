@@ -28,7 +28,7 @@
 
 ---
 
-## Pode sentar o cacete ao vivo na TV ao extremo da historia da QUESTAO O BRABA, pelo Senhor Zaita.
+## Pode sentar o cacete ao vivo na TV ao extremo da historia da QUESTAO no BRABA, pelo Caro Zaita.
 
 ---
 
