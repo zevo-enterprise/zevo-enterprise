@@ -14,7 +14,7 @@
 
 <h3> One - Second, after receiving government authorization, restart and complete the manufacturing process. </h3>
 
-<h3> Um - Em segundo lugar, após receber a autorização do governo, reinicie e conclua o processo de fabricação. </h3>
+<h3> Um - Em segundo lugar, após receber a autorização do governo, inicie e conclua o processo de fabricação. </h3>
 
 ---
 
