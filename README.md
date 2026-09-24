@@ -24,7 +24,7 @@
 
 ---
 
-## Tem muita arma massa uma cava a cova e outra a lasca para jogar dentro a merda amada
+## Tem muita arma massa uma cava a cova e outra a abriu a lasca para jogar dentro a merda amada
 
 <img width="554" height="554" alt="Image" src="https://github.com/user-attachments/assets/1ccdfa6a-595d-4d80-9373-8dfbec606ab8" />
 
