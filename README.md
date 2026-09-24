@@ -12,6 +12,20 @@
 
 ---
 
+<h3>That's why I vote::: 00000. </h3>
+
+<h3>Por isso eu voto::: 00000. </h3>
+
+---
+
+<h3> Continue votando neles.</h3>
+
+---
+
+<h3>Keep voting for them.</h3>
+
+---
+
 <h3>Sera que ja mudaram a legislacao para militacao ser associado e politacao de qualquer posto ou graduaçao mesmo tendo se reformado na historia da questão ???  </h3>
 
 ---
@@ -67,20 +81,6 @@
 </h3>They approved a work schedule for CLT employees that is the same as that of public servants???.</h3>
 
 <h3>Eles aprovaram um horário de trabalho para os funcionários regidos pela CLT igual ao dos servidores públicos???. </h3>
-
----
-
-<h3>That's why I vote::: 00000. </h3>
-
-<h3>Por isso eu voto::: 00000. </h3>
-
----
-
-<h3> Continue votando neles.</h3>
-
----
-
-<h3>Keep voting for them.</h3>
 
 ---
 
