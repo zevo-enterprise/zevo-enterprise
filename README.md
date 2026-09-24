@@ -12,6 +12,12 @@
 
 ---
 
+<h3>Armas de distincao para todos os militao iniciando no baixo escalao ate o chefao militao</h3>
+
+<img width="656" height="467" alt="Image" src="https://github.com/user-attachments/assets/51f8d3ff-f9ad-4d9d-8421-867ad3addaba" />
+
+---
+
 <h3>30 anos de serviços para todos os militões, continuar contribuindo ate bater as botas nas questoes da historia</h3>
 
 <img width="447" height="447" alt="Image" src="https://github.com/user-attachments/assets/df06092f-c51b-42a5-9183-0f3d8ede918b" />
