@@ -12,6 +12,10 @@
 
 ---
 
+<h3> E direito de todo cidadão saber fazer e ter a posse um arma de fogo legalizada em sua casa para defesa pessoal. </h3>
+
+---
+
 ## Zero Step: Making Sandbox Mold or Making 3D Mold
 
 ## One Step: Metal Aluminum Casting on Sandbox Mold or 3D Mold
