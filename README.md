@@ -16,7 +16,7 @@
 
 ---
 
-<h3> Commander Daua Defense Forces - Davada Beni Elohim/Zaita (Ex-King David)</h3>
+<h3> Commander Daua Defense Forces - Davada Beni Elohim/Zaita (Ex-King David Hebrew)</h3>
 
 ---
 
