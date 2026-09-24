@@ -6,6 +6,10 @@
 
 ## Zevo Bizu:
 
+</h3>They approved a work schedule for CLT employees that is the same as that of public servants.</h3>
+
+<h3>Eles aprovaram um horário de trabalho para os funcionários regidos pela CLT que é igual ao dos servidores públicos. </h3>
+
 ---
 
 <h3>That's why I vote::: 00000. </h3>
