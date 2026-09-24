@@ -8,7 +8,7 @@
 
 ---
 
-<h3> It is every citizen's right to know how to use and to possess a register firearm in their home for self-defense. </h3>
+<h3> It is every citizen's right to know how to use and to possess a registration firearm in their home for self-defense. </h3>
 
 ---
 
