@@ -32,7 +32,15 @@
 
 ---
 
-<h3> An old, painful issue: What are the names of Noah's sons? Shem, Ham, and Japheth. What is Semitism? It refers to those who favor the descendants of Shem. What is antisemitism? It refers to those who are against the descendants of Shem. <h3>
+## Razor on the Flesh 
+
+---
+
+## Navalha na carne
+
+---
+
+<h3> An old, painful issue: What are the names of Noah's sons? Shem, Ham, and Japheth. What is Semitism? It refers to those who favor the descendants of Shem. What is antisemitism? It refers to those who are against the descendants of Shem. ??? <h3>
 
 ---
 
@@ -40,19 +48,41 @@
 
 ---
 
-<h3> Existe alguém que, após quatro gerações, possa provar — utilizando documentos oficiais reconhecidos internacionalmente que remontam ao Crescente Fértil — que é legalmente reconhecido como descendente de Sem? </h3>
+<h3> Existe alguém que, após quatro gerações, possa provar — utilizando documentos oficiais reconhecidos internacionalmente que remontam ao Crescente Fértil — que é legalmente reconhecido como descendente de Sem??? </h3>
 
 ---
 
-<h3>Is there anyone who, after four generations, can prove—using internationally recognized official documents dating back to the Fertile Crescent—that they are legally recognized as a descendant of Shem? </h3>
+<h3>Is there anyone who, after four generations, can prove—using internationally recognized official documents dating back to the Fertile Crescent—that they are legally recognized as a descendant of Shem??? </h3>
 
 ---
 
-<h3> Can some school-based tribunal of illiterates—the kind that could turn a dog into a human—be taken seriously and considered of Semitic descent? </h3>
+<h3> Can any schoolyard tribunal made up of illiterates—who turn a dog into a human—be taken seriously and considered of Semitic descent??? </h3>
 
 --- 
  
-<h3> Algum tribunal trino escolar formado anafalbetos que transformar um cachorro em gente pode ser levado a seria e considerado semita descende?? </h3>
+<h3> Algum tribunal trino escolar formado por anafalbetos que transformam um cachorro em gente pode ser levado a serio e considerado descendes semita ???  </h3>
+
+---
+
+<h3> Since no one can prove descent from Shem beyond four generations, it cannot be asserted that there are those favored by Shem or those disfavored by Shem.</h3>
+
+---
+
+Since no one can prove descent from Shem beyond four generations, it cannot be asserted that there are those favored by Shem or those disfavored by Shem.
+
+---
+
+## < | > Davada - Dada < Va | Va > Dada = Davada Beni Zaita
+
+<h3>Da, Da, Da, Da seu pedir voce me dar...looping magic!!!</h3>
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
+
+<img width="1200" height="874" alt="Image" src="https://github.com/user-attachments/assets/72cd0933-a292-47ee-ad58-8c8b5b7afb05" />
+
+<img width="447" height="447" alt="Image" src="https://github.com/user-attachments/assets/ccc795ba-b7ff-433a-af5c-917cab07567b" />
 
 ---
 ---
@@ -111,20 +141,6 @@
 ## 1 - 2 - 3 - Guarda a vassoura, chama a lora e toma uma quiboa
 
 ## 1 - 2 - 3 - Guarda Terra, Guarda Agua, Guarda Ar não serve pra nada (Eueueueueu, vou embalaaa o venttto, commmm nnnanna dentro). MAAMAMA vouuu ppepeppe-dallalar aoaooao relellelto...
-
----
-
-## < | > Davada - Dada < Va | Va > Dada = Davada Beni Zaita
-
-<h3>Da, Da, Da, Da seu pedir voce me dar...looping magic!!!</h3>
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
-
-<img width="1200" height="874" alt="Image" src="https://github.com/user-attachments/assets/72cd0933-a292-47ee-ad58-8c8b5b7afb05" />
-
-<img width="447" height="447" alt="Image" src="https://github.com/user-attachments/assets/ccc795ba-b7ff-433a-af5c-917cab07567b" />
 
 ---
 
