@@ -24,7 +24,7 @@
 
 ---
 
-## Tranzou com Ku no Bati BUMBUM ???
+## Tranzou com Ku no BATI BUMBUM ???
 
 ---
 
