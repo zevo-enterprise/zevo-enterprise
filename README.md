@@ -22,6 +22,13 @@
 
 ## < | > Davada - Dada < Va | Va > Dada
 
+
+<h3>Da, Da, Da, Da seu pedir voce me dar...looping magic!!!</h3>
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
+
 ---
 
 ## Tranzou com Ku no Bati BUMBUM ???
