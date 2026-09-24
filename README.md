@@ -14,13 +14,19 @@
 
 ---
 
-<h3> Continue votando neles.</h3>
-
 <h3>Keep voting for them.</h3>
+
+<h3> Continue votando neles.</h3>
 
 ---
 
-## É so alfineda massa
+## É só alfineda massa
+
+---
+
+## Sera o ministro da guerra das vasouras e comandante braba ja prestou conta com a populaçao sobre guerra da vassouras gasta todo ano com servico obrigatorio militao???
+
+---
 
 ## Sera que acabou a guerra das vasouras e dos cabos ??? É para deixar de existir o servico obrigado do diabo, que leva os jovens coitados para varrear o patio sem ter sido convidado...
 
