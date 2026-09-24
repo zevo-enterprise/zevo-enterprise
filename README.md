@@ -28,7 +28,7 @@
 
 ---
 
-## Pode alfinetar na televisão ao vivo ao extremo da Historia da QUESTOA O BABA, pelo Senhor Zaita.
+## Pode sentar o cacete ao vivo na TV ao extremo da historia da QUESTAO O BRABA, pelo Senhor Zaita.
 
 ---
 
