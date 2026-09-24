@@ -20,7 +20,19 @@
 
 ---
 
+## It's just the dough.
+
+---
+
 ## É só alfineda massa
+
+---
+
+<h3> An old, painful issue: What are the names of Noah's sons? Shem, Ham, and Japheth. What is Semitism? It refers to those who favor the descendants of Shem. What is antisemitism? It refers to those who are against the descendants of Shem. <h3>
+
+---
+
+<h3> Uma questão antiga e dolorosa: quais são os nomes dos filhos de Noé? Sem, Cam e Jafé. O que é semitismo? Refere-se àqueles que favorecem os descendentes de Sem. O que é antissemitismo? Refere-se àqueles que são contra os descendentes de Sem. </h3>
 
 ---
 
