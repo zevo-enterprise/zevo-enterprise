@@ -39,11 +39,17 @@
 ---
 
 
-<h3>  OBSERVATION HERE: 
+<h3>  
+    
+OBSERVATION HERE: 
 
-If the government cooperates, it will provide the 3D models of the authorized weapon.
+---
 
-Se o governo colaborar, ele ira fornecer os modelos 3D da arma autorizada.
+If the government cooperates, it will provide the 3D models for the authorized weapon; if it doesn't, it will tell you to go buy a gun from some asshole.
+
+---
+
+If the government cooperates, it will provide the 3D models for the authorized weapon; if it doesn't, it will tell you to go buy a gun from some asshole.
 
 <h3>
 
