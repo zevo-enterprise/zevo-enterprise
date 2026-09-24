@@ -8,13 +8,13 @@
 
 ---
 
-<h3> Reference: https://www.youtube.com/shorts/rBM9ua4FdeE?feature=share <h3>
+## Zero Step: Making Sandbox Mold or Making 3D Mold
+
+## One Step: Metal Aluminum Casting on Sandbox Mold or 3D Mold
 
 ---
 
-## Zero Step: Making Mold on Sandbox or Making Mold on 3D Mold
-
-## One Step: Metal Casting on Mold
+<h3> Reference: https://www.youtube.com/shorts/rBM9ua4FdeE?feature=share <h3>
 
 ---
 
