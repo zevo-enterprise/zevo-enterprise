@@ -28,7 +28,7 @@
 
 ## 1 - 2 - 3 - Guarda a vassoura, chama a lora e toma uma quiboa
 
-## 1 - 2 - 3 - Guada Terra, Guarda Agua, Guarda Ar não serve pra nada 
+## 1 - 2 - 3 - Guarda Terra, Guarda Agua, Guarda Ar não serve pra nada (Eueueueueu, vou embalaaa o venttto, commmm nnnanna dentro)
 
 ---
 
