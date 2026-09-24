@@ -14,13 +14,13 @@
 
 ---
 
-<h3>Sera que o ouro preto, esta sendo extraido, refinado e distruibudio pelo dono do ouro negro ou ja entregaram tudo ao bandido???? </h3>
-
----
-
 <h3> Continue votando neles.</h3>
 
 <h3>Keep voting for them.</h3>
+
+---
+
+<h3>Será que o "ouro negro" está sendo extraído, refinado e distribuído pelo próprio dono do "ouro negro", ou será que já entregaram tudo para o bandido????</h3>
 
 ---
 
