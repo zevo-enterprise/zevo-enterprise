@@ -20,6 +20,10 @@
 
 ---
 
+<h3>Sera que o KURRIDAO NORMAL DO CORONAL E SUBAO E ATE TRINTAO??? E OS BICHAO DENTRO DO TEMPAO CHEGAO ATE MILITAO NA HISTORIA DE QUESTÃO</h3>
+
+---
+
 <h3>Did they put an end to the discrimination against the between Pracas Militao? </h3>
 
 <h3>Acabaram com a discriminação contra os Pracas Militão*? </h3>
