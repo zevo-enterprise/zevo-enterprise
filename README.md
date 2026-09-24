@@ -6,15 +6,21 @@
 
 ## Zevo Bizu: How to manufacture your own legal firearm
 
-<h3> 0 - Zero, request authorization from the responsible authority to manufacture your own firearm at home for personal defense. </h3>
+<h3> 0 - First, request authorization from the responsible authority to manufacture your own firearm at home for personal defense. </h3>
 
-<h3> Zero, solicite a autoridade responsável o direito de fabricar em sua casa sua propria arma em casa para defesa pessoal. </h3>
+<h3> 0 - Primeiro, solicite a autoridade responsável o direito de fabricar em sua casa sua propria arma em casa para defesa pessoal. </h3>
 
 ---
 
 <h3> One - Second, after receiving government authorization, restart and complete the manufacturing process. </h3>
 
 <h3> Um - Em segundo lugar, após receber a autorização do governo, inicie e conclua o processo de fabricação. </h3>
+
+---
+
+<h3>  Two - Third, apply for the firearms registration and complete the government-offered training course to operate the manufactured weapon. </h3>
+
+<h3> Dois - Em terceiro lugar, solicite o registro da arma de fogo e conclua o curso de treinamento oferecido pelo governo para operar a arma fabricada. </h3>
 
 ---
 
