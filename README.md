@@ -8,11 +8,11 @@
 
 ---
 
-<h3> We don't back the Baphomet scheme; once you pick a fight with the "Green Side of the Force" and don't back down, it's a coffin and a shroud for the sucker—and if you don't like it, go fuck yourself.</h3>
+<h3> We don't back the Baphomet scheme; once you pick a fight with the "Green Side of the Force - (ADONAI TZEVAOT and ALL SOLDIERS)" and don't back down, it's a coffin and a shroud for the sucker—and if you don't like it, go fuck yourself.</h3>
 
 ---
 
-<h3> Não apoiamos o esquema do Baphomet, abriu questão na dimensão da questão contra o lado verde da força (ADONAI TZEVAOT and ALL SOLDIERS) e não saiu da questão é caixão e pano velado, para o otario, senao gostou vai tomar no rabo. </h3>
+<h3> Não apoiamos o esquema do Baphomet, abriu questão na dimensão da questão contra o lado verde da força (ADONAI TZEVAOT e TODOS OS SOLDADOS) e não saiu da questão é caixão e pano velado, para o otario, senao gostou vai tomar no rabo. </h3>
 
 ---
 
