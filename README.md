@@ -18,7 +18,7 @@
 
 ---
 
-<h3>Bandejas para todos os Pracas Militao</h3>
+<h3>Bandejão para todos os Pracas Militao</h3>
 
 <img width="613" height="488" alt="Image" src="https://github.com/user-attachments/assets/51f38b87-9bb2-4138-9d17-b5843bcffa99" />
 
