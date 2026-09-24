@@ -24,7 +24,7 @@
 
 ---
 
-## SE FOSSE O PRESIDENTE, PRIMEIRO EU,EU,EU DEPOIS QUEM PAGAR MELHOR PELO QUE É MEU, ELES MANDAM O MELHOR PARA CASA DO KARAI E BOSTA CARA FICA PARA OS TEM CARA PANACA ???
+## Se eu fosse o presidente, seria eu, eu e eu e só depois quem pagar o melhor preço pelo que é meu. Eles mandam o que há de melhor para casa do KARAI e os otarios pagando caro para comer a bosta do bafo.
 
 ---
 
