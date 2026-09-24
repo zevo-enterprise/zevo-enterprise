@@ -14,6 +14,10 @@
 
 ---
 
+<h3>Sera que o ouro preto, esta sendo extraido, refinado e distruibudio pelo dono do ouro negro ou ja entregaram tudo ao bandido???? </h3>
+
+---
+
 <h3> Continue votando neles.</h3>
 
 <h3>Keep voting for them.</h3>
