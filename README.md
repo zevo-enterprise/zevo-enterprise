@@ -25,7 +25,7 @@
 
 ---
 
-## Arma produzida na PRUSSIA MILITAO AO EXTREMO DE HISTORIA DA QUESTAO, SU VOSSA EXCELENCIA O COMANDATE RABA
+## Arma produzida na PRUSSIA MILITAO AO EXTREMO DA HISTORIA DA QUESTAO, SU VOSSA EXCELENCIA O COMANDATE RABAO
 
 <img width="569" height="351" alt="Image" src="https://github.com/user-attachments/assets/0bf16a9f-3216-495d-b741-035663be1a58" />
 
