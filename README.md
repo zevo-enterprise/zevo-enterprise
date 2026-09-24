@@ -28,12 +28,11 @@
 
 <h3>Se eu fosse presidente, primeiro passo decreto nacional desmobilizado as forças armadas, pois de acordo com a constituição elas devem existir apenas em tempos de guerra, imediatamente todos os militares sem execução passaram a fazer parte das forças de segurança nacionais de do ministerio da defesa nacional, em tempos de paz em tempos de guerra, o ministério da defesa nacional será imediatamente transformado no ministerio da guerra, que devera ser desmobilizado ao fim da guerra. </h3>
 
-## Dos Samangos - Sobre o acesso à defesa nacional em tempos de paz e de guerra
+## Dos Samangos - Acesso à defesa nacional em tempos de paz e de guerra - 30 Anos de Serviços
 
-<h3> Dos oficiais (Cadete - Aspirante): Academia Militar e suas unidades de instrução </h3>
+<h3> Dos Oficiais (Cadete - Aspirante): Academia militar e suas unidades de instrução </h3>
 
-<h3> Dos Pracas (Aluno -  Soldados) : Escola Militar e suas unidades de instrução </h3>
-
+<h3> Dos Pracas (Aluno - Soldado) : Escola militar e suas unidades de instrução </h3>
 ---
 
 ## "Samango" refere-se mais comumente a um macaco de floresta de pelagem escura encontrado no sul da África.
