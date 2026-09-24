@@ -32,6 +32,16 @@
 
 ## Zevo Bizu: How to manufacture your own legal firearm
 
+---
+
+<h3>Mosquito-killing project - Projeto mata mosquito </h3>
+
+---
+
+<img width="783" height="391" alt="Image" src="https://github.com/user-attachments/assets/de9d4879-6151-4240-b1fe-00236c92039a" />
+
+---
+
 <h3> 0 - First, request authorization from the responsible authority to manufacture your own firearm at home for personal defense. </h3>
 
 <h3> 0 - Primeiro, solicite a autoridade responsável o direito de fabricar em sua casa sua propria arma em casa para defesa pessoal. </h3>
