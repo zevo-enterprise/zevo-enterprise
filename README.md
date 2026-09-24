@@ -45,11 +45,11 @@ OBSERVATION HERE:
 
 ---
 
-If the government cooperates, it will provide the 3D models for the authorized weapon; if it doesn't, it will tell you to go buy a gun from some asshole.
+If the government cooperates, it will provide the 3D models for the authorized weapon; if it doesn't, it will tell you to go buy a gun from house baba.
 
 ---
 
-If the government cooperates, it will provide the 3D models for the authorized weapon; if it doesn't, it will tell you to go buy a gun from some asshole.
+Se o governo cooperar, fornecerá os modelos 3D da arma autorizada, senão coperar ele ira dizer para voce ir comprar um arma na casa do babaca
 
 <h3>
 
