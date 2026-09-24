@@ -24,6 +24,12 @@
 
 ---
 
+## Da Defesa Nacional
+
+<h3>Se eu fosse presidente, primeiro passo decreto nacional desmobilizado as forças armadas, pois de acordo com a constituição elas devem existir apenas em tempos de guerra, imediatamente todos os militares sem execução passaram a fazer parte das forças de segurança nacionais de do ministerio da defesa nacional, em tempos de paz em tempos de guerra, o ministério da defesa nacional será imediatamente transformado no ministerio da guerra, que devera ser desmobilizado ao fim da guerra. </h3>
+
+---
+    
 ## Da Responsabilidade da Pauta a ser votada
 
 <h3>Se eu fosse presidente, denunciaria publicamente — em rede nacional de televisão — os responsáveis ​​por barrar a pauta de equiparação entre o regime de trabalho regido pela CLT e o do setor público; afinal, é o trabalhador em geral que paga os salários dos servidores públicos. Portanto, quem paga por 40 horas de trabalho tem o direito de trabalhar apenas 40 horas — com exceção dos servidores das forças de segurança nacional, que atuam em regime de escala e estão vinculados por um dever de lealdade à sua instituição.</h3>
