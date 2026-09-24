@@ -68,7 +68,15 @@
 
 ---
 
-Since no one can prove descent from Shem beyond four generations, it cannot be asserted that there are those favored by Shem or those disfavored by Shem.
+<h3> Since no one can prove descent from Shem beyond four generations, it cannot be asserted that there are those favored by Shem or those disfavored by Shem. </h3>
+
+---
+
+# Antisemitism does not exist.
+
+---
+
+# NÃO EXISTE ANTISSEMITISMO
 
 ---
 
