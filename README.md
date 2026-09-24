@@ -48,11 +48,11 @@
 
 ---
 
-<h3> Existe alguém que, após quatro gerações, possa provar — utilizando documentos oficiais reconhecidos internacionalmente que remontam ao Crescente Fértil — que é legalmente reconhecido como descendente de Sem??? </h3>
+<h3>Is there anyone who, after four generations, can prove—using internationally recognized official documents dating back to the Fertile Crescent—that they are legally recognized as a descendant of Shem??? </h3>
 
 ---
 
-<h3>Is there anyone who, after four generations, can prove—using internationally recognized official documents dating back to the Fertile Crescent—that they are legally recognized as a descendant of Shem??? </h3>
+<h3> Existe alguém que, após quatro gerações, possa provar — utilizando documentos oficiais reconhecidos internacionalmente que remontam ao Crescente Fértil — que é legalmente reconhecido como descendente de Sem??? </h3>
 
 ---
 
@@ -68,7 +68,7 @@
 
 ---
 
-<h3> Since no one can prove descent from Shem beyond four generations, it cannot be asserted that there are those favored by Shem or those disfavored by Shem. </h3>
+<h3> Visto que ninguém consegue comprovar a descendência de Sem além de quatro gerações, não se pode afirmar que existam pessoas favorecidas ou desfavorecidas por Sem. </h3>
 
 ---
 
