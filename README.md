@@ -18,6 +18,10 @@
 
 <img width="447" height="447" alt="Image" src="https://github.com/user-attachments/assets/9d12c75e-70d5-4746-b600-14127d2ddfab" />
 
+<h3>Bandejas para todos os Pracas Militao</h3>
+
+<img width="613" height="488" alt="Image" src="https://github.com/user-attachments/assets/51f38b87-9bb2-4138-9d17-b5843bcffa99" />
+
 ---
 
 </h3>They approved a work schedule for CLT employees that is the same as that of public servants???.</h3>
