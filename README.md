@@ -6,10 +6,6 @@
 
 ## Zevo Bizu: The Biggest Question
 
-<h3>Did they put an end to the discrimination against the between Pracas Militao? </h3>
-
-<h3>Acabaram com a discriminação contra os Pracas Militão*? </h3>
-
 ---
 
 <h3>That's why I vote::: 00000. </h3>
@@ -20,9 +16,13 @@
 
 <h3> Continue votando neles.</h3>
 
+<h3>Keep voting for them.</h3>
+
 ---
 
-<h3>Keep voting for them.</h3>
+<h3>Did they put an end to the discrimination against the between Pracas Militao? </h3>
+
+<h3>Acabaram com a discriminação contra os Pracas Militão*? </h3>
 
 ---
 
