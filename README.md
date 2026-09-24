@@ -1,3 +1,9 @@
+## Try to capture me, here and commander Davada Beni Elohim - Zaita
+
+<h3> Put my name on the blacklist, Davada Beni Elohim, because your name is on my list of the dead. </h3>
+
+---
+
 ## Zevo AI-Driven Mascot Team™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
