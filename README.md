@@ -6,7 +6,7 @@
 
 ## Zevo Bizu: We do not support the Baphomet scheme.
 
-<h3> IN BAPHOMET WE TRUST => IN BAPHOMET WE TRUST </h3>
+<h3> ATTENTION HERE: IN GOD WE TRUST => IN BAPHOMET WE TRUST </h3>
 
 <h3> <img width="1225" height="523" alt="Image" src="https://github.com/user-attachments/assets/581ece67-0354-4e42-98fd-d6e3cb19838c" /> </h3>
 
