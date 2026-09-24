@@ -32,10 +32,10 @@
 
 <h3> Dos Oficiais (Cadete - Aspirante): Academia militar e suas unidades de instrução </h3>
 
-<h3> Dos Pracas (Aluno - Soldado) : Escola militar e suas unidades de instrução </h3>
+<h3> Dos Pracas (Aluno - Soldado): Escola militar e suas unidades de instrução </h3>
 ---
 
-## "Samango" refere-se mais comumente a um macaco de floresta de pelagem escura encontrado no sul da África.
+## "Samango" refere-se mais comumente a um macaco da floresta de pelagem escura encontrado no sul da África.
 
 ---
     
