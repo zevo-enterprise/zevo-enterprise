@@ -28,6 +28,11 @@
 
 <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/550487a7-1cd3-4465-83cd-3f505b7fd018" />
 
+<h3>Verdão para todos os Pracas Militao</h3>
+
+
+<img width="450" height="444" alt="Image" src="https://github.com/user-attachments/assets/1fb2a5db-4a6f-48be-ba7c-352c72032fb6" />
+
 ---
 
 </h3>They approved a work schedule for CLT employees that is the same as that of public servants???.</h3>
