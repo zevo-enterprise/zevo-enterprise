@@ -28,7 +28,7 @@
 
 ---
 
-## Gostou Samango, Pau que da chico, tambem bate em filho de francisco.
+## Gostou Samango, Pau que da em chico, tambem bate em filho de francisco.
 
 ---
 
