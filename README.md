@@ -26,7 +26,7 @@
 
 ## Da Responsabilidade da Pauta a ser votada
 
-<h3>Se eu fosse presidente, denunciaria publicamente — em rede nacional de televisão — os responsáveis ​​por barrar a pauta de equiparação entre o regime de trabalho regido pela CLT e o do setor público; afinal, é o trabalhador comum quem paga os salários dos servidores públicos. Portanto, quem paga por 40 horas de trabalho tem o direito de trabalhar apenas 40 horas — com exceção dos servidores das forças de segurança nacional, que atuam em regime de escala e estão vinculados por um dever de lealdade à sua instituição.</h3>
+<h3>Se eu fosse presidente, denunciaria publicamente — em rede nacional de televisão — os responsáveis ​​por barrar a pauta de equiparação entre o regime de trabalho regido pela CLT e o do setor público; afinal, é o trabalhador em geral que paga os salários dos servidores públicos. Portanto, quem paga por 40 horas de trabalho tem o direito de trabalhar apenas 40 horas — com exceção dos servidores das forças de segurança nacional, que atuam em regime de escala e estão vinculados por um dever de lealdade à sua instituição.</h3>
 
 ---
 
