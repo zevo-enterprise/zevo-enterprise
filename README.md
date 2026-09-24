@@ -34,7 +34,7 @@
 
 <h3> Dos Oficiais (Cadete - Aspirante maximo Gal. Ultimo Posto): Academia militar e suas unidades de instrução </h3>
 
-<h3> Dos Pracas (Aluno - Soldado maximo Offical Ultimo Posto): Escola militar e suas unidades de instrução </h3>
+<h3> Dos Pracas (Aluno - Soldado maximo Offical Ultimo Posto (Capiroto): Escola militar e suas unidades de instrução </h3>
 
 ---
 
