@@ -12,7 +12,7 @@
 
 ---
 
-<h3>30 anos de serviços para todos os militões, continuar contribuindo ate bater as botas</h3>
+<h3>30 anos de serviços para todos os militões, continuar contribuindo ate bater as botas nas questoes da historia</h3>
 
 <img width="447" height="447" alt="Image" src="https://github.com/user-attachments/assets/df06092f-c51b-42a5-9183-0f3d8ede918b" />
 
