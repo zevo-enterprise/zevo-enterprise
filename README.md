@@ -22,6 +22,7 @@
 
 ## < | > Davada - Dada < Va | Va > Dada
 
+<img width="447" height="447" alt="Image" src="https://github.com/user-attachments/assets/ccc795ba-b7ff-433a-af5c-917cab07567b" />
 
 <h3>Da, Da, Da, Da seu pedir voce me dar...looping magic!!!</h3>
 
