@@ -20,6 +20,10 @@
 
 ---
 
+<h3>Sera que eles sabem onde ficam os pontos sensiveis fixos dos fios, caso seja preciso de derrubar a conexao externas da revolucao dos bichos???</h3>
+
+---
+
 <h3>Sera que o KURRIDAO NORMAL DO CORONAL E SUBAO E ATE TRINTAO ??? E OS BICHAO DENTRO DO TEMPAO CHEGAO ATE MILITAO NA HISTORIA DE QUESTÃO ??? Aos 45 estao cuidado desde os trintas do fios ???? </h3>
 
 ---
