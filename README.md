@@ -4,6 +4,17 @@
 
 ---
 
+## Zevo Bizu: 
+
+<h3>Don't forget to pay your professional social security.</h3>
+
+---
+
+<h3>Não esqueca de pagar seu seguro social profissional.</h3>
+
+
+---
+
 ## Zevo Bizu: We do not support the Baphomet scheme.
 
 ---
