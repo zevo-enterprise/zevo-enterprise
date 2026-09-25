@@ -1,6 +1,6 @@
 ## Daua Security Forces - Cybersecurity Exercise Guardian
 
-<h3> Cybersecurity Capture the Flag (CTF) - Green Team - OK - PASSED </h3>
+<h3> Cybersecurity Capture the Flag (CTF) - Red Team - OK - PASSED </h3>
 
 ---
 
