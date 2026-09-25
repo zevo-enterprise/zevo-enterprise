@@ -1,5 +1,9 @@
 ## Daua Security Forces - Cybersecurity Exercise Guardian
 
+<h3> Military Uniform Digital Camouflage - Correctness - OK - PASSED </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7f5f4c57-e8f5-48db-8b83-db9657350d65" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0617e658-f994-4711-9137-2b24c1f490cc" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6197308b-777f-4556-b58f-8dea39c874c6" />
