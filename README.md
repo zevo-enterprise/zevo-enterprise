@@ -1,3 +1,9 @@
+## Who were the identified terrorists who hijacked the aircraft, or was it controlled?
+
+## Neusa's station is a submarine featuring a zero-gravity compartment; it is the room of lies.
+
+---
+
 ## Quem foram os Terroristas identificados que sequestram as aeronaves no bairro, ou era controlado??? 
 
 ## A estacao da neusa é um submarino que tem um compartimento com zero gravidade, é sala da mentira
