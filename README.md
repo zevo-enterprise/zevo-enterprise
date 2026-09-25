@@ -28,15 +28,15 @@
 
 ---
 
-## TANTZ BATI BUMBUM 
-
----
-
 ## Razor on the Flesh 
 
 ---
 
 ## Navalha na carne
+
+---
+
+## TANTZ BATI BUMBUM 
 
 ---
 
