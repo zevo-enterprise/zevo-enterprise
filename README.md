@@ -1,5 +1,7 @@
 ## Daua Security Forces - Cybersecurity Exercise Guardian
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0617e658-f994-4711-9137-2b24c1f490cc" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6197308b-777f-4556-b58f-8dea39c874c6" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3bed7d78-e4ee-4c48-9fee-ac9b4d06e196" />
