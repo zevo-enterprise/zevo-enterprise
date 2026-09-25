@@ -6,6 +6,10 @@
 
 ## Daua Security Forces - Cybersecurity Exercise Guardian
 
+## Marines Corps - Cybersecurity Capture the Flag (CTF) - Supervisor - OK 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fef61a4c-c8d2-4ed5-918b-f3e9da602b01" />
+
 ## Satellite Cybersecurity Capture the Flag (CTF) - Supervisor - OK 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/32c58a82-d890-450c-ae88-839f8d290055" />
