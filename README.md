@@ -8,15 +8,21 @@
 
 ---
 
+### Deepseek chat for reference only
+
+<h3>Reference: https://chat.deepseek.com/sign_in</h3>
+
+---
+
 ### Fedora 44, It's Your Operating System
 
 <h3>Reference: https://fedoraproject.org/ </h3>
 
 ---
 
-### Deepseek chat for reference only
+### Advanced Micro Devices (AMD) 
 
-<h3>Reference: https://chat.deepseek.com/sign_in</h3>
+<h3>Reference: https://www.amd.com/ </h3>
 
 ---
 
