@@ -16,7 +16,7 @@
 
 ### For Panicats Mamaocica - Dassy d'Fatima - Cacao Show Caatinga
 
-### Cade a BBS no mainframe na antiga ajudancia geral do fabio bananal, e namorado da catita.
+### Cade a BBS no mainframe na antiga ajudancia geral do fabio bananal, e namorado da catita estrelada da caatinga mestrada.
 
 ---
 
