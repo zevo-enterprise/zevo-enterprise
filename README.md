@@ -8,10 +8,6 @@
 
 ---
 
-## TANTZ BATI BUMBUM 
-
----
-
 <h3>That's why I vote::: 00000. </h3>
 
 <h3>Por isso eu voto::: 00000. </h3>
@@ -29,6 +25,10 @@
 ---
 
 ## É só alfineda massa
+
+---
+
+## TANTZ BATI BUMBUM 
 
 ---
 
