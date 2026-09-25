@@ -1,3 +1,9 @@
+## Hey, "Caveirão" Robocop—do you love your family or the coffin? Where are the balaclava and ballistic helmet in this picture?
+
+## Ei ROBOCOP do CAVEIRAO, tu amas a famia ou caixao, cade a balaclave e o capacete balistico na questão??? 
+
+---
+
 ## Where is KAIDURO? He has been judged globally by the UN. ???
 
 ## Onde está KAIDURO? Ele foi julgado globalmente pela ONU. ???
