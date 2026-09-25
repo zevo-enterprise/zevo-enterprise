@@ -4,6 +4,10 @@
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e929eef-ea9e-44c8-bf62-1fdc8eaa4951" />
+
+---
+
 <h3> Military Uniform Jungle Digital Camouflage - Correctness - OK - PASSED </h3>
 
 ---
