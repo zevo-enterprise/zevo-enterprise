@@ -1,6 +1,6 @@
 ## Where is KAIDURO? He has been judged globally by the UN. ???
 
-## Cade o KAIDURO, foi julgado globalmente pela ONU ???
+## Onde está KAIDURO? Ele foi julgado globalmente pela ONU. ???
 
 ---
 
