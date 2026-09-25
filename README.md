@@ -42,9 +42,13 @@
 
 ## Será que eles precisam da galha florescida ??? Tem muita gente no passado que foi engalhado !!!
 
+## Do they need the flowering branch??? There are plenty of people from the past who got "branched"!!!!!!
+
 ---
 
-## Do they need the flowering branch??? There are plenty of people from the past who got "branched"!!!!!!
+## Quem quebra galho é samango gordo
+
+## Only a fat cop breaks branches.
 
 ---
 
