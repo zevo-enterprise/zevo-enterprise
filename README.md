@@ -14,12 +14,6 @@
 
 ---
 
-### For Panicats Mamaocica - Dassy d'Fatima - Cacao Show Caatinga
-
-### Cade a BBS no mainframe na antiga ajudancia geral do fabio bananal, e namorado da catita estrelada da maestrada.
-
----
-
 <h3> If you are starting from scratch, how can you begin developing AI-based applications? Step Zero: Install Fedora 44 Workstation and the Eclipse IDE CDT, and configure the environment for ANSI C89/90 using imperative programming (with standard `/* ... */` comments). Step One: Begin by implementing deterministic algorithms (Expert Systems) and then move on to non-deterministic algorithms (Neural Networks). For example, start with fuzzy logic, incorporating Shannon Entropy and Mamdani inference; then, advance to Neuro-Fuzzy Logic—specifically recurrent neural networks—and continue pushing the boundaries of unifying fuzzy logic with neural networks. </h3>
 
 ---
