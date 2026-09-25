@@ -8,7 +8,7 @@
 
 ---
 
-## Tranzou com Ku no BATI BUMBUM ???
+## Tanz com Ku no BATI BUMBUM ???
 
 ---
 
@@ -37,6 +37,14 @@
 ---
 
 ## Navalha na carne
+
+---
+
+## Será que eles precisam da galha florescida ??? Tem muita gente no passado que foi engalhado !!!
+
+---
+
+## Do they need the flowering branch??? There are plenty of people from the past who got "branched"!!!!!!
 
 ---
 
