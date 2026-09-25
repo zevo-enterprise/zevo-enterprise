@@ -14,15 +14,15 @@
 
 ---
 
-### Eclipse Foundation
-
-<h3> Reference: https://projects.eclipse.org/projects/tools.cdt </h3>
-
----
-
 ### GCC, the GNU Compiler Collection
 
 <h3> Reference: https://gcc.gnu.org/ </h3>
+
+---
+
+### Eclipse Foundation
+
+<h3> Reference: https://projects.eclipse.org/projects/tools.cdt </h3>
 
 ---
 
