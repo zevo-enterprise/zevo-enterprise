@@ -4,6 +4,12 @@
 
 ---
 
+### Zevo Sponsored: Zevo AI-Driven Space EV Car 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b3fe681-8a79-4949-8b5a-5171a93af3d8" />
+
+---
+
 ### Zevo Bizu: Zevo App: AI-Driven Application Service on Fedora 44
 
 ---
