@@ -4,6 +4,16 @@
 
 ---
 
+## < | > Davada - Dada < Va | Va > Dada = Davada Beni Zaita
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
+
+<img width="1200" height="874" alt="Image" src="https://github.com/user-attachments/assets/72cd0933-a292-47ee-ad58-8c8b5b7afb05" />
+
+<img width="447" height="447" alt="Image" src="https://github.com/user-attachments/assets/ccc795ba-b7ff-433a-af5c-917cab07567b" />
+
+---
+
 ## Zevo Bizu: The Biggest Question 
 
 ---
@@ -89,20 +99,6 @@
 ---
 
 # O Semitismo não existe e antissemitismo também não.
-
----
-
-## < | > Davada - Dada < Va | Va > Dada = Davada Beni Zaita
-
-<h3>Da, Da, Da, Da seu pedir voce me dar...looping magic!!!</h3>
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b67b662b-a1d0-4a70-b8b8-46d1d28e9098" />
-
-<img width="1200" height="874" alt="Image" src="https://github.com/user-attachments/assets/72cd0933-a292-47ee-ad58-8c8b5b7afb05" />
-
-<img width="447" height="447" alt="Image" src="https://github.com/user-attachments/assets/ccc795ba-b7ff-433a-af5c-917cab07567b" />
 
 ---
 ---
