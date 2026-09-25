@@ -1,6 +1,6 @@
-## Zevo AI-Driven Mascot Team™
+## Daua Security Forces - Cybersecurity Exercise Guardian
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3bed7d78-e4ee-4c48-9fee-ac9b4d06e196" />
 
 ---
 
@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Zevo AI-Driven Mascot Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c1f0142-4fd6-4ec4-87e5-24d580906591" />
+
+---
 
 ## Zevo Technologies Enterprise Company™
 
