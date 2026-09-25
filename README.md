@@ -1,3 +1,7 @@
+## A crime against any country is geographically limited to its designated land, sea, and airspace. Regarding acts on foreign soil, it falls to the country to investigate; absent a treaty, if the case is adjudicated by the UN—and provided the accused is convicted following due process and the judgment becomes final—imprisonment is carried out by the UN in a designated UN legal facility.
+
+## O crime contra quaquer pais limita-se nacionalmente nas terras, mar e ar desterminados. Em solo estrageiro, cabe aos pais investigar, se não houver tratado, se julgado o caso pela ONU, e se condenado com direito de defesa e o transitado em julgado ser engaiolado pela ONU, em local da ONU destinado e jurídico.
+
 ## Where is KAIDURO? He has been judged globally by the UN. ???
 
 ## Cade o KAIDURO, foi julgado globalmente pela ONU ???
