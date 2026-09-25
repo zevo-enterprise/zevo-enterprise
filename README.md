@@ -20,6 +20,12 @@
 
 ---
 
+### GNU Libmicrohttpd
+
+<h3> Reference: https://www.gnu.org/software/libmicrohttpd/ </h3>
+
+---
+
 ### Eclipse Foundation
 
 <h3> Reference: https://projects.eclipse.org/projects/tools.cdt </h3>
