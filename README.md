@@ -1,4 +1,4 @@
-## Zevo Bizu: Zevo AI-Driven Service App (Dassy Fatima Panicats Mamaocica)
+### Zevo Bizu: Zevo AI-Driven Service App (Panicats Mamaocica - Dassy d'Fatima)
 
 <h3> If you are starting from scratch, how can you begin developing AI-driven applications? Step Zero: Install Fedora 44 Workstation and Eclipse IDE CDT, and use ANSI C89/90 with imperative programming (including standard /* ... */ comments). First Step: Begin by implementing deterministic algorithms, then progress further—for instance, start with fuzzy logic incorporating Shannon Entropy and Mamdani inference, then move on to Neural Fuzzy Logic (specifically neural mesh networks), and keep pushing the boundaries. </h3>
 
