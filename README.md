@@ -48,7 +48,7 @@
 
 ## Quem quebra galho é samango gordo
 
-## Only a fat cop breaks branches.
+## Only a fat samango breaks branches.
 
 ---
 
