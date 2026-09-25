@@ -36,7 +36,7 @@
 
 ---
 
-<h3>Se você está começando do zero, como pode iniciar o desenvolvimento de aplicações baseadas em IA? Passo Zero: Instale o Fedora 44 Workstation e a IDE Eclipse CDT e configure o ambiente para ANSI C89/90, utilizando programação imperativa com vetores e blocos de comentários padrão `/* ... */`. Passo Um: Comece implementando algoritmos determinísticos (Sistemas Especialistas) e, em seguida, passe para algoritmos não determinísticos (Redes Neurais em Malha). Por exemplo, inicie com lógica difusa (*fuzzy logic*), incorporando a Entropia de Shannon e a Inferência de Mamdani; depois, avance para a Lógica Neural em Malha — especificamente redes neurais recorrentes — e continue expandindo os limites ao unificar a lógica difusa com redes neurais recorrentes em malha. Assim que a aplicação estiver concluída, instale-a como um serviço de aplicação no Fedora Server 44. </h3>
+<h3>Se você está começando do zero, como pode iniciar o desenvolvimento de aplicações baseadas em IA? Passo Zero: Instale o Fedora 44 Workstation e a IDE Eclipse CDT e configure o ambiente para ANSI C89/90, utilizando programação imperativa com vetores e blocos de comentários padrão `/* ... */`. Passo Um: Comece implementando algoritmos determinísticos (Sistemas Especialistas) e, em seguida, passe para algoritmos não determinísticos (Redes Neurais em Malha). Por exemplo, inicie com lógica difusa (*fuzzy logic*), incorporando a Entropia de Shannon e a Inferência de Mamdani; depois, avance para a redes neural em malha, continue expandindo os limites ao unificar a lógica difusa com regras e factos com redes neurais em malha. Assim que a aplicação estiver concluída, instale-a como um serviço de aplicação no Fedora Server 44. </h3>
 
 ---
 
