@@ -1,14 +1,8 @@
-## Brazilian Dessert
-
-## Cajá mousse is a light, tropical Brazilian dessert made by blending the sweet-and-sour pulp of the cajá fruit with condensed milk, heavy cream, and gelatin.
-
-## OIA, O TAMAIN DA ROLA DE PAPAI
-
----
-
 ## Daua Security Forces - Cybersecurity Exercise Guardian
 
 ## Marines Corps - Cybersecurity Capture the Flag (CTF) - Supervisor - OK 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6226ce89-f16f-45e4-9834-a18ba4daf3af" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fef61a4c-c8d2-4ed5-918b-f3e9da602b01" />
 
