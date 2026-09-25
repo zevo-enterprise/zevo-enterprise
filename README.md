@@ -14,6 +14,8 @@
 
 ## Marines Corps - Cybersecurity Capture the Flag (CTF) - Supervisor - OK 
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e73ba79a-2d71-4732-9255-9a0cd432b928" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cdfcceac-28ec-497f-936c-df75567ec608" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3dcde6f0-6ddf-47cf-8a1c-6b664901dc06" />
