@@ -4,7 +4,7 @@
 
 ---
 
-### Zevo Bizu: Zevo App AI-Driven Service 
+### Zevo Bizu: Zevo App AI-Driven Service on Fedora 44
 
 ### For Panicats Mamaocica - Dassy d'Fatima - Cacao Show Caatinga
 
