@@ -4,7 +4,7 @@
 
 ---
 
-### Zevo Bizu: Zevo App AI-Driven Service on Fedora 44
+### Zevo Bizu: Zevo App AI-Driven Service on Fedora 44 using Deepseek for reference only
 
 ### For Panicats Mamaocica - Dassy d'Fatima - Cacao Show Caatinga
 
@@ -14,7 +14,7 @@
 
 ---
 
-<h3>  Se você está começando do zero, como pode iniciar o desenvolvimento de aplicações baseadas em IA? Passo Zero: Instale o Fedora 44 Workstation e o Eclipse IDE CDT, e configure o ambiente para ANSI C89/90 utilizando uma linguagem de programação imperativa (com comentários padrão `/* ... */`). Primeiro Passo: Comece implementando algoritmos determinísticos (Sistemas Especialistas) e, em seguida, passe para algoritmos não determinísticos (Redes Neurais). Por exemplo, inicie com lógica difusa (*fuzzy logic*) incorporando a Entropia de Shannon e a inferência de Mamdani; depois, avance para a Lógica Neuro-Fuzzy — especificamente redes neurais em malha — e continue expandindo os limites. </h3>
+<h3>  Se você está começando do zero, como pode iniciar o desenvolvimento de aplicações baseadas em IA? Passo Zero: Instale o Fedora 44 Workstation e o Eclipse IDE CDT, e configure o ambiente para ANSI C89/90 utilizando uma linguagem de programação imperativa em ANSI C89/90 (com comentários padrão `/* ... */`). Primeiro Passo: Comece implementando algoritmos determinísticos (Sistemas Especialistas) e, em seguida, passe para algoritmos não determinísticos (Redes Neurais). Por exemplo, inicie com lógica difusa (*fuzzy logic*) incorporando a Entropia de Shannon e a inferência de Mamdani; depois, avance para a Lógica Neuro-Fuzzy — especificamente redes neurais em malha — e continue expandindo os limites. </h3>
 
 ---
 
