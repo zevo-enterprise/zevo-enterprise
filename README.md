@@ -1,3 +1,9 @@
+## Where is KAIDURO? He has been judged globally by the UN. ???
+
+## Cade o KAIDURO, foi julgado globalmente pela ONU ???
+
+---
+
 ## Who were the identified terrorists who hijacked the aircraft, or was it controlled ???
 
 ## Neusa's station is a submarine featuring a zero-gravity compartment; it is the room of lies. ???
