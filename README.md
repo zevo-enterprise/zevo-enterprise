@@ -1,5 +1,5 @@
 
-## A estacao da neusa é um submarino tem um compartimento zero gravidade
+## A estacao da neusa é um submarino que tem um compartimento com zero gravidade
 
 ## Daua Security Forces - Cybersecurity Exercise Guardian
 
