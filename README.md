@@ -1,6 +1,6 @@
 ## Daua Security Forces - Cybersecurity Exercise Guardian
 
-## Satellite Cybersecurity Capture the Flag (CTF) - Verification - OK - PASSED </h3>
+## Satellite Cybersecurity Capture the Flag (CTF) - Verification - OK 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/763dcf7a-19c9-4bc7-a049-3a79f015fa49" />
 
