@@ -1,14 +1,12 @@
 ## Daua Security Forces - Cybersecurity Exercise Guardian
 
-## Between any Centers and Centers 
-
-<h3> Cybersecurity Capture the Flag (CTF) - Green Team - OK - PASSED </h3>
-
----
-
 ## Satellite Cybersecurity Capture the Flag (CTF)
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/763dcf7a-19c9-4bc7-a049-3a79f015fa49" />
+
+## Between any Centers and Centers 
+
+<h3> Cybersecurity Capture the Flag (CTF) - Green Team - OK - PASSED </h3>
 
 ---
 
