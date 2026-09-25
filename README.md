@@ -6,13 +6,13 @@
 
 ## It’s wonderful when a bearded guy sets a misguided precedent—and great for banging a naughty ass.
 
-## E maravilhoso quando um barbado abre um precedente equivocado, e otimo para trasar com rabo safado.
+## É maravilhoso quando um cara barbudo abre um precedente equivocado — e ótimo para comer uma bunda safada.
 
 ---
 
 ## A crime against any country is geographically limited to its designated land, sea, and airspace. Regarding acts on foreign soil, it falls to the country to investigate; absent a treaty, if the case is adjudicated by the UN—and provided the accused is convicted following due process and the judgment becomes final—imprisonment is carried out by the UN in a designated UN legal facility.
 
-## O crime contra quaquer pais limita-se nacionalmente nas terras, mar e ar desterminados. Em solo estrageiro, cabe aos pais investigar, se não houver tratado, se julgado o caso pela ONU, e se condenado com direito de defesa e o transitado em julgado ser engaiolado pela ONU, em local da ONU destinado e jurídico.
+## Um crime contra qualquer país limita-se geograficamente ao seu território terrestre, marítimo e aéreo. Quanto a atos praticados em solo estrangeiro, cabe ao respectivo país conduzir a investigação; na ausência de tratado, caso o caso seja julgado pela ONU — e desde que o acusado seja condenado após o devido processo legal e a sentença transite em julgado —, o cumprimento da pena de prisão ocorre em instalação legal designada pela própria ONU.
 
 ---
 
