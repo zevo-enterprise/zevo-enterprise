@@ -16,13 +16,15 @@
 
 ### For Panicats Mamaocica - Dassy d'Fatima - Cacao Show Caatinga
 
----
-
-<h3> If you are starting from scratch, how can you begin developing AI-driven applications? Step Zero: Install Fedora 44 Workstation and Eclipse IDE CDT, and set up ANSI C89/90 using an imperative programming language (with standard `/* ... */` comments). First Step: Begin by implementing deterministic algorithms (Expert Systems), then move on to non-deterministic algorithms (Neural). For example, start with fuzzy logic incorporating Shannon Entropy and Mamdani inference, then advance to Neural Fuzzy Logic—specifically neural mesh networks—and keep pushing the boundaries. </h3>
+### Cade a BBS no mainframe na antiga ajudancia geral do fabio bananal
 
 ---
 
-<h3>  Se você está começando do zero, como pode iniciar o desenvolvimento de aplicações baseadas em IA? Passo Zero: Instale o Fedora 44 Workstation e o Eclipse IDE CDT, e configure o ambiente para ANSI C89/90 utilizando uma linguagem de programação imperativa em ANSI C89/90 (com comentários padrão `/* ... */`). Primeiro Passo: Comece implementando algoritmos determinísticos (Sistemas Especialistas) e, em seguida, passe para algoritmos não determinísticos (Redes Neurais). Por exemplo, inicie com lógica difusa (*fuzzy logic*) incorporando a Entropia de Shannon e a inferência de Mamdani; depois, avance para a Lógica Neuro-Fuzzy — especificamente redes neurais em malha — e continue expandindo os limites. </h3>
+<h3> If you are starting from scratch, how can you begin developing AI-based applications? Step Zero: Install Fedora 44 Workstation and the Eclipse IDE CDT, and configure the environment for ANSI C89/90 using imperative programming (with standard `/* ... */` comments). Step One: Begin by implementing deterministic algorithms (Expert Systems) and then move on to non-deterministic algorithms (Neural Networks). For example, start with fuzzy logic, incorporating Shannon Entropy and Mamdani inference; then, advance to Neuro-Fuzzy Logic—specifically recurrent neural networks—and continue pushing the boundaries. </h3>
+
+---
+
+<h3>Se você está começando do zero, como pode iniciar o desenvolvimento de aplicações baseadas em IA? Passo Zero: Instale o Fedora 44 Workstation e o Eclipse IDE CDT, e configure o ambiente para ANSI C89/90 utilizando programação imperativa em ANSI C89/90 (com comentários padrão `/* ... */`). Primeiro Passo: Comece implementando algoritmos determinísticos (Sistemas Especialistas) e, em seguida, passe para algoritmos não determinísticos (Redes Neurais). Por exemplo, inicie com lógica difusa (*fuzzy logic*) incorporando a Entropia de Shannon e a inferência de Mamdani; depois, avance para a Lógica Neuro-Fuzzy — especificamente redes neurais em malha — e continue expandindo os limites. </h3>
 
 ---
 
