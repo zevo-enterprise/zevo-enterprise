@@ -4,6 +4,12 @@
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7d3a03fb-b3ef-4f6b-9186-c0856aec044d" />
+
+<h3> Cybersecurity Capture the Flag (CTF) - Green Team - OK - PASSED </h3>
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e929eef-ea9e-44c8-bf62-1fdc8eaa4951" />
 
 ---
