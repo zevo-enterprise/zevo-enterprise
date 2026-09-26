@@ -1305,9 +1305,9 @@
  *     The complete source code, build system, deployment
  *     artifacts, and container images are available at:
  *
- *         https://example.org/zevo
+ *         https://github.com/zevo-enterprise
  *
- *     Licensed under the MIT License.
+ *     Licensed under the GNU License.
  *
  * ================================================================ */
 ```
