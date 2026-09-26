@@ -2,7 +2,7 @@
 
 ---
 
-<h3> NOTE: Not used remote inter-process communication; this concept applies exclusively to communication between hosts within the same segment of a geographically distributed cloud computing infrastructure that functions as a unified host.</h3>
+<h3> NOTE: Not used remote inter-process communication (RIPC); this concept applies exclusively to communication between hosts within the same segment of a geographically distributed cloud computing infrastructure that functions as a unified host.</h3>
 
 ---
 
