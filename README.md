@@ -1,4 +1,4 @@
-## Zevo Academic Exercise
+## Zevo Pinprick: Academic Exercise
 
 ---
 
