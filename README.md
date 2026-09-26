@@ -4,28 +4,6 @@
 
 ---
 
-### Zevo AI-Driven EV - Luxury Car
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d6cc33b4-78e6-4e7a-ab88-4d49a9463242" />
-
----
-
-### Zevo Sponsored: Zevo AI-Driven Space EV Car 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b3fe681-8a79-4949-8b5a-5171a93af3d8" />
-
----
-
-### Zevo Sponsored: Electrical Vehicles Turbofan
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5b4f4e1d-f0d8-47b6-804c-7396cae6c877" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bfa3f980-31d3-4c48-b99a-51dc991871c2" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb8a451a-85ec-4122-a197-8f099354ed07" />
-
----
-
 ### Zevo Bizu: Zevo App: AI-Driven Application Service on Fedora 44
 
 ---
