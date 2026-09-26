@@ -4,6 +4,12 @@
 
 ---
 
+### Zevo Luxury AI-Driven EV Car
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d6cc33b4-78e6-4e7a-ab88-4d49a9463242" />
+
+---
+
 ### Zevo Sponsored: Zevo AI-Driven Space EV Car (Electrical Turbofan) 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b3fe681-8a79-4949-8b5a-5171a93af3d8" />
