@@ -1,6 +1,6 @@
 ## Zevo Academic Exercise
 
-#### Academic Paper: ZEVO — An Exclusive Fuzzy-Neural Engine for AI-Driven Application Services With Secure Cryptographic API Key Authentication for External Expert System Consumers and Web Dashboard Integration
+#### Academic Paper: An Exclusive Fuzzy-Neural Engine for Zevo AI-Driven Application Services With Secure Cryptographic API Key Authentication for External Expert System Consumers and Web Dashboard Integration
 
 ---
 
