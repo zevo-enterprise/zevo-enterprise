@@ -1,5 +1,11 @@
 ## Zevo Academic Exercise
 
+---
+
+<h3>NOTE: Remote inter-process communication is not used; this concept applies exclusively to communication between hosts on the same segment of a geographically distributed cloud computing infrastructure, but with a unified host.</h3>
+
+---
+
 #### Academic Paper: An Exclusive Fuzzy-Neural Engine for Zevo AI-Driven Application Services With Secure Cryptographic API Key Authentication for External Expert System Consumers and Web Dashboard Integration
 
 ---
