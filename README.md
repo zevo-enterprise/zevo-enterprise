@@ -4,7 +4,7 @@
 
 ---
 
-### Zevo Sponsored: Zevo AI-Driven Space EV Car (ELECTRIC TURBO FAN) 
+### Zevo Sponsored: Zevo AI-Driven Space EV Car (Electrical Turbofan) 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b3fe681-8a79-4949-8b5a-5171a93af3d8" />
 
