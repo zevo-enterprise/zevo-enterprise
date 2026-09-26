@@ -22,6 +22,8 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bfa3f980-31d3-4c48-b99a-51dc991871c2" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb8a451a-85ec-4122-a197-8f099354ed07" />
+
 ---
 
 ### Zevo Bizu: Zevo App: AI-Driven Application Service on Fedora 44
