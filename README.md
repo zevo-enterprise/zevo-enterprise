@@ -4,54 +4,6 @@
 
 ---
 
-### Zevo Bizu: Zevo App: AI-Driven Application Service on Fedora 44
-
----
-
-<h3> If you are starting from scratch, how can you begin developing AI-based applications? Step Zero: Install Fedora 44 Workstation and the Eclipse CDT IDE, and configure the environment for ANSI C89/90 using imperative programming with vectors and standard `/* ... */` comment blocks. Step One: Start by implementing deterministic algorithms (Expert Systems) and then move on to non-deterministic algorithms (Neural Mesh Networks). For example, begin with fuzzy logic, incorporating Shannon Entropy and Mamdani Inference; then, advance to Neural Mesh Network Logic—specifically recurrent neural mesh networks—and continue pushing boundaries by unifying fuzzy logic with rules and facts and neural mesh networks. Once the application is complete, install it as an application service on Fedora Server 44. </h3>
-
----
-
-<h3>Se você está começando do zero, como pode iniciar o desenvolvimento de aplicações baseadas em IA? Passo Zero: Instale o Fedora 44 Workstation e a IDE Eclipse CDT e configure o ambiente para ANSI C89/90, utilizando programação imperativa com vetores e blocos de comentários padrão `/* ... */`. Passo Um: Comece implementando algoritmos determinísticos (Sistemas Especialistas) e, em seguida, passe para algoritmos não determinísticos (Redes Neurais em Malha). Por exemplo, inicie com lógica difusa (*fuzzy logic*), incorporando a Entropia de Shannon e a Inferência de Mamdani; depois, avance para a redes neural em malha, continue expandindo os limites ao unificar a lógica difusa com regras e factos com redes neurais em malha. Assim que a aplicação estiver concluída, instale-a como um serviço de aplicação no Fedora Server 44. </h3>
-
----
-
-### Deepseek chat for reference only
-
-<h3>Reference: https://chat.deepseek.com/sign_in</h3>
-
----
-
-### GCC, the GNU Compiler Collection
-
-<h3> Reference: https://gcc.gnu.org/ </h3>
-
----
-
-### GNU Libmicrohttpd
-
-<h3> Reference: https://www.gnu.org/software/libmicrohttpd/ </h3>
-
----
-
-### Eclipse Foundation
-
-<h3> Reference: https://projects.eclipse.org/projects/tools.cdt </h3>
-
----
-
-### Fedora 44, It's Your Operating System
-
-<h3>Reference: https://fedoraproject.org/ </h3>
-
----
-
-### Advanced Micro Devices (AMD) 
-
-<h3>Reference: https://www.amd.com/ </h3>
-
----
-
 <!--
 **zevo-enterprise/zevo-enterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -190,6 +142,54 @@ Here are some ideas to get you started:
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/963eee7b-483c-475f-811b-be948c326cf0" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ded871a7-f10a-44d8-8e66-09ffd9a0d4fa" />
+
+---
+
+### Zevo Bizu: Zevo App: AI-Driven Application Service on Fedora 44
+
+---
+
+<h3> If you are starting from scratch, how can you begin developing AI-based applications? Step Zero: Install Fedora 44 Workstation and the Eclipse CDT IDE, and configure the environment for ANSI C89/90 using imperative programming with vectors and standard `/* ... */` comment blocks. Step One: Start by implementing deterministic algorithms (Expert Systems) and then move on to non-deterministic algorithms (Neural Mesh Networks). For example, begin with fuzzy logic, incorporating Shannon Entropy and Mamdani Inference; then, advance to Neural Mesh Network Logic—specifically recurrent neural mesh networks—and continue pushing boundaries by unifying fuzzy logic with rules and facts and neural mesh networks. Once the application is complete, install it as an application service on Fedora Server 44. </h3>
+
+---
+
+<h3>Se você está começando do zero, como pode iniciar o desenvolvimento de aplicações baseadas em IA? Passo Zero: Instale o Fedora 44 Workstation e a IDE Eclipse CDT e configure o ambiente para ANSI C89/90, utilizando programação imperativa com vetores e blocos de comentários padrão `/* ... */`. Passo Um: Comece implementando algoritmos determinísticos (Sistemas Especialistas) e, em seguida, passe para algoritmos não determinísticos (Redes Neurais em Malha). Por exemplo, inicie com lógica difusa (*fuzzy logic*), incorporando a Entropia de Shannon e a Inferência de Mamdani; depois, avance para a redes neural em malha, continue expandindo os limites ao unificar a lógica difusa com regras e factos com redes neurais em malha. Assim que a aplicação estiver concluída, instale-a como um serviço de aplicação no Fedora Server 44. </h3>
+
+---
+
+### Deepseek chat for reference only
+
+<h3>Reference: https://chat.deepseek.com/sign_in</h3>
+
+---
+
+### GCC, the GNU Compiler Collection
+
+<h3> Reference: https://gcc.gnu.org/ </h3>
+
+---
+
+### GNU Libmicrohttpd
+
+<h3> Reference: https://www.gnu.org/software/libmicrohttpd/ </h3>
+
+---
+
+### Eclipse Foundation
+
+<h3> Reference: https://projects.eclipse.org/projects/tools.cdt </h3>
+
+---
+
+### Fedora 44, It's Your Operating System
+
+<h3>Reference: https://fedoraproject.org/ </h3>
+
+---
+
+### Advanced Micro Devices (AMD) 
+
+<h3>Reference: https://www.amd.com/ </h3>
 
 ---
 
