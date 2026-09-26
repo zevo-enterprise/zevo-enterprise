@@ -4,7 +4,7 @@
 
 ---
 
-### Zevo Luxury AI-Driven EV Car
+### Zevo AI-Driven EV - Luxury Car
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d6cc33b4-78e6-4e7a-ab88-4d49a9463242" />
 
