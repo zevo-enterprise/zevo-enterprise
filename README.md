@@ -16,7 +16,7 @@
 
 ---
 
-### Zevo Sponsored: Electrical Vechicle Turbofan
+### Zevo Sponsored: Electrical Vehicle Turbofan
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5b4f4e1d-f0d8-47b6-804c-7396cae6c877" />
 
